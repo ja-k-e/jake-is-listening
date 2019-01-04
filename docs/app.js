@@ -69,22 +69,18 @@ function appTemplate() {
     <nav>
       <ul>
         <li><a :href="'#' + breadcrumbs.prev" v-if="breadcrumbs.prev">{{ breadcrumbs.prev }}</a></li>
-        <li><strong>VOL {{ breadcrumbs.curr }}</strong></li>
+        <li><strong>{{ breadcrumbs.curr }}</strong></li>
         <li><a :href="'#' + breadcrumbs.next" v-if="breadcrumbs.next">{{ breadcrumbs.next }}</a></li>
       </ul>
     </nav>
     <section v-if="currentVolume">
-      <!-- <h2>VOL {{ currentVolume.volume }}</h2> -->
       <article v-for="entry in currentVolume.entries">
-        <div class="header">
-          <div class="image" :style="{ 'background-image': backgroundImage(entry.image) }"></div>
-        </div>
         <div class="body">
           <iframe
             :src="uriToEmbedUrl(entry.embed_uri)"
             :key="'iframe-' + entry.embed_uri"
             width="300"
-            height="80"
+            height="300"
             frameborder="0"
             allowtransparency="true"
             allow="encrypted-media"

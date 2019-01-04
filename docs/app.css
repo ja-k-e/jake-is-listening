@@ -23,6 +23,17 @@ h1 {
   padding-top: 4rem;
   line-height: 1;
 }
+header {
+  text-align: left;
+  width: 300px;
+  margin: 0 auto;
+}
+@media (min-width: 700px) {
+  header {
+    width: 100%;
+    text-align: center;
+  }
+}
 
 h2 {
   margin: 1rem 0 0;
@@ -33,33 +44,23 @@ h3 {
   margin: 1rem 0 0;
 }
 
-h1 + p + p {
-  margin-bottom: 4rem;
+header a {
+  text-decoration-style: dotted;
 }
 
 p {
   margin: 0;
 }
 
-.image,
 iframe {
   background: #222;
-}
-
-.image {
-  width: 100%;
-  height: 0;
-  padding-bottom: 100%;
-  position: relative;
-  background-size: cover;
-  background-position: center;
 }
 
 main section {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 700px) {
   main section {
     display: flex;
     flex-wrap: wrap;
@@ -86,6 +87,7 @@ main article {
 main article .body {
   font-size: 0.9rem;
   line-height: 1.4;
+  text-align: left;
 }
 main article p.description {
   margin: 0.5rem 0;
@@ -113,24 +115,6 @@ main article .body .links a.logo svg {
 main article .body .links span + span {
   margin-left: 0.5rem;
 }
-@media (min-width: 700px) {
-  main article {
-    width: calc(600px + 1rem);
-    display: flex;
-  }
-  main article .body {
-    margin-left: 1rem;
-    text-align: left;
-  }
-  main article .body iframe {
-    margin-top: 0;
-  }
-  main article .header,
-  main article .body,
-  main article .footer {
-    width: 300px;
-  }
-}
 
 nav ul {
   list-style: none;
@@ -139,10 +123,17 @@ nav ul {
   display: flex;
   justify-content: center;
   align-content: center;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1;
 }
 
+@media (max-width: 699px) {
+  nav {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 @media (min-width: 700px) {
   nav ul {
     font-size: 2rem;
@@ -173,24 +164,24 @@ nav li:last-child:not(:empty)::after {
 }
 
 nav li:first-child:not(:empty) a {
-  padding-left: 20px;
+  padding-left: 16px;
   padding-right: 10px;
   left: 0;
   text-align: left;
 }
 nav li:last-child:not(:empty) a {
   padding-left: 10px;
-  padding-right: 20px;
+  padding-right: 16px;
   right: 0;
   text-align: right;
 }
 nav li:first-child:not(:empty)::before {
   content: "‹";
-  left: 8px;
+  left: 0;
 }
 nav li:last-child:not(:empty)::after {
   content: "›";
-  right: 8px;
+  right: 0;
 }
 
 nav ul li {
