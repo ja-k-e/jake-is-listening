@@ -3,6 +3,62 @@
     "volume": "1901",
     "entries": [
       {
+        "artist": "Tsegué-Maryam Guèbrou",
+        "album": "Éthiopiques 21: Piano Solo",
+        "track": "The Homeless Wanderer",
+        "image": "https://img.discogs.com/20G6A6BBcyWgaFjtE3xPabCybZ0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1174982-1500458757-4634.jpeg.jpg",
+        "links": [
+          {
+            "title": "BBC Programme",
+            "url": "https://www.bbc.co.uk/programmes/b08mb1ft"
+          },
+          {
+            "title": "Emahoy Music Foundation",
+            "url": "http://www.emahoymusicfoundation.org/"
+          },
+          {
+            "title": "Discogs",
+            "url": "https://www.discogs.com/Tsegu%C3%A9-Maryam-Gu%C3%A8brou-%C3%89thiopiques-21-Piano-Solo/release/1174982"
+          },
+          {
+            "title": "Apple",
+            "url": "https://itunes.apple.com/us/album/%C3%A9thiopiques-vol-21-piano-solo/113757995"
+          },
+          {
+            "title": "Spotify",
+            "url": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk?si=_IpyVGiHRvCYpIgxtN66yQ"
+          },
+          {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou"
+          }
+        ],
+        "embed_uri": "spotify:track:1NUdV2Lc7e2sbC14T7kG4q",
+        "description": "Emahoy is a nun...and a genius."
+      },
+      {
+        "artist": "Madvillain",
+        "album": "Madvillainy",
+        "track": "All Caps",
+        "image": "https://img.discogs.com/WxPQzrIegpuWDicMoxIx1y0UKNo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-239980-1290094126.jpeg.jpg",
+        "links": [
+          {
+            "title": "Apple",
+            "url": "https://itunes.apple.com/us/album/madvillainy/887699504"
+          },
+          {
+            "title": "Discogs",
+            "url": "https://www.discogs.com/Madvillain-Madvillainy/master/8554"
+          },
+          {
+            "title": "Spotify",
+            "url": "https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax"
+          }
+        ],
+        "embed_uri": "spotify:track:1Y2ExJJ9Dmb9po8K0ybSj3",
+        "description": "Remember all caps when you spell the man name...and when you write down THE BEST SONG OF ALL TIME."
+      },
+      {
         "artist": "Noname",
         "album": "Song 31",
         "track": "Song 31 (feat. Phoelix)",
@@ -58,7 +114,7 @@
           },
           {
             "title": "Discogs",
-            "url": "https://www.discogs.com/Omega-10000-L%C3%A9p%C3%A9s/release/1397470"
+            "url": "https://www.discogs.com/Omega-10000-L%C3%A9p%C3%A9s/master/182564"
           },
           {
             "title": "Spotify",
@@ -89,7 +145,7 @@
           },
           {
             "title": "Discogs",
-            "url": "https://www.discogs.com/Jay-Dee-Fuck-The-Police/release/344738"
+            "url": "https://www.discogs.com/Jay-Dee-Fuck-The-Police/master/500310"
           },
           {
             "title": "Spotify",
@@ -111,7 +167,7 @@
         "links": [
           {
             "title": "Discogs",
-            "url": "https://www.discogs.com/release/2797546"
+            "url": "https://www.discogs.com/American-Indian-American-Indian-Dances/master/902710"
           },
           {
             "title": "Spotify",
@@ -159,7 +215,7 @@
           },
           {
             "title": "Discogs",
-            "url": "https://www.discogs.com/Various-Eccentric-Soul-The-Saru-Label/release/11634643"
+            "url": "https://www.discogs.com/Various-Eccentric-Soul-The-Saru-Label/master/1336820"
           },
           {
             "title": "Spotify",
@@ -181,7 +237,7 @@
           },
           {
             "title": "Discogs",
-            "url": "https://www.discogs.com/Dur-Dur-Band-Volume-5/release/4403230"
+            "url": "https://www.discogs.com/Dur-Dur-Band-Volume-5/master/556646"
           },
           {
             "title": "Spotify",
