@@ -1,0 +1,13 @@
+{
+  "name": "jake-is-listening-to",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jake Albaugh <jake.albaugh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonminify": "^0.4.1"
+  },
+  "scripts": {
+    "publish": "node index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
+  }
+}
