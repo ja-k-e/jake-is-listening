@@ -1,0 +1,205 @@
+html,
+body {
+  background: #000;
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: #101010;
+  background: linear-gradient(to bottom, #161616, #000);
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
+
+h1 {
+  margin: 0 0 0.5rem;
+  font-size: 4rem;
+  padding-top: 4rem;
+  line-height: 1;
+}
+
+h2 {
+  margin: 1rem 0 0;
+  font-size: 3rem;
+}
+
+h3 {
+  margin: 1rem 0 0;
+}
+
+h1 + p + p {
+  margin-bottom: 4rem;
+}
+
+p {
+  margin: 0;
+}
+
+.image,
+iframe {
+  background: #222;
+}
+
+.image {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+}
+
+main section {
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 1400px) {
+  main section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  }
+  main section h2 {
+    flex-basis: 100%;
+    width: 100%;
+  }
+  main section article,
+  main section article + article {
+    margin-top: 2rem;
+  }
+  main section article {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+main article {
+  width: 300px;
+  margin: 2rem auto 0;
+}
+main article .body {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+main article p.description {
+  margin: 0.5rem 0;
+}
+main article p.artist {
+  color: #999;
+}
+main article .body iframe {
+  display: block;
+  margin: 1rem auto;
+}
+main article .body .links a.logo {
+  width: 20px;
+  display: inline-block;
+}
+main article .body .links a.text {
+  line-height: 2;
+  text-decoration-style: dotted;
+}
+main article .body .links a.logo svg {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+main article .body .links span + span {
+  margin-left: 0.5rem;
+}
+@media (min-width: 700px) {
+  main article {
+    width: calc(600px + 1rem);
+    display: flex;
+  }
+  main article .body {
+    margin-left: 1rem;
+    text-align: left;
+  }
+  main article .body iframe {
+    margin-top: 0;
+  }
+  main article .header,
+  main article .body,
+  main article .footer {
+    width: 300px;
+  }
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 3rem 0 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+@media (min-width: 700px) {
+  nav ul {
+    font-size: 2rem;
+  }
+}
+
+nav li:first-child:not(:empty),
+nav li:last-child:not(:empty) {
+  position: relative;
+}
+
+nav li:first-child:not(:empty) a,
+nav li:last-child:not(:empty) a {
+  position: absolute;
+  top: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  -webkit-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+nav li:first-child:not(:empty)::before,
+nav li:last-child:not(:empty)::after {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  z-index: 9;
+}
+
+nav li:first-child:not(:empty) a {
+  padding-left: 20px;
+  padding-right: 10px;
+  left: 0;
+  text-align: left;
+}
+nav li:last-child:not(:empty) a {
+  padding-left: 10px;
+  padding-right: 20px;
+  right: 0;
+  text-align: right;
+}
+nav li:first-child:not(:empty)::before {
+  content: "‹";
+  left: 0;
+}
+nav li:last-child:not(:empty)::after {
+  content: "›";
+  right: 0;
+}
+
+nav ul li {
+  width: 33.3333%;
+  max-width: calc(200px + 0.33rem);
+  text-align: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  display: block;
+}

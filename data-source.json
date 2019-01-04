@@ -3,35 +3,40 @@
     "volume": "1901",
     "entries": [
       {
+        "artist": "Lee Moses",
+        "album": "Time and Place",
+        "track": "Bad Girl Parts 1 & 2",
+        "image": "https://img.discogs.com/81tUNPDH_2l9nrBftEI3ZGxQLIs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3135386-1366800788-5541.jpeg.jpg",
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/time-and-place-expanded-edition-remastered/1163270595",
+          "discogs": "https://www.discogs.com/Lee-Moses-Time-And-Place/master/275993",
+          "spotify": "https://open.spotify.com/album/54daOPIltD5nDPP3bWzEXQ",
+          "youtube": "https://www.youtube.com/watch?v=y0VljxwSQJA",
+          "wikipedia": "https://en.wikipedia.org/wiki/Lee_Moses"
+        },
+        "extra_links": [
+          [
+            "Oxford American",
+            "https://www.oxfordamerican.org/item/949-reintroducing-lee-moses"
+          ]
+        ],
+        "embed_uri": "youtube:3lxp7WVXiXU",
+        "description": "The music industry treated Lee poorly. He never saw appreciation before his death in ‘97. His work is hard to find with physical copies being insanely (and appropriately) priced."
+      },
+      {
         "artist": "Tsegué-Maryam Guèbrou",
         "album": "Éthiopiques 21: Piano Solo",
         "track": "The Homeless Wanderer",
         "image": "https://img.discogs.com/20G6A6BBcyWgaFjtE3xPabCybZ0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1174982-1500458757-4634.jpeg.jpg",
-        "links": [
-          {
-            "title": "BBC Programme",
-            "url": "https://www.bbc.co.uk/programmes/b08mb1ft"
-          },
-          {
-            "title": "Emahoy Music Foundation",
-            "url": "http://www.emahoymusicfoundation.org/"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Tsegu%C3%A9-Maryam-Gu%C3%A8brou-%C3%89thiopiques-21-Piano-Solo/release/1174982"
-          },
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/%C3%A9thiopiques-vol-21-piano-solo/113757995"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk?si=_IpyVGiHRvCYpIgxtN66yQ"
-          },
-          {
-            "title": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou"
-          }
+        "links": {
+          "discogs": "https://www.discogs.com/Tsegu%C3%A9-Maryam-Gu%C3%A8brou-%C3%89thiopiques-21-Piano-Solo/release/1174982",
+          "apple": "https://itunes.apple.com/us/album/%C3%A9thiopiques-vol-21-piano-solo/113757995",
+          "spotify": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk?si=_IpyVGiHRvCYpIgxtN66yQ",
+          "wikipedia": "https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou"
+        },
+        "extra_links": [
+          ["BBC Programme", "https://www.bbc.co.uk/programmes/b08mb1ft"],
+          ["Emahoy Music Foundation", "http://www.emahoymusicfoundation.org/"]
         ],
         "embed_uri": "spotify:track:1NUdV2Lc7e2sbC14T7kG4q",
         "description": "Emahoy is a nun...and a genius."
@@ -41,20 +46,11 @@
         "album": "Madvillainy",
         "track": "All Caps",
         "image": "https://img.discogs.com/WxPQzrIegpuWDicMoxIx1y0UKNo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-239980-1290094126.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/madvillainy/887699504"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Madvillain-Madvillainy/master/8554"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/madvillainy/887699504",
+          "discogs": "https://www.discogs.com/Madvillain-Madvillainy/master/8554",
+          "spotify": "https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax"
+        },
         "embed_uri": "spotify:track:1Y2ExJJ9Dmb9po8K0ybSj3",
         "description": "Remember all caps when you spell the man name...and when you write down THE BEST SONG OF ALL TIME."
       },
@@ -63,16 +59,10 @@
         "album": "Song 31",
         "track": "Song 31 (feat. Phoelix)",
         "image": "https://static.stereogum.com/uploads/2019/01/Song-31-1546353478-640x640.jpeg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/song-31-feat-phoelix-single/1448279189"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/1EcKdLqFqu9tThIMVkpwEd"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/song-31-feat-phoelix-single/1448279189",
+          "spotify": "https://open.spotify.com/album/1EcKdLqFqu9tThIMVkpwEd"
+        },
         "embed_uri": "spotify:track:5jEHZAJlxIf6bK9LkKnRH0",
         "description": "NONAME × 13 PHOELIX × 7 CHICAGO × 100. These two made my NYE special."
       },
@@ -81,24 +71,12 @@
         "album": "Roha Band Tour 1990",
         "track": "Ferait Weyni",
         "image": "https://img.discogs.com/qubtZS_LqoVMbK8R4R_gxvqxua0=/fit-in/580x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6099380-1411049288-6007.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/roha-band-tour-1990/277423892"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Roha-Band-Roha-Band-Tour-1990/master/1183744"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/4H9lHMCFr8kvhtvzcUGJ2C"
-          },
-          {
-            "title": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Selam_Woldemariam"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/roha-band-tour-1990/277423892",
+          "discogs": "https://www.discogs.com/Roha-Band-Roha-Band-Tour-1990/master/1183744",
+          "spotify": "https://open.spotify.com/album/4H9lHMCFr8kvhtvzcUGJ2C",
+          "wikipedia": "https://en.wikipedia.org/wiki/Selam_Woldemariam"
+        },
         "embed_uri": "spotify:track:2OrmINRmhTeOJfhug1fybd",
         "description": "Ethiopian music has a rich history worth exploration. Just happened upon this one."
       },
@@ -107,24 +85,12 @@
         "album": "10 000 lépés",
         "track": "Gyöngyhajú lány",
         "image": "https://img.discogs.com/bAHvVmrrQRHWrBggP2nChZCNxm4=/fit-in/392x384/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2980161-1310222032.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/10000-l%C3%A9p%C3%A9s/390364633"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Omega-10000-L%C3%A9p%C3%A9s/master/182564"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp"
-          },
-          {
-            "title": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Omega_(band)"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/10000-l%C3%A9p%C3%A9s/390364633",
+          "discogs": "https://www.discogs.com/Omega-10000-L%C3%A9p%C3%A9s/master/182564",
+          "spotify": "https://open.spotify.com/album/5GVrqNePT3Rek05os9fegp",
+          "wikipedia": "https://en.wikipedia.org/wiki/Omega_(band)"
+        },
         "embed_uri": "spotify:track:3nDfx9WqSNOfbuCP4yonzj",
         "description": "Jonah Hill’s new flick “Mid90s” uses the climax of this Hungarian anthem to bring out the feels in its trailer. Frank Ocean sings over a sample of this at the end of New Slaves. Ye should have sampled the last refrain..."
       }
@@ -138,24 +104,12 @@
         "album": "F**k the Police (Single)",
         "track": "F**k the Police",
         "image": "https://img.discogs.com/TCqf61KvM1h4G52PeUrs9SySM_0=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-344738-1541605676-5896.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/f-k-the-police/326660999"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Jay-Dee-Fuck-The-Police/master/500310"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/1RsRGjP4tFXVLJsQYKltCp"
-          },
-          {
-            "title": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/J_Dilla"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/f-k-the-police/326660999",
+          "discogs": "https://www.discogs.com/Jay-Dee-Fuck-The-Police/master/500310",
+          "spotify": "https://open.spotify.com/album/1RsRGjP4tFXVLJsQYKltCp",
+          "wikipedia": "https://en.wikipedia.org/wiki/J_Dilla"
+        },
         "embed_uri": "spotify:track:7FMzW6TpmCYwYgPa6dt2A0",
         "description": "An all-to-familiar narrative as it was in 2001."
       },
@@ -164,20 +118,11 @@
         "album": "American Indian Dances",
         "track": "Pow-wow Dance (Flathead) - Alan Fox and Lawrence Kiskotagan",
         "image": "https://img.discogs.com/dptVFMiBN6KP89eO56FyXA4m96Y=/fit-in/599x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2797546-1301481012.jpeg.jpg",
-        "links": [
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/American-Indian-American-Indian-Dances/master/902710"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/2Ig9jAuRiWUg2TnqKMfbP5"
-          },
-          {
-            "title": "YouTube",
-            "url": "https://www.youtube.com/watch?v=uKXTYEBMZ9c"
-          }
-        ],
+        "links": {
+          "discogs": "https://www.discogs.com/American-Indian-American-Indian-Dances/master/902710",
+          "spotify": "https://open.spotify.com/album/2Ig9jAuRiWUg2TnqKMfbP5",
+          "youtube": "https://www.youtube.com/watch?v=uKXTYEBMZ9c"
+        },
         "embed_uri": "spotify:track:72XjG9uAuGo5dwmhTCVLuN",
         "description": "Library of Congress Catalogue recording from 1959. Pow-wow music is to be revered."
       },
@@ -186,20 +131,11 @@
         "album": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
         "track": "Rag Waa Nacab Iyo Nasteexo (Men are Cruel and Kind) - Aamina Camaari",
         "image": "https://img.discogs.com/bwTjtwXrl0aIGC-IR08pVPGJUVo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10720809-1512652799-6941.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/sweet-as-broken-dates-lost-somali-tapes-from-horn-africa/1253552142"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Various-Sweet-As-Broken-Dates-Lost-Somali-Tapes-From-The-Horn-Of-Africa-/release/10720809"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/sweet-as-broken-dates-lost-somali-tapes-from-horn-africa/1253552142",
+          "discogs": "https://www.discogs.com/Various-Sweet-As-Broken-Dates-Lost-Somali-Tapes-From-The-Horn-Of-Africa-/release/10720809",
+          "spotify": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
+        },
         "embed_uri": "spotify:track:2FFb42uC8Pp6QAxR9jSMVW",
         "description": "Try not to dance."
       },
@@ -208,20 +144,11 @@
         "album": "Eccentric Soul: The Saru Label",
         "track": "Bound - Ponderosa Twins Plus One",
         "image": "https://img.discogs.com/CTS9hsg_2VH3OQAsMDmC6V7s_p0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11634643-1519824176-7629.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/ca/album/eccentric-soul-the-saru-label/1342694868"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Various-Eccentric-Soul-The-Saru-Label/master/1336820"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/1lhuoiRUTB6lJs2HDxZhva?si=jA2Vrp50SxqurMPCUilcpw"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/ca/album/eccentric-soul-the-saru-label/1342694868",
+          "discogs": "https://www.discogs.com/Various-Eccentric-Soul-The-Saru-Label/master/1336820",
+          "spotify": "https://open.spotify.com/album/1lhuoiRUTB6lJs2HDxZhva?si=jA2Vrp50SxqurMPCUilcpw"
+        },
         "embed_uri": "spotify:track:5XZ550eCFStfHHDf5HFq8q",
         "description": "Yes, Kanye sampled this. Discovering that I owned the original was a happy accident courtesy of Numero Group."
       },
@@ -230,24 +157,12 @@
         "album": "Volume 5",
         "track": "Ilawad Cashaqa",
         "image": "https://img.discogs.com/yQz1U6H0XMFixwY0qVsuXsbneog=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4403230-1436629309-1166.jpeg.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/dur-dur-vol-5/591845960"
-          },
-          {
-            "title": "Discogs",
-            "url": "https://www.discogs.com/Dur-Dur-Band-Volume-5/master/556646"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE"
-          },
-          {
-            "title": "Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Dur-Dur_Band"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/dur-dur-vol-5/591845960",
+          "discogs": "https://www.discogs.com/Dur-Dur-Band-Volume-5/master/556646",
+          "spotify": "https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dur-Dur_Band"
+        },
         "embed_uri": "spotify:track:28yDeoUmIAOzrmiAID3GyZ",
         "description": "80’s Somali Funk. Say no more."
       },
@@ -256,16 +171,10 @@
         "album": "The Man Who Has Everything",
         "track": "The Man Who Has Everything",
         "image": "https://pbs.twimg.com/media/DtOhxmmWkAAZEEJ.jpg",
-        "links": [
-          {
-            "title": "Apple",
-            "url": "https://itunes.apple.com/us/album/the-man-who-has-everything-single/1445095914"
-          },
-          {
-            "title": "Spotify",
-            "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
-          }
-        ],
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/the-man-who-has-everything-single/1445095914",
+          "spotify": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+        },
         "embed_uri": "spotify:track:3woRy7uxzl1lO2XO99oHsN",
         "description": "Has he gone soft? I don’t care. That hook is gold and it frames Chance’s modest reflection on ambition perfectly. Happy holidays."
       }

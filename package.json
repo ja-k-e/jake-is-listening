@@ -5,9 +5,11 @@
   "author": "Jake Albaugh <jake.albaugh@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "image-downloader": "^3.4.2",
     "jsonminify": "^0.4.1"
   },
   "scripts": {
+    "build": "node index.js",
     "pub": "node index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
   }
 }
