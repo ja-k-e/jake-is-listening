@@ -8,6 +8,6 @@
     "jsonminify": "^0.4.1"
   },
   "scripts": {
-    "publish": "node index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
+    "pub": "node index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
   }
 }
