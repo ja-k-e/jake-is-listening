@@ -186,11 +186,11 @@ nav li:last-child:not(:empty) a {
 }
 nav li:first-child:not(:empty)::before {
   content: "‹";
-  left: 0;
+  left: 8px;
 }
 nav li:last-child:not(:empty)::after {
   content: "›";
-  right: 0;
+  right: 8px;
 }
 
 nav ul li {
