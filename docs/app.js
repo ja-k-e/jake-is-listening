@@ -43,6 +43,10 @@ new Vue({
       let idx = this.volumeIds.indexOf(loc);
       if (idx !== -1) this.volumeIdx = idx;
     },
+    sortedLinks(links) {
+      let keys = ["spotify", "apple", "discogs", "youtube", "wikipedia"];
+      return keys.map(k => (links[k] ? [k, links[k]] : null)).filter(v => !!v);
+    },
     uriToEmbedUrl(uri) {
       let [origin, type, id] = uri.split(":");
       if (origin === "spotify")
@@ -90,7 +94,7 @@ function appTemplate() {
           <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
           <p class="description" v-html="cleanOrphan(entry.description)"></p>
           <div class="links">
-            <span v-for="(url, key) in entry.links" v-html="linkHTML(url, key)"></span>
+            <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
             <br v-if="entry.extra_links" />
             <span v-for="[title, url] in entry.extra_links" v-if="entry.extra_links">
               <a :href="url" target="_blank" class="text">{{ title }}</a>

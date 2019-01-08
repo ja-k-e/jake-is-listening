@@ -3,41 +3,40 @@
     "volume": "1901",
     "entries": [
       {
-        "artist": "Lee Moses",
-        "album": "Time and Place",
-        "track": "Bad Girl Parts 1 & 2",
+        "artist": "Sudan Archives",
+        "album": "Sudan Archives",
+        "track": "Oatmeal",
         "links": {
-          "apple": "https://itunes.apple.com/us/album/time-and-place-expanded-edition-remastered/1163270595",
-          "discogs": "https://www.discogs.com/Lee-Moses-Time-And-Place/master/275993",
-          "spotify": "https://open.spotify.com/album/54daOPIltD5nDPP3bWzEXQ",
-          "youtube": "https://www.youtube.com/watch?v=y0VljxwSQJA",
-          "wikipedia": "https://en.wikipedia.org/wiki/Lee_Moses"
+          "apple": "https://itunes.apple.com/us/album/firebird-logo-single/728858363",
+          "discogs": "https://www.discogs.com/Serengeti-Firebird-Logo/master/1480642",
+          "spotify": "https://open.spotify.com/album/1NJE8feU5PVJXYOd3Cjklt"
         },
-        "extra_links": [
-          [
-            "Oxford American",
-            "https://www.oxfordamerican.org/item/949-reintroducing-lee-moses"
-          ]
-        ],
-        "embed_uri": "youtube:3lxp7WVXiXU",
-        "description": "The music industry treated Lee poorly. He never saw appreciation before his death in ‘97. His work is hard to find with physical copies being insanely (and appropriately) priced."
+        "embed_uri": "spotify:track:24uuDkIjZdkaoFqAy4IJbP",
+        "description": "If ‘06 Bonnaroo Andrew Bird signed to Stones Throw and used sidechain compression, it wouldn’t work. This does. Sink is a great record too."
       },
       {
-        "artist": "Tsegué-Maryam Guèbrou",
-        "album": "Éthiopiques 21: Piano Solo",
-        "track": "The Homeless Wanderer",
+        "artist": "Serengeti",
+        "album": "Firebird Logo",
+        "track": "Firebird Logo",
         "links": {
-          "discogs": "https://www.discogs.com/Tsegu%C3%A9-Maryam-Gu%C3%A8brou-%C3%89thiopiques-21-Piano-Solo/release/1174982",
-          "apple": "https://itunes.apple.com/us/album/%C3%A9thiopiques-vol-21-piano-solo/113757995",
-          "spotify": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk?si=_IpyVGiHRvCYpIgxtN66yQ",
-          "wikipedia": "https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou"
+          "apple": "https://itunes.apple.com/us/album/firebird-logo-single/728858363",
+          "discogs": "https://www.discogs.com/Serengeti-Firebird-Logo/master/1480642",
+          "spotify": "https://open.spotify.com/album/1NJE8feU5PVJXYOd3Cjklt"
         },
-        "extra_links": [
-          ["BBC Broadcast", "https://www.bbc.co.uk/programmes/b08mb1ft"],
-          ["Emahoy Music Foundation", "http://www.emahoymusicfoundation.org/"]
-        ],
-        "embed_uri": "spotify:track:1NUdV2Lc7e2sbC14T7kG4q",
-        "description": "Emahoy is a nun...and a genius."
+        "embed_uri": "spotify:track:2OAOoVjDPAyIGMn4YsQ9fR",
+        "description": "Opening track from my A24 Film's soundtrack. My karate is sick."
+      },
+      {
+        "artist": "Xenia Rubinos",
+        "album": "Magic Trix",
+        "track": "Help",
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/magic-trix/630298426",
+          "discogs": "https://www.discogs.com/Xenia-Rubinos-Magic-Trix/master/610476",
+          "spotify": "https://open.spotify.com/album/3OKgk5txabR3sdRKCtcDne"
+        },
+        "embed_uri": "spotify:track:4wTloIqNQ5w8nFtKu7j8Ok",
+        "description": "Xenia is daringly gritty in rhythm and vocal play. Looks like it’s about time for a new release too. Fingers crossed."
       },
       {
         "artist": "Madvillain",
@@ -94,6 +93,23 @@
     "volume": "1812",
     "entries": [
       {
+        "artist": "Tsegué-Maryam Guèbrou",
+        "album": "Éthiopiques 21: Piano Solo",
+        "track": "The Homeless Wanderer",
+        "links": {
+          "discogs": "https://www.discogs.com/Tsegu%C3%A9-Maryam-Gu%C3%A8brou-%C3%89thiopiques-21-Piano-Solo/release/1174982",
+          "apple": "https://itunes.apple.com/us/album/%C3%A9thiopiques-vol-21-piano-solo/113757995",
+          "spotify": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk?si=_IpyVGiHRvCYpIgxtN66yQ",
+          "wikipedia": "https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou"
+        },
+        "extra_links": [
+          ["BBC Broadcast", "https://www.bbc.co.uk/programmes/b08mb1ft"],
+          ["Emahoy Music Foundation", "http://www.emahoymusicfoundation.org/"]
+        ],
+        "embed_uri": "spotify:track:1NUdV2Lc7e2sbC14T7kG4q",
+        "description": "Emahoy is a nun...and a genius."
+      },
+      {
         "artist": "J Dilla",
         "album": "F**k the Police (Single)",
         "track": "F**k the Police",
@@ -117,6 +133,19 @@
         },
         "embed_uri": "spotify:track:72XjG9uAuGo5dwmhTCVLuN",
         "description": "Library of Congress Catalogue recording from 1959. Pow-wow music is to be revered."
+      },
+      {
+        "artist": "Dur-Dur Band",
+        "album": "Volume 5",
+        "track": "Ilawad Cashaqa",
+        "links": {
+          "apple": "https://itunes.apple.com/us/album/dur-dur-vol-5/591845960",
+          "discogs": "https://www.discogs.com/Dur-Dur-Band-Volume-5/master/556646",
+          "spotify": "https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE",
+          "wikipedia": "https://en.wikipedia.org/wiki/Dur-Dur_Band"
+        },
+        "embed_uri": "spotify:track:28yDeoUmIAOzrmiAID3GyZ",
+        "description": "80’s Somali Funk. Say no more."
       },
       {
         "artist": "Various",
@@ -143,17 +172,24 @@
         "description": "Yes, Kanye sampled this. Discovering that I owned the original was a happy accident courtesy of Numero Group."
       },
       {
-        "artist": "Dur-Dur Band",
-        "album": "Volume 5",
-        "track": "Ilawad Cashaqa",
+        "artist": "Lee Moses",
+        "album": "Time and Place",
+        "track": "Bad Girl Parts 1 & 2",
         "links": {
-          "apple": "https://itunes.apple.com/us/album/dur-dur-vol-5/591845960",
-          "discogs": "https://www.discogs.com/Dur-Dur-Band-Volume-5/master/556646",
-          "spotify": "https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE",
-          "wikipedia": "https://en.wikipedia.org/wiki/Dur-Dur_Band"
+          "apple": "https://itunes.apple.com/us/album/time-and-place-expanded-edition-remastered/1163270595",
+          "discogs": "https://www.discogs.com/Lee-Moses-Time-And-Place/master/275993",
+          "spotify": "https://open.spotify.com/album/54daOPIltD5nDPP3bWzEXQ",
+          "youtube": "https://www.youtube.com/watch?v=y0VljxwSQJA",
+          "wikipedia": "https://en.wikipedia.org/wiki/Lee_Moses"
         },
-        "embed_uri": "spotify:track:28yDeoUmIAOzrmiAID3GyZ",
-        "description": "80’s Somali Funk. Say no more."
+        "extra_links": [
+          [
+            "Oxford American",
+            "https://www.oxfordamerican.org/item/949-reintroducing-lee-moses"
+          ]
+        ],
+        "embed_uri": "youtube:3lxp7WVXiXU",
+        "description": "The music industry treated Lee poorly. He never saw appreciation before his death in ‘97. His work is hard to find with physical copies being appropriately insanely-priced."
       },
       {
         "artist": "Chance the Rapper",
