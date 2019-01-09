@@ -3,11 +3,24 @@ const LOGOS = logos();
 new Vue({
   el: "#app",
   data() {
-    return { entries: [], size: 3, index: 0 };
+    return { entries: [], size: 3, index: 0, view: "browse" };
   },
   computed: {
+    cantPrev() {
+      return this.index === 0;
+    },
+    cantNext() {
+      return this.index === this.entries.length - this.size;
+    },
     currentEntries() {
-      return this.entries.slice(this.index, this.index + this.size);
+      return this.sortedEntries.slice(this.index, this.index + this.size);
+    },
+    sortedEntries() {
+      return this.entries.sort((a, b) => {
+        if (a.time > b.time) return -1;
+        if (a.time < b.time) return 1;
+        return 0;
+      });
     }
   },
   methods: {
@@ -28,20 +41,21 @@ new Vue({
       return html;
     },
     next() {
-      if (this.index + 1 >= this.entries.length) return;
+      if (this.cantNext) return;
       this.index += 1;
     },
     prev() {
-      if (this.index - 1 < 0) return;
+      if (this.cantPrev) return;
       this.index -= 1;
     },
-    onHashChange() {
-      // Handling a hash in the
-      // let loc = window.location.hash;
-      // loc = loc && loc.match(/^#(\d+)$/) ? loc.replace(/^#/, "") : null;
-      // if (!loc) return;
-      // let idx = this.volumeIds.indexOf(loc);
-      // if (idx !== -1) this.volumeIdx = idx;
+    toggle() {
+      if (this.view === "browse") this.view = "all";
+      else this.view = "browse";
+    },
+    onKeyup({ keyCode }) {
+      if (this.view !== "browse") return;
+      if (keyCode !== 39 && keyCode !== 37) return;
+      keyCode === 39 ? this.next() : this.prev();
     },
     sortedLinks(links) {
       let keys = ["spotify", "apple", "discogs", "youtube", "wikipedia"];
@@ -67,8 +81,7 @@ new Vue({
       data.forEach(d => {
         this.entries.push(d);
       });
-      window.onhashchange = this.onHashChange.bind(this);
-      this.onHashChange();
+      document.addEventListener("keyup", this.onKeyup.bind(this));
     });
   },
   template: appTemplate()
@@ -79,36 +92,79 @@ function appTemplate() {
   <main>
     <div v-if="entries.length">
       <br>
-      <button @click="prev" :disabled="index === 0">Prev</button>
-      <button @click="next" :disabled="index === (this.entries.length - this.size)">Next</button>
-      <transition-group name="slider" tag="section">
-        <article v-for="entry in currentEntries" :key="entry.embed_uri">
-          <div class="body">
-            <iframe
-              :src="uriToEmbedUrl(entry.embed_uri)"
-              :key="'iframe-' + entry.embed_uri"
-              width="300"
-              height="380"
-              frameborder="0"
-              allowtransparency="true"
-              allow="encrypted-media"
-            ></iframe>
-            <h3 class="track" v-html="cleanOrphan(entry.track)"></h3>
-            <p class="album" v-html="cleanOrphan(entry.album)"></p>
-            <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
-            <p class="description" v-html="cleanOrphan(entry.description)"></p>
-            <div class="links">
-              <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
-              <br v-if="entry.extra_links" />
-              <span v-for="[title, url] in entry.extra_links" v-if="entry.extra_links">
-                <a :href="url" target="_blank" class="text">{{ title }}</a>
-              </span>
-              <br>
-              <span><a class="text"><small>{{ time(entry.time) }}</small></a></span>
+      <aside>
+      <button @click="toggle">
+        <span v-if="view === 'browse'">View All</span>
+        <span v-else>View Browser</span>
+      </button>
+      </aside>
+      <br>
+      <div v-if="view === 'browse'">
+        <aside>
+          <button @click="prev" :disabled="cantPrev">Prev</button>
+          <button @click="next" :disabled="cantNext">Next</button>
+        </aside>
+        <transition-group name="slider" tag="section">
+          <article v-for="entry in currentEntries" :key="entry.embed_uri">
+            <div class="body">
+              <iframe
+                :src="uriToEmbedUrl(entry.embed_uri)"
+                :key="'iframe-' + entry.embed_uri"
+                width="300"
+                height="380"
+                frameborder="0"
+                allowtransparency="true"
+                allow="encrypted-media"
+              ></iframe>
+              <h3 class="track" v-html="cleanOrphan(entry.track)"></h3>
+              <p class="album" v-html="cleanOrphan(entry.album)"></p>
+              <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
+              <p class="description" v-html="cleanOrphan(entry.description)"></p>
+              <div class="links">
+                <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
+                <br v-if="entry.extra_links" />
+                <span v-for="[title, url] in entry.extra_links" v-if="entry.extra_links">
+                  <a :href="url" target="_blank" class="text">{{ title }}</a>
+                </span>
+                <br>
+                <span><a class="text"><small>{{ time(entry.time) }}</small></a></span>
+              </div>
             </div>
-          </div>
-        </article>
-      </transition-group>
+          </article>
+        </transition-group>
+      </div>
+      <div v-if="view === 'all'">
+        <aside>
+          <p><small><a href="https://jakealbaugh.github.io/jake-is-listening/data.json" target="_blank">Raw JSON</a></small></p>
+        </aside>
+        <table>
+          <thead>
+            <tr>
+              <th>Track</th>
+              <th>Artist</th>
+              <th>Album</th>
+              <th>Links</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="entry in sortedEntries">
+              <td>{{ entry.track }}</td>
+              <td>{{ entry.artist }}</td>
+              <td>
+                <a v-if="entry.links.spotify" :href="entry.links.spotify" target="_blank">
+                  {{ entry.album }}
+                </a>
+                <span v-else>{{ entry.album }}</span>
+              </td>
+              <td>
+                <div class="links">
+                  <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </main>
   `;

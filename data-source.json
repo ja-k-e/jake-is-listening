@@ -10,20 +10,7 @@
     },
     "embed_uri": "spotify:track:24uuDkIjZdkaoFqAy4IJbP",
     "description": "If ‘06 Bonnaroo Andrew Bird signed to Stones Throw and used sidechain compression, it wouldn’t work. This does. Sink is a great record too.",
-    "time": 1547051623848
-  },
-  {
-    "artist": "Serengeti",
-    "album": "Firebird Logo",
-    "track": "Firebird Logo",
-    "links": {
-      "apple": "https://itunes.apple.com/us/album/firebird-logo-single/728858363",
-      "discogs": "https://www.discogs.com/Serengeti-Firebird-Logo/master/1480642",
-      "spotify": "https://open.spotify.com/album/1NJE8feU5PVJXYOd3Cjklt"
-    },
-    "embed_uri": "spotify:track:2OAOoVjDPAyIGMn4YsQ9fR",
-    "description": "Opening track from my A24 Film's soundtrack. My karate is sick.",
-    "time": 1547041523848
+    "time": 1546987238000
   },
   {
     "artist": "Xenia Rubinos",
@@ -36,7 +23,20 @@
     },
     "embed_uri": "spotify:track:4wTloIqNQ5w8nFtKu7j8Ok",
     "description": "Xenia is daringly gritty in rhythm and vocal play. Looks like it’s about time for a new release too. Fingers crossed.",
-    "time": 1547031423848
+    "time": 1546987238000
+  },
+  {
+    "artist": "Serengeti",
+    "album": "Firebird Logo",
+    "track": "Firebird Logo",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/firebird-logo-single/728858363",
+      "discogs": "https://www.discogs.com/Serengeti-Firebird-Logo/master/1480642",
+      "spotify": "https://open.spotify.com/album/1NJE8feU5PVJXYOd3Cjklt"
+    },
+    "embed_uri": "spotify:track:2OAOoVjDPAyIGMn4YsQ9fR",
+    "description": "Opening track from my A24 Film's soundtrack. My karate is sick.",
+    "time": 1546468838000
   },
   {
     "artist": "Madvillain",
@@ -49,7 +49,7 @@
     },
     "embed_uri": "spotify:track:1Y2ExJJ9Dmb9po8K0ybSj3",
     "description": "Remember all caps when you spell the man name...and when you refer to THE BEST TRACK OF ALL TIME.",
-    "time": 1547021323848
+    "time": 1546468838000
   },
   {
     "artist": "Noname",
@@ -61,7 +61,7 @@
     },
     "embed_uri": "spotify:track:5jEHZAJlxIf6bK9LkKnRH0",
     "description": "NONAME × 13 PHOELIX × 7 CHICAGO × 100. These two made my NYE special.",
-    "time": 1547011223848
+    "time": 1546468838000
   },
   {
     "artist": "The Roha Band",
@@ -75,7 +75,7 @@
     },
     "embed_uri": "spotify:track:2OrmINRmhTeOJfhug1fybd",
     "description": "Ethiopian music has a rich history worth exploration. Just happened upon this one.",
-    "time": 1547001123848
+    "time": 1546468838000
   },
   {
     "artist": "Omega",
@@ -89,7 +89,7 @@
     },
     "embed_uri": "spotify:track:3nDfx9WqSNOfbuCP4yonzj",
     "description": "Jonah Hill’s new flick “Mid90s” uses the climax of this Hungarian anthem to bring out the feels in its trailer. Frank Ocean sings over a sample of this at the end of New Slaves. Ye should have sampled the last refrain...",
-    "time": 1546991023848
+    "time": 1546378838000
   },
   {
     "artist": "Tsegué-Maryam Guèbrou",
@@ -113,7 +113,7 @@
     ],
     "embed_uri": "spotify:track:1NUdV2Lc7e2sbC14T7kG4q",
     "description": "Emahoy is a nun...and a genius.",
-    "time": 1546980923848
+    "time": 1546378838000
   },
   {
     "artist": "J Dilla",
@@ -127,7 +127,7 @@
     },
     "embed_uri": "spotify:track:7FMzW6TpmCYwYgPa6dt2A0",
     "description": "An all-too-familiar narrative as it was in 2001.",
-    "time": 1546970823848
+    "time": 1546378838000
   },
   {
     "artist": "Various",
@@ -140,7 +140,7 @@
     },
     "embed_uri": "spotify:track:72XjG9uAuGo5dwmhTCVLuN",
     "description": "Library of Congress Catalogue recording from 1959. Pow-wow music is to be revered.",
-    "time": 1546960723848
+    "time": 1546375238000
   },
   {
     "artist": "Dur-Dur Band",
@@ -154,7 +154,7 @@
     },
     "embed_uri": "spotify:track:28yDeoUmIAOzrmiAID3GyZ",
     "description": "80’s Somali Funk. Say no more.",
-    "time": 1546951623848
+    "time": 1546256192000
   },
   {
     "artist": "Various",
@@ -167,7 +167,7 @@
     },
     "embed_uri": "spotify:track:2FFb42uC8Pp6QAxR9jSMVW",
     "description": "Try not to dance.",
-    "time": 1546941623848
+    "time": 1546252592000
   },
   {
     "artist": "Various",
@@ -180,7 +180,7 @@
     },
     "embed_uri": "spotify:track:5XZ550eCFStfHHDf5HFq8q",
     "description": "Yes, Kanye sampled this. Discovering that I owned the original was a happy accident courtesy of Numero Group.",
-    "time": 1546931623848
+    "time": 1546079792000
   },
   {
     "artist": "Lee Moses",
@@ -201,7 +201,7 @@
     ],
     "embed_uri": "youtube:3lxp7WVXiXU",
     "description": "The music industry treated Lee poorly. He never saw appreciation before his death in ‘97. His work is hard to find with physical copies being appropriately insanely-priced.",
-    "time": 1546921623848
+    "time": 1545820592000
   },
   {
     "artist": "Chance the Rapper",
@@ -213,6 +213,6 @@
     },
     "embed_uri": "spotify:track:3woRy7uxzl1lO2XO99oHsN",
     "description": "Has he gone soft? I don’t care. That hook is gold and it frames Chance’s modest reflection on ambition perfectly. Happy holidays.",
-    "time": 1546911623848
+    "time": 1545597392000
   }
 ]

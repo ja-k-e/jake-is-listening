@@ -2,6 +2,7 @@ html,
 body {
   background: #000;
   margin: 0;
+  height: 100%;
 }
 
 body {
@@ -10,7 +11,6 @@ body {
   background: linear-gradient(to bottom, #161616, #000);
   background-attachment: fixed;
   color: white;
-  text-align: center;
 }
 
 article {
@@ -82,7 +82,7 @@ main section {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 1000px) {
   main section {
     display: flex;
     flex-wrap: wrap;
@@ -119,22 +119,22 @@ main article p.artist {
 }
 main article .body iframe {
   display: block;
-  margin: 1rem auto;
+  margin: 0 auto 1rem;
 }
-main article .body .links a.logo {
+main .links a.logo {
   width: 20px;
   display: inline-block;
 }
-main article .body .links a.text {
+main .links a.text {
   line-height: 2;
   text-decoration-style: dotted;
 }
-main article .body .links a.logo svg {
+main .links a.logo svg {
   width: 100%;
   height: auto;
   vertical-align: middle;
 }
-main article .body .links span + span {
+main .links span + span {
   margin-left: 0.5rem;
 }
 
@@ -239,4 +239,49 @@ button:disabled {
 
 button + button {
   margin-left: 1rem;
+}
+
+table th {
+  text-align: left;
+}
+
+table {
+  font-size: 0.8rem;
+  width: 95%;
+  margin: 0 auto;
+}
+
+table td,
+table th {
+  padding: 0.25rem 0.25rem;
+  border: none;
+}
+
+table td:nth-child(4),
+table th:nth-child(4) {
+  display: none;
+}
+
+table tbody tr:nth-child(odd) {
+  background: #222;
+}
+
+@media (min-width: 1024px) {
+  table td,
+  table th {
+    padding: 0.25rem 0.5rem;
+  }
+
+  table td:nth-child(4),
+  table th:nth-child(4) {
+    display: table-cell;
+  }
+}
+
+main table .links a.logo {
+  width: 16px;
+}
+
+main aside {
+  text-align: center;
 }
