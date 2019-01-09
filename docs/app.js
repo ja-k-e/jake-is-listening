@@ -3,19 +3,11 @@ const LOGOS = logos();
 new Vue({
   el: "#app",
   data() {
-    return { volumes: [], volumeIds: [], volumeIdx: 0 };
+    return { entries: [], size: 3, index: 0 };
   },
   computed: {
-    breadcrumbs() {
-      let idx = this.volumeIdx;
-      let last = this.volumes.length - 1;
-      let next = idx === 0 ? null : this.volumeIds[idx - 1];
-      let prev = idx === last ? null : this.volumeIds[idx + 1];
-      let curr = this.volumeIds[idx];
-      return { curr, prev, next };
-    },
-    currentVolume() {
-      return this.volumes[this.volumeIdx];
+    currentEntries() {
+      return this.entries.slice(this.index, this.index + this.size);
     }
   },
   methods: {
@@ -35,17 +27,33 @@ new Vue({
       html += "</a>";
       return html;
     },
+    next() {
+      if (this.index + 1 >= this.entries.length) return;
+      this.index += 1;
+    },
+    prev() {
+      if (this.index - 1 < 0) return;
+      this.index -= 1;
+    },
     onHashChange() {
       // Handling a hash in the
-      let loc = window.location.hash;
-      loc = loc && loc.match(/^#(\d+)$/) ? loc.replace(/^#/, "") : null;
-      if (!loc) return;
-      let idx = this.volumeIds.indexOf(loc);
-      if (idx !== -1) this.volumeIdx = idx;
+      // let loc = window.location.hash;
+      // loc = loc && loc.match(/^#(\d+)$/) ? loc.replace(/^#/, "") : null;
+      // if (!loc) return;
+      // let idx = this.volumeIds.indexOf(loc);
+      // if (idx !== -1) this.volumeIdx = idx;
     },
     sortedLinks(links) {
       let keys = ["spotify", "apple", "discogs", "youtube", "wikipedia"];
       return keys.map(k => (links[k] ? [k, links[k]] : null)).filter(v => !!v);
+    },
+    time(time) {
+      const date = new Date(time);
+      const arr = date
+        .toLocaleDateString()
+        .split("/")
+        .map(s => s.padStart(2, "0"));
+      return [arr[2], arr[0], arr[1]].join(" ");
     },
     uriToEmbedUrl(uri) {
       let [origin, type, id] = uri.split(":");
@@ -57,8 +65,7 @@ new Vue({
   mounted() {
     axios.get("data.json").then(({ data }) => {
       data.forEach(d => {
-        this.volumes.push(d);
-        this.volumeIds.push(d.volume);
+        this.entries.push(d);
       });
       window.onhashchange = this.onHashChange.bind(this);
       this.onHashChange();
@@ -70,39 +77,39 @@ new Vue({
 function appTemplate() {
   return `
   <main>
-    <nav>
-      <ul>
-        <li><a :href="'#' + breadcrumbs.prev" v-if="breadcrumbs.prev">{{ breadcrumbs.prev }}</a></li>
-        <li><strong>{{ breadcrumbs.curr }}</strong></li>
-        <li><a :href="'#' + breadcrumbs.next" v-if="breadcrumbs.next">{{ breadcrumbs.next }}</a></li>
-      </ul>
-    </nav>
-    <section v-if="currentVolume">
-      <article v-for="entry in currentVolume.entries">
-        <div class="body">
-          <iframe
-            :src="uriToEmbedUrl(entry.embed_uri)"
-            :key="'iframe-' + entry.embed_uri"
-            width="300"
-            height="300"
-            frameborder="0"
-            allowtransparency="true"
-            allow="encrypted-media"
-          ></iframe>
-          <h3 class="track" v-html="cleanOrphan(entry.track)"></h3>
-          <p class="album" v-html="cleanOrphan(entry.album)"></p>
-          <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
-          <p class="description" v-html="cleanOrphan(entry.description)"></p>
-          <div class="links">
-            <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
-            <br v-if="entry.extra_links" />
-            <span v-for="[title, url] in entry.extra_links" v-if="entry.extra_links">
-              <a :href="url" target="_blank" class="text">{{ title }}</a>
-            </span>
+    <div v-if="entries.length">
+      <br>
+      <button @click="prev" :disabled="index === 0">Prev</button>
+      <button @click="next" :disabled="index === (this.entries.length - this.size)">Next</button>
+      <transition-group name="slider" tag="section">
+        <article v-for="entry in currentEntries" :key="entry.embed_uri">
+          <div class="body">
+            <iframe
+              :src="uriToEmbedUrl(entry.embed_uri)"
+              :key="'iframe-' + entry.embed_uri"
+              width="300"
+              height="380"
+              frameborder="0"
+              allowtransparency="true"
+              allow="encrypted-media"
+            ></iframe>
+            <h3 class="track" v-html="cleanOrphan(entry.track)"></h3>
+            <p class="album" v-html="cleanOrphan(entry.album)"></p>
+            <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
+            <p class="description" v-html="cleanOrphan(entry.description)"></p>
+            <div class="links">
+              <span v-for="[key, url] in sortedLinks(entry.links)" v-html="linkHTML(url, key)"></span>
+              <br v-if="entry.extra_links" />
+              <span v-for="[title, url] in entry.extra_links" v-if="entry.extra_links">
+                <a :href="url" target="_blank" class="text">{{ title }}</a>
+              </span>
+              <br>
+              <span><a class="text"><small>{{ time(entry.time) }}</small></a></span>
+            </div>
           </div>
-        </div>
-      </article>
-    </section>
+        </article>
+      </transition-group>
+    </div>
   </main>
   `;
 }
