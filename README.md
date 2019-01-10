@@ -1,3 +1,7 @@
+---
+permalink: /docs/index.html
+---
+
 # Jake Is Listening
 
 A public JSON file containing what I am listening to.
