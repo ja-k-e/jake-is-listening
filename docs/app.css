@@ -37,11 +37,6 @@ header {
   text-align: center;
   padding: 2.4rem 0;
 }
-@media (min-width: 630px) {
-  header {
-    padding: 5rem 0;
-  }
-}
 header p {
   font-size: 0.8rem;
 }
@@ -95,9 +90,11 @@ main {
   main {
     width: 630px;
   }
+  header {
+    padding: 7rem 0;
+  }
   h1 {
     font-size: 4rem;
-    padding-top: 4rem;
   }
 }
 
