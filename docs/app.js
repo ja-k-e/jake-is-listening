@@ -57,12 +57,14 @@ function appTemplate() {
   return /* html */ `
   <main>
     <div v-if="this.loaded">
+      <!--
       <nav>
         <button @click="toggle">
           <span v-if="view === 'browse'">View Table</span>
           <span v-else>View Browser</span>
         </button>
       </nav>
+      -->
       <br>
       <div v-if="view === 'browse'">
         <transition-group name="entries" tag="section" class="entries">
