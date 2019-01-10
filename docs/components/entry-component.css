@@ -22,7 +22,6 @@
 }
 .entry.loaded {
   opacity: 1;
-  filter: blur(0);
 }
 .entry p.description {
   margin: 0.5rem 0;

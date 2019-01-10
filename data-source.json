@@ -1,5 +1,31 @@
 [
   {
+    "artist": "Fela Ransome Kuti & His Koola Lobitos",
+    "album": "Highlife-Jazz and Afro-Soul",
+    "track": "Wa Dele",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/highlife-jazz-and-afro-soul/1077532156",
+      "discogs": "https://www.discogs.com/Fela-Ransome-Kuti-His-Koola-Lobitos-Fela-Ransome-Kuti-His-Koola-Lobitos/master/318227",
+      "spotify": "https://open.spotify.com/album/5eyvtau4jEgAU7VwlRq87R"
+    },
+    "embed_uri": "spotify:track:5t7Ps57Fmv0SXpKC26OCJK",
+    "description": "Early Fela. I dance to this at least once a week in my socks.",
+    "time": 1547155180099
+  },
+  {
+    "artist": "Chicago Afrobeat Project",
+    "album": "What Goes Up",
+    "track": "No Bad News",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/what-goes-up-feat-tony-allen/1266457412",
+      "discogs": "https://www.discogs.com/Chicago-Afrobeat-Project-Tony-Allen-What-Goes-Up/master/1281325",
+      "spotify": "https://open.spotify.com/album/25dqb1mdGWtsDJVjWWlGEA"
+    },
+    "embed_uri": "spotify:track:6nRiWhofytoS3IbZiOIC0S",
+    "description": "Tony Allen holds this whole record down. LEGIT’s verse on this track demonstrates just how seamlessly rap and afrobeat can fit together.",
+    "time": 1547154819883
+  },
+  {
     "artist": "Sudan Archives",
     "album": "Sudan Archives",
     "track": "Oatmeal",
@@ -9,7 +35,7 @@
       "spotify": "https://open.spotify.com/album/1NJE8feU5PVJXYOd3Cjklt"
     },
     "embed_uri": "spotify:track:24uuDkIjZdkaoFqAy4IJbP",
-    "description": "If ‘06 Bonnaroo Andrew Bird signed to Stones Throw and used sidechain compression, it wouldn’t work. This does. Sink is a great record too.",
+    "description": "If ‘06 Bonnaroo Andrew Bird signed to Stones Throw and used sidechain compression, it wouldn’t work. This does. “Sink” is a great record too.",
     "time": 1546987238000
   },
   {
