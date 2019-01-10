@@ -16,7 +16,6 @@ body {
 h1 {
   margin: 0 0 0.5rem;
   font-size: 2rem;
-  padding-top: 2.4rem;
   line-height: 1;
 }
 h2 {
@@ -36,6 +35,12 @@ a {
 
 header {
   text-align: center;
+  padding: 2.4rem 0;
+}
+@media (min-width: 630px) {
+  header {
+    padding: 5rem 0;
+  }
 }
 header p {
   font-size: 0.8rem;

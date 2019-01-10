@@ -65,7 +65,6 @@ function appTemplate() {
         </button>
       </nav>
       -->
-      <br>
       <div v-if="view === 'browse'">
         <transition-group name="entries" tag="section" class="entries">
           <entry-component v-for="entry in currentEntries"
