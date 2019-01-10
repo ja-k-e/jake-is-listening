@@ -2,7 +2,6 @@ html,
 body {
   background: #000;
   margin: 0;
-  height: 100%;
 }
 
 body {
@@ -11,28 +10,7 @@ body {
   background: linear-gradient(to bottom, #161616, #000);
   background-attachment: fixed;
   color: white;
-}
-
-article {
-  transition: all 250ms ease-in-out, opacity 250ms ease-in-out 300ms;
-}
-.slider-enter {
-  opacity: 0;
-  transform: translateX(100%);
-}
-.slider-enter-to {
-  opacity: 1;
-  transform: translateX(0);
-}
-.slider-leave,
-.slider-leave-active {
-  transition: none;
-  opacity: 0;
-  display: none;
-}
-
-a {
-  color: inherit;
+  min-height: 100vh;
 }
 
 h1 {
@@ -41,187 +19,38 @@ h1 {
   padding-top: 2.4rem;
   line-height: 1;
 }
-header {
-  text-align: left;
-  width: 300px;
-  margin: 0 auto;
-}
-@media (min-width: 700px) {
-  h1 {
-    font-size: 4rem;
-    padding-top: 4rem;
-  }
-  header {
-    width: 100%;
-    text-align: center;
-  }
-}
-
 h2 {
   margin: 1rem 0 0;
   font-size: 3rem;
 }
-
 h3 {
-  margin: 1rem 0 0;
+  margin: 0;
 }
-
-header a {
-  text-decoration-style: dotted;
-}
-
 p {
   margin: 0;
 }
-
-iframe {
-  background: #222;
-}
-
-main section {
-  padding-bottom: 4rem;
-}
-
-@media (min-width: 1000px) {
-  main section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
-  }
-  main section h2 {
-    flex-basis: 100%;
-    width: 100%;
-  }
-  main section article,
-  main section article + article {
-    margin-top: 2rem;
-  }
-  main section article {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-}
-main article {
-  width: 300px;
-  margin: 2rem auto 0;
-}
-main article .body {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  text-align: left;
-}
-main article p.description {
-  margin: 0.5rem 0;
-}
-main article p.artist {
-  color: #999;
-}
-main article .body iframe {
-  display: block;
-  margin: 0 auto 1rem;
-}
-main .links a.logo {
-  width: 20px;
-  display: inline-block;
-}
-main .links a.text {
-  line-height: 2;
+a {
+  color: inherit;
   text-decoration-style: dotted;
 }
-main .links a.logo svg {
-  width: 100%;
-  height: auto;
-  vertical-align: middle;
-}
-main .links span + span {
-  margin-left: 0.5rem;
-}
 
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 3rem 0 0;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  font-size: 1.25rem;
-  line-height: 1;
-}
-
-@media (max-width: 699px) {
-  nav {
-    width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-@media (min-width: 700px) {
-  nav ul {
-    font-size: 2rem;
-  }
-}
-
-nav li:first-child:not(:empty),
-nav li:last-child:not(:empty) {
-  position: relative;
-}
-
-nav li:first-child:not(:empty) a,
-nav li:last-child:not(:empty) a {
-  position: absolute;
-  top: 50%;
-  display: inline-block;
-  box-sizing: border-box;
-  -webkit-transform: translate(0%, -50%);
-  transform: translate(0%, -50%);
-}
-nav li:first-child:not(:empty)::before,
-nav li:last-child:not(:empty)::after {
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translate(0, -50%);
-  transform: translate(0, -50%);
-  z-index: 9;
-}
-
-nav li:first-child:not(:empty) a {
-  padding-left: 16px;
-  padding-right: 10px;
-  left: 0;
-  text-align: left;
-}
-nav li:last-child:not(:empty) a {
-  padding-left: 10px;
-  padding-right: 16px;
-  right: 0;
-  text-align: right;
-}
-nav li:first-child:not(:empty)::before {
-  content: "‹";
-  left: 0;
-}
-nav li:last-child:not(:empty)::after {
-  content: "›";
-  right: 0;
-}
-
-nav ul li {
-  width: 33.3333%;
-  max-width: calc(200px + 0.33rem);
+header {
   text-align: center;
 }
+header p {
+  font-size: 0.8rem;
+}
 
-nav ul li a {
-  text-decoration: none;
-  display: block;
+nav {
+  text-align: center;
+  margin-top: 1rem;
 }
 
 button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background: #333;
+  background: #262626;
   color: white;
   border-radius: 0;
   font-family: "Roboto", sans-serif;
@@ -233,55 +62,48 @@ button {
   cursor: pointer;
 }
 
-button:disabled {
-  opacity: 0.5;
+@keyframes delayed-entry {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.big-full-button {
+  display: block;
+  width: 100%;
+  padding: 30px 60px;
+  font-size: 1rem;
+  margin-top: 30px;
+  opacity: 0;
+  animation: delayed-entry 150ms ease-in-out 500ms forwards;
 }
 
-button + button {
-  margin-left: 1rem;
-}
-
-table th {
-  text-align: left;
-}
-
-table {
-  font-size: 0.8rem;
-  width: 95%;
+main {
+  width: 300px;
   margin: 0 auto;
+  padding-bottom: 4rem;
 }
 
-table td,
-table th {
-  padding: 0.25rem 0.25rem;
-  border: none;
-}
-
-table td:nth-child(4),
-table th:nth-child(4) {
-  display: none;
-}
-
-table tbody tr:nth-child(odd) {
-  background: #222;
-}
-
-@media (min-width: 1024px) {
-  table td,
-  table th {
-    padding: 0.25rem 0.5rem;
+@media (min-width: 660px) {
+  main {
+    width: 630px;
   }
-
-  table td:nth-child(4),
-  table th:nth-child(4) {
-    display: table-cell;
+  h1 {
+    font-size: 4rem;
+    padding-top: 4rem;
   }
 }
 
-main table .links a.logo {
-  width: 16px;
+@media (min-width: 990px) {
+  main {
+    width: 960px;
+  }
 }
 
-main aside {
-  text-align: center;
+@media (min-width: 1320px) {
+  main {
+    width: 1290px;
+  }
 }

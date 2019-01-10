@@ -1,0 +1,27 @@
+ul.links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ul.links + ul.links {
+  margin-top: 0.5rem;
+}
+ul.links li {
+  display: inline-block;
+}
+ul.links li a.text {
+  font-size: 0.8rem;
+}
+ul.links li a.logo {
+  width: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+ul.links li a.logo svg {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+ul.links li + li {
+  margin-left: 0.5rem;
+}

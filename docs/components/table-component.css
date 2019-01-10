@@ -1,0 +1,42 @@
+.table {
+  font-size: 0.8rem;
+  width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.table th {
+  text-align: left;
+}
+
+.table td,
+.table th {
+  padding: 0.25rem 0.25rem;
+  border: none;
+}
+
+.table td:nth-child(4),
+.table th:nth-child(4) {
+  display: none;
+}
+
+.table tbody tr:nth-child(odd) {
+  background: #222;
+}
+
+@media (min-width: 1024px) {
+  .table td,
+  .table th {
+    padding: 0.25rem 0.5rem;
+  }
+
+  .table td:nth-child(4),
+  .table th:nth-child(4) {
+    display: table-cell;
+    width: 120px;
+  }
+}
+
+.table .links a.logo {
+  width: 16px;
+}

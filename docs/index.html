@@ -10,33 +10,37 @@
       rel="stylesheet"
     />
     <link href="app.css" rel="stylesheet" />
+    <link href="components/entry-component.css" rel="stylesheet" />
+    <link href="components/links-component.css" rel="stylesheet" />
+    <link href="components/table-component.css" rel="stylesheet" />
   </head>
   <body>
     <header>
       <h1>Jake is Listening</h1>
       <p>
-        <small
-          ><a href="https://twitter.com/jake_albaugh" target="_blank"
-            >Twitter</a
-          >
-          &bull;
-          <a href="https://open.spotify.com/user/jakealbaugh" target="_blank"
-            >Spotify</a
-          >
-          &bull;
-          <a
-            href="https://github.com/jakealbaugh/jake-is-listening-to"
-            target="_blank"
-            >GitHub</a
-          ></small
+        <a href="https://twitter.com/jake_albaugh" target="_blank">Twitter</a>
+        &bull;
+        <a href="https://open.spotify.com/user/jakealbaugh" target="_blank"
+          >Spotify</a
+        >
+        &bull;
+        <a
+          href="https://github.com/jakealbaugh/jake-is-listening-to"
+          target="_blank"
+          >GitHub</a
         >
       </p>
     </header>
 
     <div id="app"></div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.21/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.21/vue.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.21/vue.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+    <script src="components/EntryComponent.js"></script>
+    <script src="components/LinksComponent.js"></script>
+    <script src="components/TableComponent.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

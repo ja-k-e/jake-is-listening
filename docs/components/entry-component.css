@@ -1,0 +1,69 @@
+.entries {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;
+  align-content: center; */
+  margin: 0 -15px;
+}
+
+.entry {
+  width: 300px;
+  margin: 15px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  text-align: left;
+  transition: opacity 150ms ease-in-out;
+}
+.entries-enter {
+  opacity: 0;
+}
+.entries-enter-to {
+  opacity: 1;
+}
+.entry.loaded {
+  opacity: 1;
+  filter: blur(0);
+}
+.entry p.description {
+  margin: 0.5rem 0;
+}
+.entry p.artist {
+  color: #999;
+}
+.entry h3.track {
+  margin: 0;
+}
+.entry .embed {
+  margin-bottom: 15px;
+  background: #222;
+}
+.entry .embed iframe {
+  display: block;
+  margin: 0;
+  height: 80px;
+  opacity: 0;
+  transition: opacity 150ms ease-in-out;
+}
+.entry.loaded .embed iframe {
+  opacity: 1;
+}
+/* .entry .meta {
+  position: relative;
+}
+.entry .time {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  line-height: 1;
+}
+.entry .time a {
+  color: #999;
+  display: inline-block;
+} */
+
+@media (min-width: 990px) {
+  .entry .embed iframe {
+    height: 380px;
+  }
+}
