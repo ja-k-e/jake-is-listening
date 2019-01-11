@@ -6,13 +6,13 @@ A public JSON file containing what I am listening to.
 
 - write data in `/data-source.json`
 - `yarn serve` will start hosting `./docs` at [localhost:8000](http://localhost:8000)
-- `yarn build` will clean and minify the json to `./docs`.
+- `yarn build` will clean, paginate and minify the json to `./docs/data/`.
 
 ## Publish
 
 - publish by running `yarn pub` which will `build`, commit, and push to `origin master`.
-- enable github pages for the `docs` directory
-- data will be available at [https://jakealbaugh.github.io/jake-is-listening/data.json](https://jakealbaugh.github.io/jake-is-listening/data.json)
+- enable github pages for the `./docs` directory
+- data will be available at [https://jakealbaugh.github.io/jake-is-listening/data/001.json](https://jakealbaugh.github.io/jake-is-listening/data/001.json)
 
 ## Tweeting
 

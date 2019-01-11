@@ -4,9 +4,10 @@ new Vue({
     return {
       entries: [],
       loaded: false,
+      loading: true,
+      pagination: {},
       start: 0,
-      stop: 0,
-      view: "browse"
+      stop: 0
     };
   },
   computed: {
@@ -14,37 +15,50 @@ new Vue({
       return this.entries.length && this.entries.length - 1 > this.stop;
     },
     currentEntries() {
-      return this.sortedEntries.slice(this.start, this.stop);
+      return this.entries.slice(this.start, this.stop);
     },
     size() {
       let w = window.innerWidth;
       return w >= 1320 ? 8 : 6;
-    },
-    sortedEntries() {
-      return this.entries.sort((a, b) => {
-        if (a.time > b.time) return -1;
-        if (a.time < b.time) return 1;
-        return 0;
-      });
     }
   },
   methods: {
     loadMore() {
       this.stop = Math.min(this.entries.length, this.stop + this.size);
+      if (
+        this.stop === this.entries.length &&
+        this.pagination.next &&
+        !this.loading
+      ) {
+        this.fetchData(this.pagination.next).then(() => {
+          console.log("fetched more!");
+        });
+      }
     },
     onScroll() {
       if (window.innerHeight + window.scrollY < document.body.offsetHeight)
         return;
       this.loadMore();
     },
-    toggle() {
-      if (this.view === "browse") this.view = "all";
-      else this.view = "browse";
+    fetchData(page) {
+      return new Promise((resolve, reject) => {
+        this.loading = true;
+        const path = `data/${page.toString().padStart(3, "0")}.json`;
+        axios
+          .get(path)
+          .then(({ data }) => {
+            let { entries, pagination } = data;
+            this.pagination = pagination;
+            entries.forEach(d => this.entries.push(d));
+            this.loading = false;
+            resolve();
+          })
+          .catch(reject);
+      });
     }
   },
   mounted() {
-    axios.get("data.json").then(({ data }) => {
-      data.forEach(d => this.entries.push(d));
+    this.fetchData(1).then(() => {
       this.loaded = true;
       window.addEventListener("scroll", this.onScroll.bind(this));
       setTimeout(() => this.loadMore(), 0);
@@ -57,25 +71,14 @@ function appTemplate() {
   return /* html */ `
   <main>
     <div v-if="this.loaded">
-      <!--
-      <nav>
-        <button @click="toggle">
-          <span v-if="view === 'browse'">View Table</span>
-          <span v-else>View Browser</span>
-        </button>
-      </nav>
-      -->
-      <div v-if="view === 'browse'">
-        <transition-group name="entries" tag="section" class="entries">
-          <entry-component v-for="entry in currentEntries"
-            :entry="entry" :key="entry.embed_uri">
-          </entry-component>
-        </transition-group>
-        <button class="big-full-button" @click="loadMore" v-if="canLoadMore">LOAD MORE</button>
-      </div>
-      <div v-if="view === 'all'">
-        <table-component :entries="sortedEntries"></table-component>
-      </div>
+      <transition-group name="entries" tag="section" class="entries">
+        <entry-component v-for="entry in currentEntries"
+          :entry="entry" :key="entry.embed_uri">
+        </entry-component>
+      </transition-group>
+      <button class="big-full-button" @click="loadMore" v-if="canLoadMore" :disabled="loading">
+        <span v-if="loading">LOADING</span><span v-else>LOAD MORE</span>
+      </button>
     </div>
   </main>
   `;
