@@ -1,6 +1,6 @@
 const List = require("prompt-list");
 const fs = require("fs");
-const entries = JSON.parse(fs.readFileSync("./docs/data.json", "utf8"));
+const entries = JSON.parse(fs.readFileSync("./data-source.json", "utf8"));
 const colors = require("colors");
 const wrap = require("word-wrap");
 const MAX_CHARS = 280;
@@ -41,15 +41,6 @@ function generateTweet({ description, embed_uri }) {
   let link = linkFromEmbedURI(embed_uri);
   let tweet = cleanDescription(description, link.length);
   return `${tweet}\n${link}`;
-}
-
-function printTextToConsole(tweet) {
-  console.log(" ");
-  console.log("COPY THE TEXT BELOW".yellow.bold);
-  console.log(" ");
-  console.log(tweet.cyan.bold);
-  console.log(" ");
-  console.log(" ");
 }
 
 function printPreviewToConsole(tweet) {
