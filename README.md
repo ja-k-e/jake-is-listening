@@ -19,3 +19,5 @@ A public JSON file containing what I am listening to.
 - `yarn tweet`
 - follow the instructions to select a entry to tweet
 - if the entry you are looking for doesn't exist, you probably need to `yarn build`
+- i was gonna use the Twitter API to post, but realized its about just as much work to copy paste.
+- This will spit out formatted text within the character limit as a preview as well s copy it to your clipboard (MacOS).

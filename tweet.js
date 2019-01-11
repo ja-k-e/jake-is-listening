@@ -26,26 +26,30 @@ function processEntry(key) {
   let index = parseInt(key.match(/ # (\d+)$/)[1]);
   let tweet = generateTweet(entries[index]);
   printPreviewToConsole(tweet);
+  pbcopy(tweet);
+  console.log("👍   Good to go. It's on your clipboard!".yellow);
+  return true;
+}
 
-  const list = new List({
-    name: "confirm",
-    message: "Does this tweet look about right?",
-    choices: ["Yes", "No"]
-  });
-
-  list.run().then(answer => {
-    if (answer === "Yes") return publishTweet(tweet);
-    console.log(
-      "Ok. Edit data-source.json then run `yarn build` and try again.".red
-    );
-    return "👎";
-  });
+function pbcopy(data) {
+  let proc = require("child_process").spawn("pbcopy");
+  proc.stdin.write(data);
+  proc.stdin.end();
 }
 
 function generateTweet({ description, embed_uri }) {
   let link = linkFromEmbedURI(embed_uri);
   let tweet = cleanDescription(description, link.length);
   return `${tweet}\n${link}`;
+}
+
+function printTextToConsole(tweet) {
+  console.log(" ");
+  console.log("COPY THE TEXT BELOW".yellow.bold);
+  console.log(" ");
+  console.log(tweet.cyan.bold);
+  console.log(" ");
+  console.log(" ");
 }
 
 function printPreviewToConsole(tweet) {
@@ -58,6 +62,8 @@ function printPreviewToConsole(tweet) {
       return t;
     })
     .join("\n");
+  console.log(" ");
+  console.log("HERES WHAT IT WILL LOOK LIKE".yellow.bold);
   console.log(" ");
   console.log("".padEnd(74, " ").bgBlack);
   console.log(text.white.bgBlack.bold);
@@ -81,10 +87,4 @@ function linkFromEmbedURI(uri) {
   if (source === "youtube") return `https://youtu.be/${typeOrId}`;
   if (source === "spotify") return `https://open.spotify.com/${typeOrId}/${id}`;
   return uri;
-}
-
-function publishTweet(tweet) {
-  console.log("Tweet Time!".cyan.bold);
-  printPreviewToConsole(tweet);
-  return "👍";
 }
