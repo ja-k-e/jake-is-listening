@@ -5,10 +5,15 @@
   "author": "Jake Albaugh <jake.albaugh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsonminify": "^0.4.1"
+    "colors": "^1.3.3",
+    "jsonminify": "^0.4.1",
+    "prompt-list": "^3.2.0",
+    "word-wrap": "^1.2.3"
   },
   "scripts": {
     "build": "node index.js",
-    "pub": "node index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
+    "serve": "cd ./docs; simplehttpserver; cd -",
+    "tweet": "node ./tweet.js",
+    "pub": "node ./index.js; git add --all; git commit -m 'UPDATE'; git push origin master"
   }
 }
