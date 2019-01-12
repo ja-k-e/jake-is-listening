@@ -12,7 +12,7 @@ A public JSON file containing what I am listening to.
 
 - publish by running `yarn pub` which will `build`, commit, and push to `origin master`.
 - enable github pages for the `./docs` directory
-- data will be available at [https://jakealbaugh.github.io/jake-is-listening/data/001.json](https://jakealbaugh.github.io/jake-is-listening/data/001.json)
+- data will be available at [https://jakeislistening.com/data/001.json](https://jakeislistening.com/data/001.json)
 
 ## Tweeting
 
