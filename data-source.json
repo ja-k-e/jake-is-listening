@@ -1,5 +1,31 @@
 [
   {
+    "artist": "Freddie Scott",
+    "album": "Are You Lonely For Me?",
+    "track": "Shake a Hand",
+    "links": {
+      "apple": "https://itunes.apple.com/ca/album/are-you-lonely-for-me/1341834818",
+      "spotify": "https://open.spotify.com/album/3oo6JTCjdCfROceG3mIHOR",
+      "discogs": "https://www.discogs.com/Freddie-Scott-Are-You-Lonely-For-Me/master/569930"
+    },
+    "embed_uri": "spotify:track:0Jd9Vrk7MLjZnVRZiMSmJo",
+    "description": "I find it hard to actually shake a hand during the chorus because they are both straight up in the air.",
+    "time": 1547682168997
+  },
+  {
+    "artist": "Tom Waits",
+    "album": "Real Gone",
+    "track": "Hoist that Rag",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/real-gone-remastered/1313387047",
+      "spotify": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy",
+      "discogs": "https://www.discogs.com/Tom-Waits-Real-Gone/release/339492"
+    },
+    "embed_uri": "spotify:track:4H3K3jbAgNoDIbVcU6c6kg",
+    "description": "This is my anthem when I feel rambunctious.",
+    "time": 1547682168996
+  },
+  {
     "artist": "Milo",
     "album": "Things That Happen At Day // Things That Happen At Night",
     "track": "Folk-Metaphysics",
