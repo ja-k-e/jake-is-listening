@@ -1,5 +1,18 @@
 [
   {
+    "artist": "Donny Hathaway",
+    "album": "Never My Love: The Anthology",
+    "track": "Jealous Guy",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/never-my-love-the-anthology/731746642",
+      "spotify": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO",
+      "discogs": "https://www.discogs.com/Donny-Hathaway-Never-My-Love-The-Anthology/master/737319"
+    },
+    "embed_uri": "spotify:track:6IHnyVDbp9pfkaD2i74ceh",
+    "description": "Donny effortlessly floats on top of a heavy D’Angelo-esque cadence in a straight-out-of-the-saloon-you-wish-existed live performance. In no reality would John Lennon come close to this. Another performance of this track is sampled in Chance’s “Juice”.",
+    "time": 1547756737239
+  },
+  {
     "artist": "Freddie Scott",
     "album": "Are You Lonely For Me?",
     "track": "Shake a Hand",
@@ -9,7 +22,7 @@
       "discogs": "https://www.discogs.com/Freddie-Scott-Are-You-Lonely-For-Me/master/569930"
     },
     "embed_uri": "spotify:track:0Jd9Vrk7MLjZnVRZiMSmJo",
-    "description": "I find it hard to actually shake a hand during the chorus because they are both straight up in the air.",
+    "description": "Shaking a hand during the chorus is impossible when they are both straight up in the air.",
     "time": 1547682168997
   },
   {
