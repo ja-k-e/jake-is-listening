@@ -48,18 +48,6 @@
     "description": ""
   },
   {
-    "artist": "Irma Thomas",
-    "album": "Take A Look",
-    "track": "Anyone Who Knows What Love Is (Will Understand)",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20irma%20thomas%20take%20a%20look",
-      "spotify": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS",
-      "discogs": "https://www.discogs.com/search/?q=irma+thomas+take+a+look&type=master"
-    },
-    "embed_uri": "spotify:track:5GWCndQ8ykzf6rYRvwrFcj",
-    "description": ""
-  },
-  {
     "artist": "Lady Wray",
     "album": "Queen Alone",
     "track": "Smiling",
