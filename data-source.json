@@ -1,5 +1,98 @@
 [
   {
+    "artist": "Burning Spear",
+    "album": "Studio One Presents Burning Spear",
+    "track": "Door Peep Shall Not Enter",
+    "links": {
+      "apple": "https://itunes.apple.com/ru/album/burning-spear-at-studio-one/285203919?l=en",
+      "spotify": "https://open.spotify.com/album/15eEo9vTgcZt4LUL5NsVxZ?si=UhmHMjT_QdqeuPk-MDAbQQ",
+      "discogs": "https://www.discogs.com/Burning-Spear-Studio-One-Presents-Burning-Spear/master/212379",
+      "youtube": "https://www.youtube.com/watch?v=ZBzCPZ_9WKU&list=PL8F224E15BA381433"
+    },
+    "embed_uri": "youtube:Ea4t79nFd9E",
+    "description": "The song that got me into reggae over a decade ago. Good luck landing a copy of this version.",
+    "time": 1547880108261
+  },
+  {
+    "artist": "The Bunny Lee All Stars",
+    "album": "Bunny “Striker” Lee’s Full Up: Early Reggae Productions 1968-72",
+    "track": "Ivan Itler the Conqueror",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/bunny-striker-lees-early-reggae-productions-1968-72/933340332?l=es",
+      "spotify": "https://open.spotify.com/album/5qMB1i9mXpWZSLlNJ8IC8f",
+      "discogs": "https://www.discogs.com/Bunny-Striker-Lee-Full-Up-Bunny-Striker-Lees-Early-Reggae-Productions-1968-72/master/776162"
+    },
+    "embed_uri": "spotify:track:0LLanWs4C7uIKTxzzYCLSr",
+    "description": "Find an alley, headphones on, hood up, and dance that pain away.",
+    "time": 1547879094465
+  },
+  {
+    "artist": "Betty Wright",
+    "album": "I Love The Way You Love",
+    "track": "Clean Up Woman",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/i-love-the-way-you-love/265606207",
+      "spotify": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi",
+      "discogs": "https://www.discogs.com/Betty-Wright-I-Love-The-Way-You-Love/master/267099"
+    },
+    "embed_uri": "spotify:track:6uqTETWok9npbL4c9cuLVh",
+    "description": "Name that sample. This is better.",
+    "time": 1547878246234
+  },
+  {
+    "artist": "Elizabeth Cotten",
+    "album": "Elizabeth Cotten, Volume 3: When I’m Gone",
+    "track": "Willie",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/elizabeth-cotten-vol-3-when-im-gone/154816804",
+      "spotify": "https://open.spotify.com/album/5IMSR7W9qUIG9PLjREfbcJ",
+      "discogs": "https://www.discogs.com/Elizabeth-Cotten-Volume-3-When-Im-Gone/master/205719"
+    },
+    "embed_uri": "spotify:track:0QnxC2NXzAYxIdjUCYgqC1",
+    "description": "Dim the lights, sit in that chair you never sit in, light a cigarette, put this on loop, and close your eyes.",
+    "time": 1547877703723
+  },
+  {
+    "artist": "Karen Dalton",
+    "album": "Green Rocky Road",
+    "track": "Red Rockin’ Chair",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/green-rocky-road/1285752987",
+      "spotify": "https://open.spotify.com/album/12FUhqjkKSQi6UEbwfD2UL",
+      "discogs": "https://www.discogs.com/Karen-Dalton-Green-Rocky-Road/master/342619"
+    },
+    "embed_uri": "spotify:track:0kdkxLHfcRgWV7SevDMnb1",
+    "description": "Apparently this song is a bluegrass standard, but as far as I’m concerned, this is everything.",
+    "time": 1547877322371
+  },
+  {
+    "artist": "Paul Robeson, Alan Booth",
+    "album": "Every Time I Feel the Spirit",
+    "track": "Old Man River",
+    "links": {
+      "apple": "https://itunes.apple.com/mn/album/every-time-i-feel-the-spirit/1391062566",
+      "spotify": "https://open.spotify.com/album/2wBVWUhw5AAZbLOD140Nbk",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ol%27_Man_River#Paul_Robeson's_alterations_to_the_song_lyrics"
+    },
+    "embed_uri": "spotify:track:1FBUjIW8HFodMgmo6VuJag",
+    "description": "Paul Robeson is always bigger than you think he is. He changed the words that he had sung countless times to ones that marked the spirit of his defiance. Boldly defying injustice while exercising remarkable kindness and compassion, Paul resounded in deep baritone across the nation. Everyone should learn the story of Paul Robeson.",
+    "time": 1547876913946
+  },
+  {
+    "artist": "Nina Simone",
+    "album": "'Nuff Said",
+    "track": "Ain't Got No - I Got Life",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/nuff-said/518083955",
+      "spotify": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg",
+      "discogs": "https://www.discogs.com/Nina-Simone-Nuff-Said/master/99021",
+      "youtube": "https://youtu.be/L5jI9I03q8E"
+    },
+    "embed_uri": "spotify:track:5VgcM58bybW45T2WgTdbeY",
+    "description": "Words do not describe the power of this song as it is performed here by Nina.",
+    "time": 1547875349098
+  },
+  {
     "artist": "Donny Hathaway",
     "album": "Never My Love: The Anthology",
     "track": "Jealous Guy",
@@ -148,6 +241,20 @@
     "time": 1546468838000
   },
   {
+    "artist": "The Roha Band",
+    "album": "Roha Band Tour 1990",
+    "track": "Ferait Weyni",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/roha-band-tour-1990/277423892",
+      "discogs": "https://www.discogs.com/Roha-Band-Roha-Band-Tour-1990/master/1183744",
+      "spotify": "https://open.spotify.com/album/4H9lHMCFr8kvhtvzcUGJ2C",
+      "wikipedia": "https://en.wikipedia.org/wiki/Selam_Woldemariam"
+    },
+    "embed_uri": "spotify:track:2OrmINRmhTeOJfhug1fybd",
+    "description": "Ethiopian music has a rich history worth exploration. Just happened upon this one.",
+    "time": 1546468838000
+  },
+  {
     "artist": "Madvillain",
     "album": "Madvillainy",
     "track": "All Caps",
@@ -170,20 +277,6 @@
     },
     "embed_uri": "spotify:track:5jEHZAJlxIf6bK9LkKnRH0",
     "description": "NONAME × 13 PHOELIX × 7 CHICAGO × 100. These two made my NYE special.",
-    "time": 1546468838000
-  },
-  {
-    "artist": "The Roha Band",
-    "album": "Roha Band Tour 1990",
-    "track": "Ferait Weyni",
-    "links": {
-      "apple": "https://itunes.apple.com/us/album/roha-band-tour-1990/277423892",
-      "discogs": "https://www.discogs.com/Roha-Band-Roha-Band-Tour-1990/master/1183744",
-      "spotify": "https://open.spotify.com/album/4H9lHMCFr8kvhtvzcUGJ2C",
-      "wikipedia": "https://en.wikipedia.org/wiki/Selam_Woldemariam"
-    },
-    "embed_uri": "spotify:track:2OrmINRmhTeOJfhug1fybd",
-    "description": "Ethiopian music has a rich history worth exploration. Just happened upon this one.",
     "time": 1546468838000
   },
   {
