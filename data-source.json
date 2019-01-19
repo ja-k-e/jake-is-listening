@@ -10,7 +10,7 @@
       "youtube": "https://www.youtube.com/watch?v=ZBzCPZ_9WKU&list=PL8F224E15BA381433"
     },
     "embed_uri": "youtube:Ea4t79nFd9E",
-    "description": "The song that got me into reggae over a decade ago. Good luck landing a copy of this version.",
+    "description": "The song that got me into reggae. Good luck landing a copy of this version. I haven’t.",
     "time": 1547880108261
   },
   {
@@ -74,6 +74,12 @@
       "spotify": "https://open.spotify.com/album/2wBVWUhw5AAZbLOD140Nbk",
       "wikipedia": "https://en.wikipedia.org/wiki/Ol%27_Man_River#Paul_Robeson's_alterations_to_the_song_lyrics"
     },
+    "extra_links": [
+      [
+        "Read This",
+        "https://en.wikipedia.org/wiki/Paul_Robeson"
+      ]
+    ],
     "embed_uri": "spotify:track:1FBUjIW8HFodMgmo6VuJag",
     "description": "Paul Robeson is always bigger than you think he is. He changed the words that he had sung countless times to ones that marked the spirit of his defiance. Boldly defying injustice while exercising remarkable kindness and compassion, Paul resounded in deep baritone across the nation. Everyone should learn the story of Paul Robeson.",
     "time": 1547876913946
