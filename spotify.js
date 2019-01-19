@@ -21,17 +21,17 @@ function handleData(data) {
   return true;
 }
 
-function formattedData({ track }) {
+https: function formattedData({ track }) {
   const { album, artists, uri, name } = track;
   const artist = artists.map(a => a.name).join(", ");
   const discogs = `${discogsQS(artists[0].name)}+${discogsQS(album.name)}`;
-  const apple = `${searchQS(artists[0].name)} ${searchQS(album.name)}`;
+  const apple = `${googleQS(artists[0].name)}%20${googleQS(album.name)}`;
   return {
     artist,
     album: album.name,
     track: name,
     links: {
-      apple: `apple music ${apple}`,
+      apple: `https://www.google.com/search?q=apple%20music%20${apple}`,
       spotify: `https://open.spotify.com/album/${album.id}`,
       discogs: `https://www.discogs.com/search/?q=${discogs}&type=master`
     },
@@ -40,8 +40,12 @@ function formattedData({ track }) {
   };
 }
 
-function searchQS(item) {
-  return item.toLowerCase().replace(/[^a-z0-9 ]+/g, "");
+function googleQS(item) {
+  return item
+    .toLowerCase()
+    .replace(/[^a-z0-9 ]+/g, "")
+    .split(" ")
+    .join("%20");
 }
 
 function discogsQS(item) {
