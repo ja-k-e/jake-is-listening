@@ -1,5 +1,63 @@
 [
   {
+    "artist": "Shadow",
+    "album": "Sweet Sweet Dreams (Analog Africa No. 22)",
+    "track": "Moon Walking",
+    "links": {
+      "apple": "https://itunes.apple.com/ca/album/sweet-sweet-dreams-analog-africa-no-22/1176257840",
+      "spotify": "https://open.spotify.com/album/0mma3gvpIPkMUtHTfutg5G",
+      "discogs": "https://www.discogs.com/Shadow-Sweet-Sweet-Dreams/master/676191"
+    },
+    "embed_uri": "spotify:track:0FKGj3np5wzCOBTCCI9ZpX",
+    "description": "I used to find this style of ‘80s production un-listenable, but this Trinidad & Tobago release from 1984 has made me second guess that notion entirely.",
+    "time": 1548356028317
+  },
+  {
+    "artist": "The Frightnrs",
+    "album": "Nothing More to Say",
+    "track": "Till Then",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/nothing-more-to-say/1123101852",
+      "spotify": "https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX",
+      "discogs": "https://www.discogs.com/The-Frightnrs-Nothing-More-To-Say/master/1050353"
+    },
+    "extra_links": [
+      [
+        "NPR: The Tragic Turn Of The Frightnrs' First — And Last — Record",
+        "https://www.npr.org/sections/therecord/2016/08/23/490958536/the-tragic-turn-of-the-frightnrs-first-and-last-record"
+      ]
+    ],
+    "embed_uri": "spotify:track:4avroLEAQBpzWSKqx2xCme",
+    "description": "Easily mistaken for 1968 Kingston, Jamaica. In reality it is 2016 Jamaica, Queens. This is, in a sense, a goodbye letter from singer Dan Klein. Dan succumbed to ALS three months prior to this Daptone release — hours after attending a Sharon Jones performance.",
+    "time": 1548355064730
+  },
+  {
+    "artist": "Count Bass D",
+    "album": "Unexpected Guests",
+    "track": "Quite Buttery feat. DOOM",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/unexpected-guests-doom-presents/336635507",
+      "spotify": "https://open.spotify.com/album/0dk5mEAzlw1Wpk0O5xUPy6",
+      "discogs": "https://www.discogs.com/DOOM-Unexpected-Guests/master/202425"
+    },
+    "embed_uri": "spotify:track:3sJgcMDzgKTwoHZisgHvSP",
+    "description": "Limiting this vibe to 78 seconds is unfair to anyone that hears it. “Did I s...s...stutter, G?”",
+    "time": 1548352336734
+  },
+  {
+    "artist": "Cannibal Ox, Artifacts, U-God",
+    "album": "Blade of the Ronin",
+    "track": "Blade: The Art of Ox",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/blade-of-the-ronin/1226599240",
+      "spotify": "https://open.spotify.com/album/0GPz6viVXV8D5PghwJJflh",
+      "discogs": "https://www.discogs.com/Cannibal-Ox-Blade-Of-The-Ronin/master/1175628"
+    },
+    "embed_uri": "spotify:track:6irbl7HTsP2WLj5Fp91fu4",
+    "description": "This track makes my face look like I am feeling a wad of bread dough in that game where you blindly stick your hand in a box and try to figure out what’s inside.",
+    "time": 1548351708804
+  },
+  {
     "artist": "Lady Wray",
     "album": "Queen Alone",
     "track": "Smiling",
