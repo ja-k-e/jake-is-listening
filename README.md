@@ -1,6 +1,6 @@
 # Jake Is Listening
 
-A public JSON file containing what I am listening to.
+Paginated public JSON files containing what I am listening to, and a simple Vue interface.
 
 ## Development
 
@@ -11,7 +11,7 @@ A public JSON file containing what I am listening to.
 ## Publish
 
 - publish by running `yarn pub` which will `build`, commit, and push to `origin master`.
-- enable github pages for the `./docs` directory
+- enable github pages for the `./docs` directory or host on [netlify](https://www.netlify.com)
 - data will be available at [https://jakeislistening.com/data/001.json](https://jakeislistening.com/data/001.json)
 
 ## Tweeting
