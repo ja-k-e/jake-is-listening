@@ -1,17 +1,5 @@
 [
   {
-    "artist": "Black Merda",
-    "album": "The Folks From Mother’s Mixer",
-    "track": "Reality",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20black%20merda%20the%20folks%20from%20mothers%20mixer",
-      "spotify": "https://open.spotify.com/album/2XSAdRkmdYRPCRFYKp6oZO",
-      "discogs": "https://www.discogs.com/search/?q=black+merda+the+folks+from+mothers+mixer&type=master"
-    },
-    "embed_uri": "spotify:track:7KjczgU0sHkvFQsCgIOuCP",
-    "description": ""
-  },
-  {
     "artist": "Etta James",
     "album": "The Best Of Etta James 20th Century Masters The Millennium Collection",
     "track": "Something’s Got A Hold On Me - Single Version",
@@ -60,30 +48,6 @@
     "description": ""
   },
   {
-    "artist": "Leonard Cohen",
-    "album": "New Skin For The Old Ceremony",
-    "track": "Chelsea Hotel #2",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20leonard%20cohen%20new%20skin%20for%20the%20old%20ceremony",
-      "spotify": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL",
-      "discogs": "https://www.discogs.com/search/?q=leonard+cohen+new+skin+for+the+old+ceremony&type=master"
-    },
-    "embed_uri": "spotify:track:4krhCfJg0znykZoyjeMXRe",
-    "description": ""
-  },
-  {
-    "artist": "Lee Jung Hwa",
-    "album": "Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea’s Shin Joong Hyun 1958-1974",
-    "track": "I Don’t Like",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20lee%20jung%20hwa%20beautiful%20rivers%20and%20mountains%20the%20psychedelic%20rock%20sound%20of%20south%20koreas%20shin%20joong%20hyun",
-      "spotify": "https://open.spotify.com/album/52jS7Uk30kl3DcSszH1LKq",
-      "discogs": "https://www.discogs.com/search/?q=lee+jung+hwa+beautiful+rivers+and+mountains+the+psychedelic+rock+sound+of+south+koreas+shin+joong+hyun&type=master"
-    },
-    "embed_uri": "spotify:track:37UMQqVdR2cYkFki6jbOK7",
-    "description": ""
-  },
-  {
     "artist": "Shin Joong Hyun",
     "album": "Shin Joong Hyun & Yup Juns",
     "track": "Beautiful Woman",
@@ -95,7 +59,6 @@
     "embed_uri": "spotify:track:3klv24tb9Px6QI1Mhym1x2",
     "description": ""
   },
-
   {
     "artist": "The Lulus Band",
     "album": "Kenya Special, Vol. 2 (Selected East African Recordings from the 1970’s & 80’s)",
@@ -106,19 +69,6 @@
       "discogs": "https://www.discogs.com/search/?q=the+lulus+band+kenya+special+vol+2+selected+east+african+recordings+from+the+1970s++80s&type=master"
     },
     "embed_uri": "spotify:track:7sZNptYBMkChjGozctBsiq",
-    "description": ""
-  },
-
-  {
-    "artist": "Anika",
-    "album": "Anika",
-    "track": "In the City",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20anika%20anika",
-      "spotify": "https://open.spotify.com/album/0wcr6i3pA9jWXEBD8V44rM",
-      "discogs": "https://www.discogs.com/search/?q=anika+anika&type=master"
-    },
-    "embed_uri": "spotify:track:0khHA65uKHItjWKdxWeXFs",
     "description": ""
   },
   {
