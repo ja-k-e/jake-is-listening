@@ -95,18 +95,7 @@
     "embed_uri": "spotify:track:3klv24tb9Px6QI1Mhym1x2",
     "description": ""
   },
-  {
-    "artist": "Frank Ocean",
-    "album": "channel ORANGE",
-    "track": "Crack Rock",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20frank%20ocean%20channel%20orange",
-      "spotify": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
-      "discogs": "https://www.discogs.com/search/?q=frank+ocean+channel+orange&type=master"
-    },
-    "embed_uri": "spotify:track:5lcyIeEfwZTs8Ajw3kdF7P",
-    "description": ""
-  },
+
   {
     "artist": "The Lulus Band",
     "album": "Kenya Special, Vol. 2 (Selected East African Recordings from the 1970’s & 80’s)",
@@ -119,18 +108,7 @@
     "embed_uri": "spotify:track:7sZNptYBMkChjGozctBsiq",
     "description": ""
   },
-  {
-    "artist": "El Michels Affair, Lee Fields",
-    "album": "Return to the 37th Chamber",
-    "track": "Snakes",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20el%20michels%20affair%20return%20to%20the%2037th%20chamber",
-      "spotify": "https://open.spotify.com/album/55aQeiRs8wl30Eo3kV3j3w",
-      "discogs": "https://www.discogs.com/search/?q=el+michels+affair+return+to+the+37th+chamber&type=master"
-    },
-    "embed_uri": "spotify:track:3ceFQniYTNGSSpmiUogABH",
-    "description": ""
-  },
+
   {
     "artist": "Anika",
     "album": "Anika",

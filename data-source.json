@@ -1,5 +1,84 @@
 [
   {
+    "artist": "Shin Joong-hyun, Lee Jung Hwa",
+    "album": "Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea’s Shin Joong Hyun 1958-1974",
+    "track": "I Don’t Like",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/beautiful-rivers-mountains-psychedelic-rock-sound-south/659155064",
+      "spotify": "https://open.spotify.com/album/52jS7Uk30kl3DcSszH1LKq",
+      "discogs": "https://www.discogs.com/Shin-Joong-Hyun-Beautiful-Rivers-And-Mountains-The-Psychedelic-Rock-Sound-Of-South-Koreas-Shin-Joong/master/392029",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shin_Jung-hyeon"
+    },
+    "embed_uri": "spotify:track:37UMQqVdR2cYkFki6jbOK7",
+    "description": "Shin is referred to as Korea’s, “Godfather of Rock.” He protested a ‘72 military dictatorship and was imprisoned — his music being banned until the ‘80s.",
+    "time": 1548785601503
+  },
+  {
+    "artist": "Leonard Cohen",
+    "album": "New Skin For The Old Ceremony",
+    "track": "Chelsea Hotel #2",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/new-skin-for-the-old-ceremony/511065006",
+      "spotify": "https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL",
+      "discogs": "https://www.discogs.com/Leonard-Cohen-New-Skin-For-The-Old-Ceremony/master/3970"
+    },
+    "embed_uri": "spotify:track:4krhCfJg0znykZoyjeMXRe",
+    "description": "Leonard Cohen makes me feel nostalgic about things that I have no business pretending to remember.",
+    "time": 1548785021481
+  },
+  {
+    "artist": "Black Merda",
+    "album": "The Folks From Mother’s Mixer",
+    "track": "Reality",
+    "links": {
+      "apple": "https://itunes.apple.com/ie/album/the-folks-from-mothers-mixer/1327655710",
+      "spotify": "https://open.spotify.com/album/2XSAdRkmdYRPCRFYKp6oZO",
+      "discogs": "https://www.discogs.com/Black-Merda-Black-Merda/master/154646"
+    },
+    "embed_uri": "spotify:track:7KjczgU0sHkvFQsCgIOuCP",
+    "description": "“And you think your country is a great democracy, Well they just killed your priest for helping folks like me.”",
+    "time": 1548784614446
+  },
+  {
+    "artist": "Anika",
+    "album": "Anika",
+    "track": "In the City",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/anika-ep/608604223",
+      "spotify": "https://open.spotify.com/album/0wcr6i3pA9jWXEBD8V44rM",
+      "discogs": "https://www.discogs.com/Anika-Anika-EP/master/542034"
+    },
+    "embed_uri": "spotify:track:0khHA65uKHItjWKdxWeXFs",
+    "description": "I don’t know anything about Anika, but this song makes me feel like the best kind of vampire. It uses tension remarkably well.",
+    "time": 1548784277617
+  },
+  {
+    "artist": "El Michels Affair, Lee Fields",
+    "album": "Return to the 37th Chamber",
+    "track": "Snakes",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/return-to-the-37th-chamber/1197480413",
+      "spotify": "https://open.spotify.com/album/55aQeiRs8wl30Eo3kV3j3w",
+      "discogs": "https://www.discogs.com/El-Michels-Affair-Return-To-The-37th-Chamber/master/1163561"
+    },
+    "embed_uri": "spotify:track:3ceFQniYTNGSSpmiUogABH",
+    "description": "This is a tribute to O.D.B.’s “Snakes.” It will make you wish there was a complete Lee Fields cover of the sampled, “I’ll Never Do You Wrong” by Joe Tex.",
+    "time": 1548783107929
+  },
+  {
+    "artist": "Frank Ocean",
+    "album": "channel ORANGE",
+    "track": "Crack Rock",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/channel-orange/541953504",
+      "spotify": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8",
+      "discogs": "https://www.discogs.com/Frank-Ocean-channel-ORANGE/master/454284"
+    },
+    "embed_uri": "spotify:track:5lcyIeEfwZTs8Ajw3kdF7P",
+    "description": "No one needs my opinion of Frank. “You don’t know how little you matter until you’re all alone...”",
+    "time": 1548782781089
+  },
+  {
     "artist": "Shadow",
     "album": "Sweet Sweet Dreams (Analog Africa No. 22)",
     "track": "Moon Walking",
