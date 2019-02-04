@@ -60,18 +60,6 @@
     "description": ""
   },
   {
-    "artist": "The Lulus Band",
-    "album": "Kenya Special, Vol. 2 (Selected East African Recordings from the 1970’s & 80’s)",
-    "track": "I Can Feel It",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20the%20lulus%20band%20kenya%20special%20vol%202",
-      "spotify": "https://open.spotify.com/album/5mYbrj1L89F3SVYDEStMdY",
-      "discogs": "https://www.discogs.com/search/?q=the+lulus+band+kenya+special+vol+2+selected+east+african+recordings+from+the+1970s++80s&type=master"
-    },
-    "embed_uri": "spotify:track:7sZNptYBMkChjGozctBsiq",
-    "description": ""
-  },
-  {
     "artist": "Aretha Franklin",
     "album": "Runnin' Out of Fools (Expanded Edition)",
     "track": "How Glad I Am",
@@ -93,6 +81,78 @@
       "discogs": "https://www.discogs.com/search/?q=niney+trojan+presents+original+reggae&type=master"
     },
     "embed_uri": "spotify:track:7dIxOUb5q5ylvf7w0qtFZZ",
+    "description": ""
+  },
+  {
+    "artist": "Dillinger",
+    "album": "Reggae Roots 1972-1995 Vol.5",
+    "track": "Cokane In My Brain",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20dillinger%20reggae%20roots%2019721995%20vol5",
+      "spotify": "https://open.spotify.com/album/4GF5MWAZbZvTqKaaVhJoYm",
+      "discogs": "https://www.discogs.com/search/?q=dillinger+reggae+roots+19721995+vol5&type=master"
+    },
+    "embed_uri": "spotify:track:2SyDLmp4oudzD4ymJqrBca",
+    "description": ""
+  },
+  {
+    "artist": "The Moving Star Hall Singers",
+    "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
+    "track": "Jesus Knows All About My Troubles",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20the%20moving%20star%20hall%20singers%20been%20in%20the%20storm%20so%20long%20%20spirituals%20%20shouts%20childrens%20game%20songs%20and%20folktales",
+      "spotify": "https://open.spotify.com/album/7EKB4qhYtMtny8cDxfoqEw",
+      "discogs": "https://www.discogs.com/search/?q=the+moving+star+hall+singers+been+in+the+storm+so+long++spirituals++shouts+childrens+game+songs+and+folktales&type=master"
+    },
+    "embed_uri": "spotify:track:2SMdL8U9we8KN7sxEkkwnp",
+    "description": ""
+  },
+  {
+    "artist": "22 With Group, Alan Lomax",
+    "album": "Negro Prison Songs from the Mississippi State Penitentiary Recorded by Alan Lomax",
+    "track": "Prettiest Train",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%2022%20with%20group%20negro%20prison%20songs%20from%20the%20mississippi%20state%20penitentiary%20recorded%20by%20alan%20lomax",
+      "spotify": "https://open.spotify.com/album/7J1vB1yn7iaNR6GX3htJiy",
+      "discogs": "https://www.discogs.com/search/?q=22+with+group+negro+prison+songs+from+the+mississippi+state+penitentiary+recorded+by+alan+lomax&type=master"
+    },
+    "embed_uri": "spotify:track:1XhEOqfQ55TYk3kH9TiU3M",
+    "description": ""
+  },
+  {
+    "artist": "Hugh Masekela",
+    "album": "Best Of/20th Century",
+    "track": "Riot",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20hugh%20masekela%20best%20of20th%20century",
+      "spotify": "https://open.spotify.com/album/6s4th8sAbjWpsk60RzESdm",
+      "discogs": "https://www.discogs.com/search/?q=hugh+masekela+best+of20th+century&type=master"
+    },
+    "embed_uri": "spotify:track:0M433gqUejjCujkzISWinQ",
+    "description": ""
+  },
+  {
+    "artist": "Charles Mingus",
+    "album": "Ah Um",
+    "track": "Goodbye Pork Pie Hat",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20charles%20mingus%20ah%20um",
+      "spotify": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA",
+      "discogs": "https://www.discogs.com/search/?q=charles+mingus+ah+um&type=master"
+    },
+    "embed_uri": "spotify:track:3PJMsxg6rz9FOo6xNiASXz",
+    "description": ""
+  },
+  {
+    "artist": "Yoni & Geti",
+    "album": "Testarossa",
+    "track": "Frank",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20yoni%20%20geti%20testarossa",
+      "spotify": "https://open.spotify.com/album/55uy6hFosECpgYwRjVQMFA",
+      "discogs": "https://www.discogs.com/search/?q=yoni++geti+testarossa&type=master"
+    },
+    "embed_uri": "spotify:track:0z7rpefSP4kAkDDnuHqiry",
     "description": ""
   }
 ]

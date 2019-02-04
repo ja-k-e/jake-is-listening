@@ -1,5 +1,37 @@
 [
   {
+    "artist": "The Moving Star Hall Singers",
+    "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
+    "track": "That's All Right",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/been-in-storm-so-long-spirituals-shouts-childrens-game/217746654",
+      "spotify": "https://open.spotify.com/album/7EKB4qhYtMtny8cDxfoqEw",
+      "discogs": "https://www.discogs.com/Various-Been-In-The-Storm-So-Long/master/630891"
+    },
+    "extra_links": [
+      [
+        "Folkways",
+        "https://folkways.si.edu/sea-island-folk-festival-moving-star-hall-singers-and-alan-lomax/african-american-music-folk-gospel/album/smithsonian"
+      ]
+    ],
+    "embed_uri": "spotify:track:1zlyg0M9BJ6SI0Y7VFVb6X",
+    "description": "This Folkways recording is of an isolated community living on Johns Island, SC — an area referred to by Alan Lomax as, “One of the heartlands of American music.” The entire record is shockingly potent, but this specific performance by Laura Rivers is exceptional.",
+    "time": 1549307004685
+  },
+  {
+    "artist": "The Lulus Band",
+    "album": "Kenya Special, Vol. 2 (Selected East African Recordings from the 1970’s & 80’s)",
+    "track": "I Can Feel It",
+    "links": {
+      "apple": "https://itunes.apple.com/bw/album/kenya-special-vol-2-selected-east-african-recordings/1129210803",
+      "spotify": "https://open.spotify.com/album/5mYbrj1L89F3SVYDEStMdY",
+      "discogs": "https://www.discogs.com/Various-Kenya-Special-Volume-Two-Selected-East-African-Recordings-From-The-1970s-80s/master/1098095"
+    },
+    "embed_uri": "spotify:track:7sZNptYBMkChjGozctBsiq",
+    "description": "I found myself listening to this weekly throughout 2018. “This world is coming to an end. This world is coming to an end. I can feel it. You can feel it. We all can feel it.”",
+    "time": 1549305220249
+  },
+  {
     "artist": "Shin Joong-hyun, Lee Jung Hwa",
     "album": "Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea’s Shin Joong Hyun 1958-1974",
     "track": "I Don’t Like",
