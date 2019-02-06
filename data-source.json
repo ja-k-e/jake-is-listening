@@ -1,5 +1,18 @@
 [
   {
+    "artist": "Aretha Franklin",
+    "album": "Runnin' Out of Fools (Expanded Edition)",
+    "track": "How Glad I Am",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/runnin-out-of-fools-expanded-edition/425847724",
+      "spotify": "https://open.spotify.com/album/4y31w9vk2A1Wn3GGZCpOpq",
+      "discogs": "https://www.discogs.com/Aretha-Franklin-Runnin-Out-Of-Fools/master/326303"
+    },
+    "embed_uri": "spotify:track:47hTk08D6sjwovaT4zQVmh",
+    "description": "The hurried lyrical rhythm of this track describes what is both an adorably playful infatuation, and an infinitely desireable state of elation. From Detroit’s own Queen of Soul.",
+    "time": 1549488941310
+  },
+  {
     "artist": "Westside Gunn",
     "album": "Hitler on Steroids",
     "track": "Summer Slam 88",
