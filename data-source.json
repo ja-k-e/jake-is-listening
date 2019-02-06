@@ -1,5 +1,62 @@
 [
   {
+    "artist": "Westside Gunn",
+    "album": "Hitler on Steroids",
+    "track": "Summer Slam 88",
+    "links": {
+      "discogs": "https://www.discogs.com/WestsideGunn-X-DJ-Green-Lantern-Hitler-On-Steroids/master/1197031"
+    },
+    "extra_links": [
+      [
+        "Bandcamp",
+        "https://daupe.bandcamp.com/album/hitler-on-steroids-2"
+      ]
+    ],
+    "embed_uri": "youtube:TuqVNN13z_A",
+    "description": "I don’t know what to do with this. I cried when I heard this song, then cried again when I watched this video. David Ruffin is sampled perfectly by producer Your Old Droog. It is supremely beautiful. This mixtape is amazing.",
+    "time": 1549419301679
+  },
+  {
+    "artist": "David Ruffin",
+    "album": "The Unreleased Album",
+    "track": "Let Somebody Love Me",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/the-unreleased-album/77111030",
+      "spotify": "https://open.spotify.com/album/5DQIab2ie7urOoQZ8aqKc6",
+      "discogs": "https://www.discogs.com/David-Ruffin-David-Unreleased-LP-More/master/534434",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_(David_Ruffin_album)"
+    },
+    "embed_uri": "spotify:track:4J5XPSIPvZcAOGMURWbzu4",
+    "description": "This album was released 13 years after Ruffin (The Temptations) died in 1991. It was recorded in the late 60’s. It was sampled in Westside Gunn’s, “Summer Slam 88.”",
+    "time": 1549414112224
+  },
+  {
+    "artist": "Hugh Masekela",
+    "album": "Best Of/20th Century",
+    "track": "Riot",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/20th-century-masters-the-best-of-hugh-masekela/189645389",
+      "spotify": "https://open.spotify.com/album/6s4th8sAbjWpsk60RzESdm",
+      "discogs": "https://www.discogs.com/Hugh-Masekela-Masekela/master/413491"
+    },
+    "embed_uri": "spotify:track:0M433gqUejjCujkzISWinQ",
+    "description": "The sample closing out Earl’s, “Some Rap Songs,” and a prime piece from Hugh Masekela, the, “Father of South African jazz.”",
+    "time": 1549414112224
+  },
+  {
+    "artist": "Dillinger",
+    "album": "Reggae Roots 1972-1995 Vol.5",
+    "track": "Cokane In My Brain",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/reggae-roots-1972-1995-vol-5/1434894136",
+      "spotify": "https://open.spotify.com/album/4GF5MWAZbZvTqKaaVhJoYm",
+      "discogs": "https://www.discogs.com/Dillinger-Cokane-In-My-Brain/master/6788"
+    },
+    "embed_uri": "spotify:track:2SyDLmp4oudzD4ymJqrBca",
+    "description": "The first producer Lester Bullock worked with was Lee “Scratch” Perry, who recommended the name change to, “Dillinger.” That is reason enough to listen to this song.",
+    "time": 1549413923509
+  },
+  {
     "artist": "The Moving Star Hall Singers",
     "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
     "track": "That's All Right",

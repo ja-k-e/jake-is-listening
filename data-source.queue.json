@@ -84,18 +84,6 @@
     "description": ""
   },
   {
-    "artist": "Dillinger",
-    "album": "Reggae Roots 1972-1995 Vol.5",
-    "track": "Cokane In My Brain",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20dillinger%20reggae%20roots%2019721995%20vol5",
-      "spotify": "https://open.spotify.com/album/4GF5MWAZbZvTqKaaVhJoYm",
-      "discogs": "https://www.discogs.com/search/?q=dillinger+reggae+roots+19721995+vol5&type=master"
-    },
-    "embed_uri": "spotify:track:2SyDLmp4oudzD4ymJqrBca",
-    "description": ""
-  },
-  {
     "artist": "The Moving Star Hall Singers",
     "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
     "track": "Jesus Knows All About My Troubles",
@@ -117,18 +105,6 @@
       "discogs": "https://www.discogs.com/search/?q=22+with+group+negro+prison+songs+from+the+mississippi+state+penitentiary+recorded+by+alan+lomax&type=master"
     },
     "embed_uri": "spotify:track:1XhEOqfQ55TYk3kH9TiU3M",
-    "description": ""
-  },
-  {
-    "artist": "Hugh Masekela",
-    "album": "Best Of/20th Century",
-    "track": "Riot",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20hugh%20masekela%20best%20of20th%20century",
-      "spotify": "https://open.spotify.com/album/6s4th8sAbjWpsk60RzESdm",
-      "discogs": "https://www.discogs.com/search/?q=hugh+masekela+best+of20th+century&type=master"
-    },
-    "embed_uri": "spotify:track:0M433gqUejjCujkzISWinQ",
     "description": ""
   },
   {
