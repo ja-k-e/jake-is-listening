@@ -1,5 +1,50 @@
 [
   {
+    "artist": "Charles Mingus",
+    "album": "Mingus Mingus Mingus Mingus Mingus",
+    "track": "Theme For Lester Young",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/mingus-mingus-mingus-mingus-mingus/72210",
+      "spotify": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH",
+      "discogs": "https://www.discogs.com/Mingus-Mingus-Mingus-Mingus-Mingus-Mingus/master/176923"
+    },
+    "embed_uri": "spotify:track:6hl9bI6wex2y5YukogekrR",
+    "description": "Charles Mingus was my entry point into jazz as an angsty teenage bassist. This composition is an elegy for saxophonist Lester Young. My initial exposure was to this later recording from 1963. The original is titled, “Goodbye Pork Pie Hat” on 1959’s, “Mingus Ah Um.”",
+    "time": 1549912052220
+  },
+  {
+    "artist": "Sam Cooke, The Soul Stirrers",
+    "album": "Sam Cooke With The Soul Stirrers",
+    "track": "Nearer To Thee - Live at the Shrine",
+    "links": {
+      "spotify": "https://open.spotify.com/album/5nPS73uMM3URxKSrJzrYe0",
+      "discogs": "https://www.discogs.com/Sam-Cooke-With-The-Soul-Stirrers-The-Complete-Specialty-Recordings/master/1492815",
+      "youtube": "https://www.youtube.com/watch?v=zhQsdNfxKkc"
+    },
+    "extra_links": [
+      [
+        "Vintage Soul Stirrers",
+        "https://www.youtube.com/watch?v=m67kF7YPp_s"
+      ]
+    ],
+    "embed_uri": "spotify:track:4sJxinFDTFsWxcb8ptvkIJ",
+    "description": "This live performance (The Great 1955 Shrine Concert) features an utterly untethered Sam Cooke and Paul Foster. The climax of this performance is hair-raising-ly palpable. It decidedly steps miles over the fine line Gospel music was walking at the time.",
+    "time": 1549909204199
+  },
+  {
+    "artist": "Sam Cooke",
+    "album": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
+    "track": "Bring It on Home to Me",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/one-night-stand-live-at-the-harlem-square-club-1963/304822401",
+      "spotify": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm",
+      "discogs": "https://www.discogs.com/Sam-Cooke-Live-At-The-Harlem-Square-Club-1963/master/190386"
+    },
+    "embed_uri": "spotify:track:3lYM0ZNXLG2276Wcoj0pyz",
+    "description": "RCA Victor slept on this record for 22 years. It didn’t fit the likeness of Sam Cooke that they were spinning to white audiences across the country. If this doesn’t hit you square in the feels, you are a dead person.",
+    "time": 1549909204199
+  },
+  {
     "artist": "Aretha Franklin",
     "album": "Runnin' Out of Fools (Expanded Edition)",
     "track": "How Glad I Am",
