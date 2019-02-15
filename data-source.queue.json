@@ -1,41 +1,5 @@
 [
   {
-    "artist": "Etta James",
-    "album": "The Best Of Etta James 20th Century Masters The Millennium Collection",
-    "track": "Something’s Got A Hold On Me - Single Version",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20etta%20james%20the%20best%20of%20etta%20james%2020th%20century%20masters%20the%20millennium%20collection",
-      "spotify": "https://open.spotify.com/album/4yP7KoiF451SKsSEnVlhSM",
-      "discogs": "https://www.discogs.com/search/?q=etta+james+the+best+of+etta+james+20th+century+masters+the+millennium+collection&type=master"
-    },
-    "embed_uri": "spotify:track:1WhtxWwY7ra5rLrlHWWJaI",
-    "description": ""
-  },
-  {
-    "artist": "Sharon Jones & The Dap-Kings",
-    "album": "Naturally",
-    "track": "How Long Do I Have To Wait For You?",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20sharon%20jones%20%20the%20dapkings%20naturally",
-      "spotify": "https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl",
-      "discogs": "https://www.discogs.com/search/?q=sharon+jones++the+dapkings+naturally&type=master"
-    },
-    "embed_uri": "spotify:track:4fMXQkXkfmO6KWKVwxvkWT",
-    "description": ""
-  },
-  {
-    "artist": "The Meters",
-    "album": "The Essentials: The Meters",
-    "track": "Hand Clapping Song",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20the%20meters%20the%20essentials%20the%20meters",
-      "spotify": "https://open.spotify.com/album/3phn65gF8UFtnbVtZ6JXBM",
-      "discogs": "https://www.discogs.com/search/?q=the+meters+the+essentials+the+meters&type=master"
-    },
-    "embed_uri": "spotify:track:3duV3VHdZHnk6F1DzeqjJf",
-    "description": ""
-  },
-  {
     "artist": "Jaylib, Madlib, J Dilla",
     "album": "Champion Sound",
     "track": "No Games",
