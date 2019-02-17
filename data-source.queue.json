@@ -1,5 +1,29 @@
 [
   {
+    "artist": "Charles Mingus",
+    "album": "Mingus Mingus Mingus Mingus Mingus",
+    "track": "Freedom",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20charles%20mingus%20mingus%20mingus%20mingus%20mingus%20mingus",
+      "spotify": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH",
+      "discogs": "https://www.discogs.com/search/?q=charles+mingus+mingus+mingus+mingus+mingus+mingus&type=master"
+    },
+    "embed_uri": "spotify:track:4Tn5epAPRcslFBwv8INS7f",
+    "description": ""
+  },
+  {
+    "artist": "FEELS",
+    "album": "Feels",
+    "track": "Today",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20feels%20feels",
+      "spotify": "https://open.spotify.com/album/6Z3kAtMNexp6pAuTnIMSDR",
+      "discogs": "https://www.discogs.com/search/?q=feels+feels&type=master"
+    },
+    "embed_uri": "spotify:track:2nuZUEHZaAm3b1UFW3yyt4",
+    "description": ""
+  },
+  {
     "artist": "Jaylib, Madlib, J Dilla",
     "album": "Champion Sound",
     "track": "No Games",
