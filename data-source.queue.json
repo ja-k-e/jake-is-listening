@@ -11,18 +11,7 @@
     "embed_uri": "spotify:track:4Tn5epAPRcslFBwv8INS7f",
     "description": ""
   },
-  {
-    "artist": "FEELS",
-    "album": "Feels",
-    "track": "Today",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20feels%20feels",
-      "spotify": "https://open.spotify.com/album/6Z3kAtMNexp6pAuTnIMSDR",
-      "discogs": "https://www.discogs.com/search/?q=feels+feels&type=master"
-    },
-    "embed_uri": "spotify:track:2nuZUEHZaAm3b1UFW3yyt4",
-    "description": ""
-  },
+
   {
     "artist": "Jaylib, Madlib, J Dilla",
     "album": "Champion Sound",
@@ -35,30 +24,7 @@
     "embed_uri": "spotify:track:6XyDeNQkGPFe4XSrX31DTO",
     "description": ""
   },
-  {
-    "artist": "Shin Joong Hyun",
-    "album": "Shin Joong Hyun & Yup Juns",
-    "track": "Beautiful Woman",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20shin%20joong%20hyun%20shin%20joong%20hyun%20yup%20juns",
-      "spotify": "https://open.spotify.com/album/2E4jkgXNAL1rCQ2NxhCUF7",
-      "discogs": "https://www.discogs.com/search/?q=shin+joong+hyun+shin+joong+hyun++yup+juns&type=master"
-    },
-    "embed_uri": "spotify:track:3klv24tb9Px6QI1Mhym1x2",
-    "description": ""
-  },
-  {
-    "artist": "Niney",
-    "album": "Trojan Presents: Original Reggae",
-    "track": "Blood & Fire",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20niney%20trojan%20presents%20original%20reggae",
-      "spotify": "https://open.spotify.com/album/6mHQh1BnJzUtYrt7uBVeC2",
-      "discogs": "https://www.discogs.com/search/?q=niney+trojan+presents+original+reggae&type=master"
-    },
-    "embed_uri": "spotify:track:7dIxOUb5q5ylvf7w0qtFZZ",
-    "description": ""
-  },
+
   {
     "artist": "The Moving Star Hall Singers",
     "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
@@ -71,18 +37,7 @@
     "embed_uri": "spotify:track:2SMdL8U9we8KN7sxEkkwnp",
     "description": ""
   },
-  {
-    "artist": "22 With Group, Alan Lomax",
-    "album": "Negro Prison Songs from the Mississippi State Penitentiary Recorded by Alan Lomax",
-    "track": "Prettiest Train",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%2022%20with%20group%20negro%20prison%20songs%20from%20the%20mississippi%20state%20penitentiary%20recorded%20by%20alan%20lomax",
-      "spotify": "https://open.spotify.com/album/7J1vB1yn7iaNR6GX3htJiy",
-      "discogs": "https://www.discogs.com/search/?q=22+with+group+negro+prison+songs+from+the+mississippi+state+penitentiary+recorded+by+alan+lomax&type=master"
-    },
-    "embed_uri": "spotify:track:1XhEOqfQ55TYk3kH9TiU3M",
-    "description": ""
-  },
+
   {
     "artist": "Charles Mingus",
     "album": "Ah Um",
@@ -95,18 +50,7 @@
     "embed_uri": "spotify:track:3PJMsxg6rz9FOo6xNiASXz",
     "description": ""
   },
-  {
-    "artist": "Yoni & Geti",
-    "album": "Testarossa",
-    "track": "Frank",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20yoni%20%20geti%20testarossa",
-      "spotify": "https://open.spotify.com/album/55uy6hFosECpgYwRjVQMFA",
-      "discogs": "https://www.discogs.com/search/?q=yoni++geti+testarossa&type=master"
-    },
-    "embed_uri": "spotify:track:0z7rpefSP4kAkDDnuHqiry",
-    "description": ""
-  },
+
   {
     "artist": "Sam Cooke",
     "album": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",

@@ -1,5 +1,73 @@
 [
   {
+    "artist": "FEELS",
+    "album": "Feels",
+    "track": "Tell Me",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/feels/1248474976",
+      "spotify": "https://open.spotify.com/album/6Z3kAtMNexp6pAuTnIMSDR",
+      "discogs": "https://www.discogs.com/Feels-Feels/master/969383"
+    },
+    "embed_uri": "spotify:track:7L55dYO7QxmzNTy0MjX0Zc",
+    "description": "This 2016 release reignited my inner 2006. New release coming next month.",
+    "time": 1550767303378
+  },
+  {
+    "artist": "Yoni & Geti",
+    "album": "Testarossa",
+    "track": "Frank",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/testarossa/1091752520",
+      "spotify": "https://open.spotify.com/album/55uy6hFosECpgYwRjVQMFA",
+      "discogs": "https://www.discogs.com/Yoni-Geti-Testarossa/master/983980"
+    },
+    "embed_uri": "spotify:track:0z7rpefSP4kAkDDnuHqiry",
+    "description": "I sit cross-legged when Serengeti tells stories. He is worth your attention. The letters defined in this song spell FUBU (×4), FILA, BOSS, PACO, JNCO, and USED.",
+    "time": 1550767303378
+  },
+  {
+    "artist": "Niney The Observer",
+    "album": "Observer Station",
+    "track": "Blood and Fire",
+    "links": {
+      "apple": "https://itunes.apple.com/gb/album/observer-station/845725902",
+      "spotify": "https://open.spotify.com/album/0cMFWWPdC87MXohtuJPM8n",
+      "discogs": "https://www.discogs.com/blood-and-fire/release/10638629"
+    },
+    "embed_uri": "spotify:track:5HiTmpnvgLnofi31wuG0EA",
+    "description": "The name, “Niney” refers to the thumb Winston Holness lost in an accident. Niney is one of Jamaica’s most revered producers. “Blood and Fire” was his first hit.",
+    "time": 1550767303378
+  },
+  {
+    "artist": "Shin Joong Hyun",
+    "album": "Shin Joong Hyun & Yup Juns",
+    "track": "Beautiful Woman",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/shin-joong-hyun-yup-juns/893136020",
+      "spotify": "https://open.spotify.com/album/2E4jkgXNAL1rCQ2NxhCUF7",
+      "discogs": "https://www.discogs.com/Shin-Joong-Hyun-Yup-Juns-Shin-Joong-Hyun-Yup-Juns/master/505657",
+      "youtube": "https://www.youtube.com/watch?v=bkR9tDQXbQk",
+      "wikipedia": "https://en.wikipedia.org/wiki/Shin_Jung_Hyun_%26_Yup_Juns"
+    },
+    "embed_uri": "spotify:track:3klv24tb9Px6QI1Mhym1x2",
+    "description": "The story of Yup Juns was limited to three years due to the arrest of Shin Joong Hyun by South Korea’s authoritarian regime shortly after the release of their second record in 1975.",
+    "time": 1550767303378
+  },
+  {
+    "artist": "22, Group, Alan Lomax",
+    "album": "Negro Prison Songs from the Mississippi State Penitentiary",
+    "track": "Prettiest Train",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/negro-prison-songs-from-mississippi-state-penitentiary/1156838870",
+      "spotify": "https://open.spotify.com/album/7J1vB1yn7iaNR6GX3htJiy",
+      "discogs": "https://www.discogs.com/Alan-Lomax-Negro-Prison-Songs-From-The-Mississippi-State-Penitentiary/master/373569",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alan_Lomax"
+    },
+    "embed_uri": "spotify:track:1XhEOqfQ55TYk3kH9TiU3M",
+    "description": "Led by a prisoner named, “22” this work song ends with an observation of the prison industrial complex. “Police get you and you workhouse bound.” Thank Alan Lomax for this 1958 recording.",
+    "time": 1550767303377
+  },
+  {
     "artist": "Aretha Franklin",
     "album": "Amazing Grace",
     "track": "Amazing Grace",
