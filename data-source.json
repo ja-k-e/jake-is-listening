@@ -182,7 +182,9 @@
     "album": "Hitler on Steroids",
     "track": "Summer Slam 88",
     "links": {
-      "discogs": "https://www.discogs.com/WestsideGunn-X-DJ-Green-Lantern-Hitler-On-Steroids/master/1197031"
+      "soundcloud": "https://soundcloud.com/gxfr/summerslam-88-prod-by-your-old-droog",
+      "discogs": "https://www.discogs.com/WestsideGunn-X-DJ-Green-Lantern-Hitler-On-Steroids/master/1197031",
+      "youtube": "https://youtu.be/TuqVNN13z_A"
     },
     "extra_links": [
       [
@@ -190,8 +192,8 @@
         "https://daupe.bandcamp.com/album/hitler-on-steroids-2"
       ]
     ],
-    "embed_uri": "youtube:TuqVNN13z_A",
-    "description": "I don’t know what to do with this. I cried when I heard this song, then cried harder when I watched this video. David Ruffin is sampled perfectly by producer Your Old Droog. It is supremely beautiful. This mixtape is amazing.",
+    "embed_uri": "soundcloud:271112405",
+    "description": "I don’t know what to do with this. I cried when I heard this song, then cried harder when I watched the music video. David Ruffin is sampled perfectly by producer Your Old Droog. It is supremely beautiful. This mixtape is amazing.",
     "time": 1549419301679
   },
   {
