@@ -1,5 +1,70 @@
 [
   {
+    "artist": "René Costy",
+    "album": "Expectancy",
+    "track": "Scrabble",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/expectancy/1199077229",
+      "spotify": "https://open.spotify.com/album/1hocaiCK3IkbIR63xjpD4x",
+      "discogs": "https://www.discogs.com/Ren%C3%A9-Costy-Expectancy/master/1147189"
+    },
+    "embed_uri": "spotify:track:05SNUsuCXbfrvFJEsAXvXd",
+    "description": "Sampled in Dilla’s “Fuck the Police.” So happy to have found this record. René is a Belgian composer and violinist and this compilation is a sample gold mine.",
+    "time": 1551374340982
+  },
+  {
+    "artist": "John Lennon",
+    "album": "Plastic Ono Band",
+    "track": "Hold On",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/john-lennon-plastic-ono-band/910049942",
+      "spotify": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K",
+      "discogs": "https://www.discogs.com/John-Lennon-The-Plastic-Ono-Band-John-Lennon-Plastic-Ono-Band/master/72864"
+    },
+    "embed_uri": "spotify:track:4bN43jYf41eIjJZ3UXQpuA",
+    "description": "This is not Yoko’s “Plastic Ono Band.” You can tell the difference by who is laying on who on the cover...and by whether or not you’re able to listen to it more than once in a 24 hour period.",
+    "time": 1551374340982
+  },
+  {
+    "artist": "George Jackson",
+    "album": "The Blues Sessions",
+    "track": "Aretha, Sing One for Me",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/aretha-sing-one-for-me/736264544?i=736266260",
+      "spotify": "https://open.spotify.com/album/5cNwhYnYkWk9oiKYauQJGw",
+      "discogs": "https://www.discogs.com/George-Jackson-Aretha-Sing-One-For-Me-Im-Gonna-Wait/master/585598"
+    },
+    "embed_uri": "spotify:track:37YeLdDc63BahWGwCaViTB",
+    "description": "If your loved one leaves you before going to an Aretha Franklin show and you find yourself hoping Aretha plays a set that will convince them to get back with you, you will definitely be consoled by this George Jackson track.",
+    "time": 1551374340982
+  },
+  {
+    "artist": "Philip Glass, Kronos Quartet, Michael Riesman",
+    "album": "Mishima",
+    "track": "KYOKO'S HOUSE (\"stage blood is not enough\")",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/philip-glass-mishima/1189335954",
+      "spotify": "https://open.spotify.com/album/4RflOKVvzEFCxDlHlT0ZFJ",
+      "discogs": "https://www.discogs.com/Philip-Glass-Mishima/master/33024"
+    },
+    "embed_uri": "spotify:track:5NJyd4eB0UgrHPe5rfZBQR",
+    "description": "Clean unaffected electric guitar sporadically appears on this Philip Glass soundtrack. It adds a raw and unpolished layer to this working picture I have of Glass.",
+    "time": 1551374340982
+  },
+  {
+    "artist": "The Apostles",
+    "album": "Black Is Beautiful",
+    "track": "Don't Huzzle for Love",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/black-is-beautiful/562741672",
+      "spotify": "https://open.spotify.com/album/78mvO5CuYHAh2855VbQXvV",
+      "discogs": "https://www.discogs.com/The-Apostles-Black-Is-Beautiful/release/1546959"
+    },
+    "embed_uri": "spotify:track:69b5nYd8TUnEbUolnJObiB",
+    "description": "“Don’t huzzle for love, cause it’s gonna come to you.” A gem from Eastern Nigeria’s Apostles.",
+    "time": 1551374340982
+  },
+  {
     "artist": "FEELS",
     "album": "Feels",
     "track": "Tell Me",
