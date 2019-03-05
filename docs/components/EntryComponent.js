@@ -9,15 +9,6 @@ Vue.component("entry-component", {
     cleanOrphan(desc) {
       return desc.replace(/ ([^ ]+)$/g, "&nbsp;$1");
     },
-    time(time) {
-      const date = new Date(time);
-      const arr = date
-        .toLocaleDateString()
-        .split("/")
-        .map(s => s.padStart(2, "0"));
-      const yr = [arr[2][2], arr[2][3]].join("");
-      return [yr, arr[0], arr[1]].join(" ");
-    },
     uriToEmbedUrl(uri) {
       let [origin, type, id] = uri.split(":");
       if (origin === "spotify")

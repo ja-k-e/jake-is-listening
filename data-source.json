@@ -1,5 +1,20 @@
 [
   {
+    "artist": "Jackson C. Frank",
+    "album": "Blues Run the Game",
+    "track": "(Tumble) In the Wind - Version 2",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20jackson%20c%20frank%20blues%20run%20the%20game",
+      "spotify": "https://open.spotify.com/album/4dp5aaRGz05AeyT3SbVnvI",
+      "discogs": "https://www.discogs.com/Jackson-C-Frank-The-Complete-Recordings-Special-Edition/master/876058",
+      "youtube": "https://youtu.be/teIjO8Uxaqo",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jackson_C._Frank"
+    },
+    "embed_uri": "spotify:track:4rx8rKsJThF2kf8xBtzi2M",
+    "description": "The story of Jackson C. Frank is tragic. His first and only release was recorded with the help of Paul Simon in 1965. This track is from the “Kitchen Tapes” — demos which he recorded in 1997. He died the day after his 56th birthday in 1999.",
+    "time": 1551747417884
+  },
+  {
     "artist": "René Costy",
     "album": "Expectancy",
     "track": "Scrabble",
