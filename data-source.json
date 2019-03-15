@@ -1,5 +1,58 @@
 [
   {
+    "artist": "Charles Mingus",
+    "album": "Mingus Mingus Mingus Mingus Mingus",
+    "track": "Freedom",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/mingus-mingus-mingus-mingus-mingus/72210",
+      "spotify": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH",
+      "discogs": "https://www.discogs.com/Mingus-Mingus-Mingus-Mingus-Mingus-Mingus/master/176923"
+    },
+    "embed_uri": "spotify:track:4Tn5epAPRcslFBwv8INS7f",
+    "description": "The first time I heard this track was on a library-rented CD in 2004. Charles was speaking of things that in my context, I could only hope to understand. With the implied 15-odd years of experience between then and now, this piece represents to me the infinite nature of my quest to understand the experience of a black person in America.",
+    "time": 1552616295446
+  },
+  {
+    "artist": "Gnonnas Pédro",
+    "album": "Legends of Benin (Analog Africa No. 5)",
+    "track": "Dadje Von O Von Non",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/legends-of-benin-analog-africa-no-5/323013808",
+      "spotify": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC",
+      "discogs": "https://www.discogs.com/Various-Legends-Of-Benin/master/176824"
+    },
+    "embed_uri": "spotify:track:4bkIej36kkH9cQakZYeVO5",
+    "description": "I have no idea what this song is about, but this is another awesome track from 60’s Benin.",
+    "time": 1552616037200
+  },
+  {
+    "artist": "Brad Mehldau",
+    "album": "Mehliana: Taming The Dragon",
+    "track": "Hungry Ghost",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/mehliana-taming-the-dragon/781130609",
+      "spotify": "https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q",
+      "discogs": "https://www.discogs.com/Brad-Mehldau-Mark-Guiliana-Mehliana-Taming-The-Dragon/master/672442",
+      "youtube": "https://www.youtube.com/watch?v=tn6gjoMUEY4"
+    },
+    "embed_uri": "spotify:track:3xs450bRX2rrS2eoOvxBl7",
+    "description": "My high school contemplation was often set to the tune of Mehldau’s Largo and Elegiac Cycle. This more recent collaboration with drummer Mark Guiliana is markedly more experimental and is precisely the music I was dying to experience back then. Check out the live performance of this track.",
+    "time": 1552615568848
+  },
+  {
+    "artist": "El Rego",
+    "album": "El Rego",
+    "track": "Hessa",
+    "links": {
+      "apple": "https://itunes.apple.com/ca/album/el-rego/462055353",
+      "spotify": "https://open.spotify.com/album/1Fi1MOgt8rlofqB0ITLIkm",
+      "discogs": "https://www.discogs.com/El-Rego-Et-Ses-Commandos-El-Rego/master/390271"
+    },
+    "embed_uri": "spotify:track:7lXMbCKIASfEK0OMOUPaz3",
+    "description": "This Beninese artist recorded throughout the 60’s and 70’s. Daptone released this compilation in 2011.",
+    "time": 1552615316949
+  },
+  {
     "artist": "Carol Kim",
     "album": "Saigon Rock & Soul: Vietnamese Classic Tracks 1968-1974",
     "track": "Nỗi Buồn Con Gái (The Sadness Of Being A Girl)",
@@ -9,7 +62,7 @@
       "youtube": "https://www.youtube.com/watch?v=kJZ1ebkYcM4"
     },
     "embed_uri": "soundcloud:226076762",
-    "description": "Carol Kim is regarded as South Vietnam's Queen of Soul.",
+    "description": "Carol Kim is regarded as South Vietnam's Queen of Soul. “When we are separated / Our love is full of tears / How long is our youth? / Being a girl is so difficult / Beauty is like smoke and cloud / It will fade to nothingness”",
     "time": 1552405692961
   },
   {
