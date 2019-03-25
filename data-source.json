@@ -1,5 +1,59 @@
 [
   {
+    "artist": "Danyél Waro",
+    "album": "Aou Amwin",
+    "track": "Kénya",
+    "links": {
+      "apple": "https://itunes.apple.com/nz/album/aou-amwin/389315355",
+      "spotify": "https://open.spotify.com/album/1JbVxTO3APe1NgKGGxq5Lr",
+      "discogs": "https://www.discogs.com/Danyel-Waro-Aou-Amwin/release/12741044",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Dany%C3%A8l_Waro"
+    },
+    "embed_uri": "spotify:track:2N7sINC1MvpzwdW7YZqtqI",
+    "description": "Danyél Waro was born in Réunion, the source of Maloya — a rhythmic style of music established by African and Malagasy slaves on the island. In the early 70’s it was considered a threat to the French imperialist state and subsequently banned. Waro, who is still active today, has been recognized by many indigenous groups for his work reviving the traditions of Réunion.",
+    "time": 1553533175459
+  },
+  {
+    "artist": "Rachel Sweet",
+    "album": "Fool Around",
+    "track": "It's So Different Here",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/fool-around-remastered/1365667083",
+      "spotify": "https://open.spotify.com/album/0sKjovgkj2IdErxyM3gsjI",
+      "discogs": "https://www.discogs.com/Rachel-Sweet-Fool-Around/master/105992"
+    },
+    "embed_uri": "spotify:track:3sn7rUTrSl6kbxYyBGopWr",
+    "description": "Rachel Sweet made this record when she was 16. She won an electric garage door opener for her singing at the age of three. This album oscillates between karaoke-production Country, Punk, a Carla Thomas cover, and the straight coolness this track.",
+    "time": 1553531966587
+  },
+  {
+    "artist": "Johnnie Frierson",
+    "album": "Have You Been Good to Yourself",
+    "track": "Have You Been Good to Yourself",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/have-you-been-good-to-yourself/1140246872",
+      "spotify": "https://open.spotify.com/album/7Hg3Le6l7M5wrYIMICyPBp",
+      "discogs": "https://www.discogs.com/Johnnie-Frierson-Have-You-Been-Good-To-Yourself/master/1102750"
+    },
+    "embed_uri": "spotify:track:2DHylyLFfzaKOBnC0HfDjU",
+    "description": "Home-recorded straight to cassette, this track along with six others were recorded by Johnnie Frierson before he was shipped off to fight in Vietnam. He is the brother of singer Wendy Rene. This album is worth an intentional listen.",
+    "time": 1553531535566
+  },
+  {
+    "artist": "Wendy Rene",
+    "album": "Wendy Rene “After Laughter (Comes Tears)”",
+    "track": "After Laughter (Comes Tears)",
+    "links": {
+      "apple": "https://itunes.apple.com/ca/album/light-in-attic-10-year-anniversary-wendy-rene-after/674204846",
+      "spotify": "https://open.spotify.com/album/4dFWN8vJCYb9uM6DGxChtt",
+      "discogs": "https://www.discogs.com/Sweet-Tea-2-Covers-Wendy-Rene-After-Laughter-Comes-Tears/release/4068210",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wendy_Rene"
+    },
+    "embed_uri": "spotify:track:5LEzecDQwrMstEqIeqfhc2",
+    "description": "Memphis’ Mary Frierson was given the stage name “Wendy Rene” by Otis Redding. She co-wrote this song with her brother Johnnie. “I’ll try to hard my sorrow / I wonder can I hold them til tomorrow.”",
+    "time": 1553531535566
+  },
+  {
     "artist": "Charles Mingus",
     "album": "Mingus Mingus Mingus Mingus Mingus",
     "track": "Freedom",
