@@ -1,5 +1,77 @@
 [
   {
+    "artist": "Mina",
+    "album": "Ritratto di Mina: I singoli, Vol. 2",
+    "track": "Non piangerò",
+    "links": {
+      "apple": "https://itunes.apple.com/mx/album/ritratto-i-singoli-vol-2/1329267963?l=en",
+      "spotify": "https://open.spotify.com/album/3OrelfSk4TfPwoH5kbQTmA",
+      "discogs": "https://www.discogs.com/Mina-Stessa-Spiaggia-Stesso-Mare-/master/998763",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mina_(Italian_singer)"
+    },
+    "embed_uri": "spotify:track:1JciERjrj1sg9Y6lNeaEn9",
+    "description": "Originally recorded for the 1963 album, “Stessa Spiaggia Stesso Mare,” this track showcases the vocal talent of Italy’s prolific Mina. She was banned from TV and radio in 1963. If you’re wondering how that turned out, she now has over 70 studio recordings, as recent as 2018.",
+    "time": 1554137533915
+  },
+  {
+    "artist": "La Femme",
+    "album": "Psycho Tropical Berlin",
+    "track": "Oh Baby Doll",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/psycho-tropical-berlin-bonus-track-version/732738957",
+      "spotify": "https://open.spotify.com/album/7ExUxli1vAsXcgijfi2Abr",
+      "discogs": "https://www.discogs.com/La-Femme-Psycho-Tropical-Berlin/master/546178"
+    },
+    "embed_uri": "spotify:track:6zEgaPayZfeouzIsd7CuXB",
+    "description": "La Femme makes this Chuck Berry cover their own. This album from 2013 was a gift from a dear friend and is one of the more exciting things I listen to with consistency. Fair warning, this bonus track is not on vinyl, but the LP is more than worth it.",
+    "time": 1554137533915
+  },
+  {
+    "artist": "The Moving Star Hall Singers",
+    "album": "Been in the Storm So Long - Spirituals & Shouts, Children's Game Songs, and Folktales",
+    "track": "Jesus Knows All About My Troubles",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/been-in-storm-so-long-spirituals-shouts-childrens-game/217746654",
+      "spotify": "https://open.spotify.com/album/7EKB4qhYtMtny8cDxfoqEw",
+      "discogs": "https://www.discogs.com/Various-Been-In-The-Storm-So-Long/master/630891"
+    },
+    "extra_links": [
+      [
+        "Folkways",
+        "https://folkways.si.edu/sea-island-folk-festival-moving-star-hall-singers-and-alan-lomax/african-american-music-folk-gospel/album/smithsonian"
+      ]
+    ],
+    "embed_uri": "spotify:track:2SMdL8U9we8KN7sxEkkwnp",
+    "description": "I have no qualms posting this album for a second time. After letting this recording hit you, you’ll see why.",
+    "time": 1554135756075
+  },
+  {
+    "artist": "Orchestre Poly Rythmo de Cotonou",
+    "album": "The Skeletal Essences of Afro Funk, Vol. 3: 1969-1980",
+    "track": "Min We Tun So",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/skeletal-essences-afro-funk-vol-3-1969-1980-analog/649823261",
+      "spotify": "https://open.spotify.com/album/3DqAwgY7wLsL2BzJKcbSfU",
+      "discogs": "https://www.discogs.com/Orchestre-Poly-Rythmo-De-Cotonou-The-Skeletal-Essences-Of-Afro-Funk-1969-1980/master/776006"
+    },
+    "embed_uri": "spotify:track:7w6Usj20aSWWBoHuONuGV2",
+    "description": "Beninese Orchestre Poly Rythmo de Cotonou is also referred to as “Tout Puissant,” or “All Mighty.” This track’s title translates to, “Who knows the future?” “When you come in the world and you have money / It’s not a reason to be proud.”",
+    "time": 1554135756075
+  },
+  {
+    "artist": "Eddie Bo, The Soul Finders",
+    "album": "The Hook and Sling",
+    "track": "Check Your Bucket",
+    "links": {
+      "apple": "https://itunes.apple.com/ca/album/the-hook-and-sling/1327598043",
+      "spotify": "https://open.spotify.com/album/53SjmooRijz0WBGgZ9aWFa",
+      "discogs": "https://www.discogs.com/Eddie-Bo-And-The-Soul-Finders-The-Hook-And-Sling/release/589924"
+    },
+    "embed_uri": "spotify:track:5UY2HeKcHwXFGDRicnKip3",
+    "description": "Eddie Bo is known for the style he brought to the piano, and this funky track features none of it. No New Orleans artist has released as many singles as Eddie other than Fats Domino.",
+    "time": 1554135756075
+  },
+  {
     "artist": "Danyél Waro",
     "album": "Aou Amwin",
     "track": "Kénya",
