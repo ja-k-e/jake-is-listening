@@ -1,5 +1,90 @@
 [
   {
+    "artist": "Donald Byrd",
+    "album": "A New Perspective",
+    "track": "Cristo Redentor",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/a-new-perspective/690824891",
+      "spotify": "https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa",
+      "discogs": "https://www.discogs.com/Donald-Byrd-A-New-Perspective/master/38957"
+    },
+    "embed_uri": "spotify:track:0Xfq6BeOHdzf16gk9y8a1P",
+    "description": "This Blue Note album was one of the first Jazz records I listened to as a young adult. The patience of this track is something I come back to when I need to slow down.",
+    "time": 1554741360011
+  },
+  {
+    "artist": "Dilated Peoples",
+    "album": "Expansion Team",
+    "track": "Worst Comes To Worst",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/worst-comes-to-worst/715477135?i=715477163",
+      "spotify": "https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2",
+      "discogs": "https://www.discogs.com/Dilated-Peoples-Expansion-Team/master/66383"
+    },
+    "embed_uri": "spotify:track:4bHrZLxaOU1gfAz0rZAnCx",
+    "description": "The sampling of William Bell’s, “I Forgot to be Your Lover” is perfectly executed here by The Alchemist.",
+    "time": 1554741360011
+  },
+  {
+    "artist": "William Bell",
+    "album": "The Best Of William Bell",
+    "track": "I Forgot To Be Your Lover",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/i-forgot-to-be-your-lover/157006174?i=157006176",
+      "spotify": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb",
+      "discogs": "https://www.discogs.com/William-Bell-I-Forgot-To-Be-Your-Lover-I-Forgot-to-Be-Your-Lover/master/403739"
+    },
+    "embed_uri": "spotify:track:3PLKsooF2oGUBdGzblvOlI",
+    "description": "This is such a beautiful song from Stax’s William Bell. It is sampled in Dilated Peoples’ “Worst comes to Worst.”",
+    "time": 1554741360011
+  },
+  {
+    "artist": "Lloyd and Claudette",
+    "album": "Don Letts Presents the Mighty Trojan Sound",
+    "track": "Queen of the World",
+    "links": {
+      "apple": "https://itunes.apple.com/au/album/don-letts-presents-the-mighty-trojan-sound/1193800483",
+      "spotify": "https://open.spotify.com/album/6tdXGLpZui0hUcaAk4F6Ya",
+      "discogs": "https://www.discogs.com/Lloyd-Claudette-2-The-Prophets-Queen-Of-The-World-Top-Of-The-World/master/1137211"
+    },
+    "embed_uri": "spotify:track:4YFx2nMfsMSo19W1WthyVK",
+    "description": "Producer Lloyd “Spiderman” Campbell and singer Claudette are both tucked away beneath relative obscurity. This track is one of my favorite.",
+    "time": 1554741360011
+  },
+  {
+    "artist": "Nat Turner Rebellion",
+    "album": "Laugh To Keep From Crying",
+    "track": "Never Too Late",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/laugh-to-keep-from-crying/1456796313",
+      "spotify": "https://open.spotify.com/album/4xlyBUrHtKs9887ieTdPav",
+      "discogs": "https://www.discogs.com/Nat-Turner-Rebellion-Laugh-to-Keep-From-Crying/release/13458663"
+    },
+    "extra_links": [
+      [
+        "Vinyl Me, Please.",
+        "http://www.vinylmeplease.com/magazine/nat-turner-rebellion-vinyl/"
+      ]
+    ],
+    "embed_uri": "spotify:track:5E0Eoc8Llx2BXNIfORGT3A",
+    "description": "Drexel University, Vinyl Me, Please, and Reservoir Media are joint-releasing this full-length for the first time in history. This is my favorite track on the record so far.",
+    "time": 1554741360011
+  },
+  {
+    "artist": "The Honey Drippers",
+    "album": "Impeach the President",
+    "track": "Impeach the President",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/impeach-the-president-single/473092779",
+      "spotify": "https://open.spotify.com/album/4AVWyTdmhaMVdTl3WpahHN",
+      "discogs": "https://www.discogs.com/The-Honey-Drippers-Impeach-The-President-Roy-Cs-Theme/master/403354",
+      "wikipedia": "https://en.wikipedia.org/wiki/Impeach_the_President"
+    },
+    "embed_uri": "spotify:track:2KKyVgKvMf0oZPP4pQTETi",
+    "description": "This track contains one of the most sampled drum tracks in the history of hip hop. The high school band, “The Honey Drippers” were discovered by singer Roy C, and this dense anti-Nixon funk has been a reminder to me of how little has changed since 1973.",
+    "time": 1554741360011
+  },
+  {
     "artist": "Mina",
     "album": "Ritratto di Mina: I singoli, Vol. 2",
     "track": "Non piangerò",
