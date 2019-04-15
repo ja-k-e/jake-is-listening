@@ -1,5 +1,57 @@
 [
   {
+    "artist": "Durand Jones & The Indications",
+    "album": "You and Me / Put a Smile on Your Face",
+    "track": "You and Me",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/you-and-me-put-a-smile-on-your-face-single/1376028784",
+      "spotify": "https://open.spotify.com/album/5rdwAPD09wpI5yPIq486en",
+      "discogs": "https://www.discogs.com/Durand-Jones-The-Indications-You-And-Me/master/1333929"
+    },
+    "embed_uri": "spotify:track:2I3Z4zX8btR6IKJCgqJ6Jx",
+    "description": "This Penny & The Quarters song is given new life by Durand Jones & The Indications. This band is quickly-establishing its place in the throwback-Soul movement or whatever you want to call it.",
+    "time": 1555361821322
+  },
+  {
+    "artist": "Skull Snaps",
+    "album": "Skull Snaps",
+    "track": "It’s a New Day",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/skull-snaps-remastered/1301287419",
+      "spotify": "https://open.spotify.com/album/51jWg95WIDgdzsQ408mwY8",
+      "discogs": "https://www.discogs.com/Skull-Snaps-Skull-Snaps/master/153860"
+    },
+    "embed_uri": "spotify:track:5wcInBWY5PamkFPlS6VVnc",
+    "description": "These drums are sampled in The Pharcyde’s, “Passin me By,” but the entirety of this track stands strong on its own. I want those horn hits to punctuate my life. The identity of the Skull Snaps was largely unknown for a few decades.",
+    "time": 1555361821322
+  },
+  {
+    "artist": "The Emotions",
+    "album": "Untouched",
+    "track": "Blind Alley",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/so-i-can-love-you-untouched-remastered/158298447",
+      "spotify": "https://open.spotify.com/album/43tzlLcK6P1stGMJ5qUI7m",
+      "discogs": "https://www.discogs.com/The-Emotions-Untouched/master/189246"
+    },
+    "embed_uri": "spotify:track:5Gq3FcDnESp5UWmnATqEX1",
+    "description": "I love discovering that groups are from Chicago when I never knew they were from Chicago. You may recognize this from Big Daddy Kane’s, “Ain’t No Half-Steppin’”",
+    "time": 1555361821322
+  },
+  {
+    "artist": "Marlena Shaw",
+    "album": "The Spice Of Life",
+    "track": "California Soul",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/the-spice-of-life/75130627",
+      "spotify": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8",
+      "discogs": "https://www.discogs.com/Marlena-Shaw-The-Spice-Of-Life/master/52463"
+    },
+    "embed_uri": "spotify:track:0OwvrdjaJOypNsNQHyBWE5",
+    "description": "Marlena is confidently restrained in this cover of “California Soul,” backed by the production value of a massive pop hit. This is a great talent doing her job damn well.",
+    "time": 1555361821322
+  },
+  {
     "artist": "Donald Byrd",
     "album": "A New Perspective",
     "track": "Cristo Redentor",
@@ -81,7 +133,7 @@
       "wikipedia": "https://en.wikipedia.org/wiki/Impeach_the_President"
     },
     "embed_uri": "spotify:track:2KKyVgKvMf0oZPP4pQTETi",
-    "description": "This track contains one of the most sampled drum tracks in the history of hip hop. The high school band, “The Honey Drippers” were discovered by singer Roy C, and this dense anti-Nixon funk has been a reminder to me of how little has changed since 1973.",
+    "description": "This track contains one of the most sampled drum tracks in the history of hip hop. The high school band, “The Honey Drippers” were discovered by singer Roy C. This dense anti-Nixon funk has been a reminder to me of how little has changed since 1973.",
     "time": 1554741360011
   },
   {
