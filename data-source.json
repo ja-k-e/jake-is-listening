@@ -1,5 +1,95 @@
 [
   {
+    "artist": "Roger Damawuzan, Les As Du Benin",
+    "album": "Wait for Me",
+    "track": "Motherless Child",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/wait-for-me/1007062788",
+      "spotify": "https://open.spotify.com/album/5wmPDksDQorFaswOQOiGZY",
+      "discogs": "https://www.discogs.com/Roger-Damawuzan-Les-As-Du-B%C3%A9nin-Wait-For-Me/release/7296186"
+    },
+    "embed_uri": "spotify:track:2VtoPJUmiZNdLhh3hTbH7C",
+    "description": "Togo’s Roger Damawuzan is known as, “James Brown from Lomé.” The character of his voice can almost be compared to that of Louis Armstrong. This track is other-worldly. This is one of my favorite versions of the spiritual Motherless Child.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "The Mandells",
+    "album": "Rare Soul: Groove & Grind 1963-1973",
+    "track": "There Will Be Tears Part 1",
+    "links": {
+      "spotify": "https://open.spotify.com/album/1dUSk8K4jTvkf2LqIxsxA1",
+      "discogs": "https://www.discogs.com/The-Mandells-There-Will-Be-Tears-Parts-1-2/release/6306584"
+    },
+    "embed_uri": "spotify:track:3RQ9YCMQWhFtKVuQQvYFTz",
+    "description": "The Mandells are unfairly obscure. This track was released on Chicago’s Trans World Sound label and packs a party’s punch.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "Erasmo Carlos",
+    "album": "Carlos, Erasmo",
+    "track": "Gente Aberta",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/carlos-erasmo-vers%C3%A3o-com-b%C3%B4nus/881628512",
+      "spotify": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M",
+      "discogs": "https://www.discogs.com/Erasmo-Carlos-Carlos-Erasmo/master/618556"
+    },
+    "embed_uri": "spotify:track:0MT6ecgiLweuA4nd9NTGll",
+    "description": "This track from Brazilian singer Erasmo Carlos is a terrific vibe.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "Black Milk",
+    "album": "No Poison No Paradise",
+    "track": "Monday's Worst",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/no-poison-no-paradise/997206436",
+      "spotify": "https://open.spotify.com/album/19pFdxG3feVWRFoXDJjPpM",
+      "discogs": "https://www.discogs.com/Black-Milk-No-Poison-No-Paradise/master/609968"
+    },
+    "embed_uri": "spotify:track:04qCE2Py6hfmoBOGDc7BrW",
+    "description": "I had a tweet take off and it featured Nat Turner Rebellion’s, “Never Too Late.” An internet stranger let me know they mistook it for this track which samples it. I am so happy they did. Black Milk is from Detroit.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "Fathili & The Yahoos",
+    "album": "Afro-Rock Volume One",
+    "track": "Mabala",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/afro-rock-vol-1/1442423825",
+      "spotify": "https://open.spotify.com/album/3xeW7a1YY6rTIccohDOHrr",
+      "discogs": "https://www.discogs.com/Various-Afro-Rock-Volume-One/master/207673"
+    },
+    "embed_uri": "spotify:track:4BHNE4bq8JllPn5yng9M7B",
+    "description": "The Yahoos are from Kenya.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "Ronnie Foster",
+    "album": "Two Headed Freap",
+    "track": "Mystic Brew",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/two-headed-freap/868859761",
+      "spotify": "https://open.spotify.com/album/2raiYCmtaHV9E2RFtovGfE",
+      "discogs": "https://www.discogs.com/Ronnie-Foster-Two-Headed-Freap/master/204404"
+    },
+    "embed_uri": "spotify:track:40XIh4aEp1Ts5F4XEQM2lj",
+    "description": "I became familiar with this track via Madlib’s tribute on Shades of Blue which doesn’t sample Ronnie’s organ enough if at all.",
+    "time": 1555949026621
+  },
+  {
+    "artist": "The Staple Singers",
+    "album": "Freedom Highway",
+    "track": "He's All Right",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/freedom-highway-recorded-live-at-chicagos-new-nazareth/1069550847",
+      "spotify": "https://open.spotify.com/album/0E8S9CUpLO9BiKPeQmcS38",
+      "discogs": "https://www.discogs.com/The-Staple-Singers-Freedom-Highway/master/365268"
+    },
+    "embed_uri": "spotify:track:7mChA0ThRrAM3mDveAhv9Q",
+    "description": "Mavis is in her mid-twenties in this live recording. The Staple Singers tear the roof off Chicago’s New Nazareth Church.",
+    "time": 1555949026621
+  },
+  {
     "artist": "Durand Jones & The Indications",
     "album": "You and Me / Put a Smile on Your Face",
     "track": "You and Me",
