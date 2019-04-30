@@ -1,5 +1,45 @@
 [
   {
+    "artist": "Harumi",
+    "album": "Harumi",
+    "track": "Hurry Up Now",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/harumi/430511168",
+      "spotify": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi",
+      "discogs": "https://www.discogs.com/Harumi-Harumi/master/296991",
+      "wikipedia": "https://en.wikipedia.org/wiki/Harumi_(album)"
+    },
+    "embed_uri": "spotify:track:0LzLAqW1ij0hSECFe6rBl7",
+    "description": "Very little is known about this 1968 album from Japan’s Harumi Ando. This is one of the coolest songs I’ve ever heard. Apparently Frank Zappa dismissed this record, calling it a “flower-power album.” It is both flowerful and powerful. I struggle to see how that’s a bad thing.",
+    "time": 1556664729030
+  },
+  {
+    "artist": "Akofa Akoussah",
+    "album": "Akofa Akoussah",
+    "track": "I Tcho Tchass",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/akofa-akoussah/1435406063",
+      "spotify": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq",
+      "discogs": "https://www.discogs.com/Akofa-Akoussah-Akofa-Akoussah/master/1460699"
+    },
+    "embed_uri": "spotify:track:6SwZUDlpJkTAor01wUbbx1",
+    "description": "There is so much soul in this track and on this record. Togolese Julie Akofa Akoussah’s voice is incredible. Later in her life, she dedicated herself to early music development and the fight against AIDS.",
+    "time": 1556664729030
+  },
+  {
+    "artist": "Rob",
+    "album": "Funky Rob Way",
+    "track": "Boogie On",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/funky-rob-way-analog-africa-limited-dance-edition-no-2/438260407",
+      "spotify": "https://open.spotify.com/album/7HPzfP4vsuEm2EEbzvj50S",
+      "discogs": "https://www.discogs.com/Rob-Funky-Rob-Way/master/346278"
+    },
+    "embed_uri": "spotify:track:0klYKuwFOaoR3RJclvlhxI",
+    "description": "Rob Roy Reindorf is from Accra, Ghana. Today he can be found at his restaurant, “The Chicken Pepper” back home in Accra. Playing with bands like Benin’s Poly-Rhythmo, he peppered the late 70’s afrobeat scene with funky chicken like this.",
+    "time": 1556664729029
+  },
+  {
     "artist": "Roger Damawuzan, Les As Du Benin",
     "album": "Wait for Me",
     "track": "Motherless Child",
