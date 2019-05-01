@@ -24,7 +24,13 @@
   opacity: 1;
 }
 .entry p.description {
-  margin: 0.5rem 0;
+  margin: 0.5rem 0 0.25rem;
+}
+.entry p.time {
+  font-size: 0.8em;
+  margin: 0rem 0 0.5rem;
+  text-transform: uppercase;
+  color: #999;
 }
 .entry p.artist {
   color: #999;

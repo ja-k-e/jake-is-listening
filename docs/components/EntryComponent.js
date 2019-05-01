@@ -5,6 +5,17 @@ Vue.component("entry-component", {
       iframeLoaded: false
     };
   },
+  computed: {
+    date() {
+      return new Date(this.entry.time);
+    },
+    timeText() {
+      const month = "January February March April May June July August September October November December".split(
+        " "
+      )[this.date.getMonth()];
+      return `${month} ${this.date.getFullYear()}`;
+    }
+  },
   methods: {
     cleanOrphan(desc) {
       return desc.replace(/ ([^ ]+)$/g, "&nbsp;$1");
@@ -26,8 +37,8 @@ function entryTemplate() {
 <article class="entry" :key="entry.embed_uri" :class="{ loaded: iframeLoaded }">
   <div class="embed">
     <iframe :src="uriToEmbedUrl(entry.embed_uri)" :key="'iframe-' + entry.embed_uri"
-      @load="iframeLoaded = true"
-      width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"
+    @load="iframeLoaded = true"
+    width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"
     ></iframe>
   </div>
 
@@ -36,6 +47,7 @@ function entryTemplate() {
     <p class="album" v-html="cleanOrphan(entry.album)"></p>
     <p class="artist" v-html="cleanOrphan(entry.artist)"></p>
     <p class="description" v-html="cleanOrphan(entry.description)"></p>
+    <p class="time" v-html="timeText"></p>
 
     <links-component :links="entry.links"></links-component>
     <ul class="links" v-if="entry.extra_links">
