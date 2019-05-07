@@ -1,5 +1,90 @@
 [
   {
+    "artist": "The Creation",
+    "album": "Action Painting",
+    "track": "If I Stay Too Long",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20the%20creation%20action%20painting",
+      "spotify": "https://open.spotify.com/album/1hQtwIXXSubWZbmJPP6Chy",
+      "discogs": "https://www.discogs.com/search/?q=the+creation+action+painting&type=master"
+    },
+    "embed_uri": "spotify:track:36cpoapaZBWy3Tf0VMKOEm",
+    "description": ""
+  },
+  {
+    "artist": "Kamal Keila",
+    "album": "Muslims and Christians (Habibi Funk 008)",
+    "track": "Muslims and Christians",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20kamal%20keila%20muslims%20and%20christians%20habibi%20funk%20008",
+      "spotify": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM",
+      "discogs": "https://www.discogs.com/search/?q=kamal+keila+muslims+and+christians+habibi+funk+008&type=master"
+    },
+    "embed_uri": "spotify:track:1LqNW6jrYRsxzcZHQ5qMWz",
+    "description": ""
+  },
+  {
+    "artist": "The Scorpions, Saif Abu Bakr",
+    "album": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+    "track": "Nile Waves",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20the%20scorpions%20jazz%20jazz%20jazz%20habibi%20funk%20009",
+      "spotify": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV",
+      "discogs": "https://www.discogs.com/search/?q=the+scorpions+jazz+jazz+jazz+habibi+funk+009&type=master"
+    },
+    "embed_uri": "spotify:track:1kqqUHUIf3gpo9ATGtfpyb",
+    "description": ""
+  },
+  {
+    "artist": "Blackrock",
+    "album": "Blackrock \"Yeah, Yeah\" - Single",
+    "track": "Blackrock \"Yeah, Yeah\"",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20blackrock%20blackrock%20yeah%20yeah%20%20single",
+      "spotify": "https://open.spotify.com/album/5nzwxaR1jHbIn5i8vqdHMB",
+      "discogs": "https://www.discogs.com/search/?q=blackrock+blackrock+yeah+yeah++single&type=master"
+    },
+    "embed_uri": "spotify:track:0xOGev87hRaq01IoPxjdy1",
+    "description": ""
+  },
+  {
+    "artist": "Thom Yorke",
+    "album": "Ciao My Shining Star - The Songs of Mark Mulcahy",
+    "track": "All for the Best",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20thom%20yorke%20ciao%20my%20shining%20star%20%20the%20songs%20of%20mark%20mulcahy",
+      "spotify": "https://open.spotify.com/album/0jBeBfLh8nG9raHKRY6bQp",
+      "discogs": "https://www.discogs.com/search/?q=thom+yorke+ciao+my+shining+star++the+songs+of+mark+mulcahy&type=master"
+    },
+    "embed_uri": "spotify:track:7nrGPwcnDFzC8vadHo27IT",
+    "description": ""
+  },
+  {
+    "artist": "The Como Mamas",
+    "album": "Out of the Wilderness / Well Well, Don't Worry 'Bout Me",
+    "track": "Out of the Wilderness",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20the%20como%20mamas%20out%20of%20the%20wilderness%20%20well%20well%20dont%20worry%20bout%20me",
+      "spotify": "https://open.spotify.com/album/4UiSQQNh4KCBtF0tWuHnDa",
+      "discogs": "https://www.discogs.com/search/?q=the+como+mamas+out+of+the+wilderness++well+well+dont+worry+bout+me&type=master"
+    },
+    "embed_uri": "spotify:track:1ieTerCftFbZEGBj3KXkJi",
+    "description": ""
+  },
+
+  {
+    "artist": "Barbara Lynn",
+    "album": "Voices Of Americana: Barbara Lynn",
+    "track": "I’m A Good Woman",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20barbara%20lynn%20voices%20of%20americana%20barbara%20lynn",
+      "spotify": "https://open.spotify.com/album/0xN4aEdaLtT87v3W0xDGVm",
+      "discogs": "https://www.discogs.com/search/?q=barbara+lynn+voices+of+americana+barbara+lynn&type=master"
+    },
+    "embed_uri": "spotify:track:66vDBjvjz2YvSF9yJ9JnC5",
+    "description": ""
+  },
+  {
     "artist": "Sam Cooke, The Soul Stirrers",
     "album": "Sam Cooke With The Soul Stirrers",
     "track": "Were You There",

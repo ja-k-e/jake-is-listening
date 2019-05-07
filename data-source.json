@@ -1,5 +1,52 @@
 [
   {
+    "artist": "Betty Harris",
+    "album": "The Lost Queen Of New Orleans Soul",
+    "track": "There's A Break In The Road",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/soul-jazz-records-presents-betty-harris-lost-queen/1136343629",
+      "spotify": "https://open.spotify.com/album/1YBh2625lNrgNV4ZVlIRAY",
+      "discogs": "https://www.discogs.com/Betty-Harris-The-Lost-Queen-Of-New-Orleans-Soul/master/1078609"
+    },
+    "embed_uri": "spotify:track:51vkjLIIFg3Wt6qIeww1DE",
+    "description": "This is thick. Betty’s delivery will stop you dead in your tracks as this boulder of a rhythm pancakes you while you make a stinky face.",
+    "time": 1557264118524
+  },
+  {
+    "artist": "Jackie Shane",
+    "album": "Any Other Way",
+    "track": "New Way of Lovin'",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/any-other-way/1262048100",
+      "spotify": "https://open.spotify.com/album/4cixaT2jAnamdxeLqvWOhk",
+      "discogs": "https://www.discogs.com/Jackie-Shane-Any-Other-Way/master/1253364",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Shane"
+    },
+    "embed_uri": "spotify:track:3XYR6UEitPQbNbpfRPuWBe",
+    "description": "Jackie Shane died this past February. This energy of this recording is aurally tactile. A pioneer transgender performer, she was frequently labeled as a man throughout her career.",
+    "time": 1557264118524
+  },
+  {
+    "artist": "Naomi Shelton & the Gospel Queens",
+    "album": "What Have You Done, My Brother?",
+    "track": "What Have You Done",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/what-have-you-done-my-brother/313797127",
+      "spotify": "https://open.spotify.com/album/5rWMX9Dhko8vKviPRc48is",
+      "discogs": "https://www.discogs.com/Naomi-Shelton-And-The-Gospel-Queens-What-Have-You-Done-My-Brother/master/201007",
+      "youtube": "https://www.youtube.com/watch?v=LhWGfhKRA8M"
+    },
+    "extra_links": [
+      [
+        "NY Times",
+        "https://www.nytimes.com/2009/06/13/us/13religion.html"
+      ]
+    ],
+    "embed_uri": "spotify:track:5qz4EmCqrxZMYcznQUp6n5",
+    "description": "76 year-old Naomi Shelton’s discovery is a recent one. She commands this 2009 Daptone release with a voice steeped in soul.",
+    "time": 1557264118524
+  },
+  {
     "artist": "Harumi",
     "album": "Harumi",
     "track": "Hurry Up Now",
