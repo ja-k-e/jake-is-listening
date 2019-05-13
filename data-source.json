@@ -1,5 +1,110 @@
 [
   {
+    "artist": "The Creation",
+    "album": "Action Painting",
+    "track": "If I Stay Too Long",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20the%20creation%20action%20painting",
+      "spotify": "https://open.spotify.com/album/1hQtwIXXSubWZbmJPP6Chy",
+      "discogs": "https://www.discogs.com/search/?q=the+creation+action+painting&type=master"
+    },
+    "embed_uri": "spotify:track:36cpoapaZBWy3Tf0VMKOEm",
+    "description": "I had no idea this band ever existed. I’m convinced that in another reality this track would be the kind of classic that appears on the Remember the Titans soundtrack.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "The Como Mamas",
+    "album": "Out of the Wilderness / Well Well, Don't Worry 'Bout Me",
+    "track": "Out of the Wilderness",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/out-of-the-wilderness-well-well-dont-worry-bout-me-single/908871289",
+      "spotify": "https://open.spotify.com/album/4UiSQQNh4KCBtF0tWuHnDa",
+      "discogs": "https://www.discogs.com/The-Como-Mamas-Out-Of-The-Wilderness/master/730228"
+    },
+    "embed_uri": "spotify:track:1ieTerCftFbZEGBj3KXkJi",
+    "description": "Daptone’s Como Mamas hail from Como, Mississippi. Ester Mae Smith, Angela Taylor, and Della Daniels bring the Gospel with heated authority.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "Kamal Keila",
+    "album": "Muslims and Christians",
+    "track": "Muslims and Christians",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/muslims-and-christians-habibi-funk-008/1378316207",
+      "spotify": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM",
+      "discogs": "https://www.discogs.com/%D9%83%D9%85%D8%A7%D9%84-%D9%83%D9%8A%D9%84%D8%A9-Kamal-Keila-%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86-%D9%88%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D9%8A%D9%86-Muslims-And-Christians/master/1389629"
+    },
+    "extra_links": [
+      [
+        "Bandcamp",
+        "https://daily.bandcamp.com/2018/07/05/kamal-keila-feature/"
+      ]
+    ],
+    "embed_uri": "spotify:track:1LqNW6jrYRsxzcZHQ5qMWz",
+    "description": "Kamal Keila is also known as “Sudan’s James Brown.” This album is one of the only Sudanese jazz albums in existence. This song pleads for a unified Sudan in a time of conflict.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "Blackrock",
+    "album": "Blackrock \"Yeah, Yeah\"",
+    "track": "Blackrock \"Yeah, Yeah\"",
+    "links": {
+      "apple": "https://itunes.apple.com/gb/album/blackrock-yeah-yeah-single/560221632",
+      "spotify": "https://open.spotify.com/album/5nzwxaR1jHbIn5i8vqdHMB",
+      "discogs": "https://www.discogs.com/Blackrock-Yeah-Yeah/release/11897214"
+    },
+    "embed_uri": "spotify:track:0xOGev87hRaq01IoPxjdy1",
+    "description": "Blackrock is a fairly mysterious group out of Memphis consisting of four session musicians, two from Stax and two from Hi Records.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "Thom Yorke",
+    "album": "Ciao My Shining Star - The Songs of Mark Mulcahy",
+    "track": "All for the Best",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/ciao-my-shining-star-the-songs-of-mark-mulcahy/1210814917",
+      "spotify": "https://open.spotify.com/album/0jBeBfLh8nG9raHKRY6bQp",
+      "discogs": "https://www.discogs.com/Various-Ciao-My-Shining-Star-The-Songs-Of-Mark-Mulcahy/master/373226",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ciao_My_Shining_Star:_The_Songs_of_Mark_Mulcahy"
+    },
+    "embed_uri": "spotify:track:7nrGPwcnDFzC8vadHo27IT",
+    "description": "This version of Miracle Legion’s, “All For The Best” is one of my favorite covers of all time. This tribute album was recorded to support Mark Mulahy after the sudden passing of his wife, Melissa in 2008.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "Barbara Lynn",
+    "album": "Voices Of Americana: Barbara Lynn",
+    "track": "I’m A Good Woman",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/voices-of-americana-barbara-lynn/305744629",
+      "spotify": "https://open.spotify.com/album/0xN4aEdaLtT87v3W0xDGVm",
+      "discogs": "https://www.discogs.com/Barbara-Lynn-Im-A-Good-Woman-Running-Back/master/722231",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Lynn"
+    },
+    "embed_uri": "spotify:track:66vDBjvjz2YvSF9yJ9JnC5",
+    "description": "Singer, guitarist, and songwriter Barabara Lynn defined talent in the 1960’s. She is still active today at 77.",
+    "time": 1557762324955
+  },
+  {
+    "artist": "The Scorpions, Saif Abu Bakr",
+    "album": "Jazz, Jazz, Jazz",
+    "track": "Nile Waves",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/jazz-jazz-jazz-habibi-funk-009/1434311926",
+      "spotify": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV",
+      "discogs": "https://www.discogs.com/%D9%81%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A8-%D8%B3%D9%8A%D9%81-%D8%A3%D8%A8%D9%88-%D8%A8%D9%83%D8%B1-The-Scorpions-Saif-Abu-Bakr-%D8%A7%D9%84%D8%AC%D8%A7%D8%B2-Jazz-Jazz-Jazz/master/1072404"
+    },
+    "extra_links": [
+      [
+        "Bandcamp",
+        "https://daily.bandcamp.com/2018/11/14/the-scorpions-saif-abu-bakr-jazz-jazz-jazz-album-review/"
+      ]
+    ],
+    "embed_uri": "spotify:track:1kqqUHUIf3gpo9ATGtfpyb",
+    "description": "This Sudanese record was originally released in 1980. The Sudanese music scene began its decline in 1983 when president Gaafar Nimeiry implemented Sharia law.",
+    "time": 1557762324955
+  },
+  {
     "artist": "Betty Harris",
     "album": "The Lost Queen Of New Orleans Soul",
     "track": "There's A Break In The Road",
