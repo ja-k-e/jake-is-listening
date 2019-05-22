@@ -1,5 +1,72 @@
 [
   {
+    "artist": "Jacqueline Taieb",
+    "album": "The French Mademoiselle",
+    "track": "7 AM",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/the-french-mademoiselle/74612176",
+      "spotify": "https://open.spotify.com/album/2iFYrUwMGHs4DwAJ94RxuW",
+      "discogs": "https://www.discogs.com/Jacqueline-Ta%C3%AFeb-The-Complete-Masterworks-Of-The-French-Mademoiselle/master/469016"
+    },
+    "embed_uri": "spotify:track:7wM9mzVjfURM26QVdVxjrk",
+    "description": "This recording is from 1968. Jacqueline began composing with her guitar at age 12. “I can’t find my toothbrush / where can it be / the red one is my father’s / the blue one is my mother’s / the yellow one is my brother’s / mine must have gone with the wind.”",
+    "time": 1558541558261
+  },
+  {
+    "artist": "Willie Griffin",
+    "album": "I Love You",
+    "track": "I Love You",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/i-love-you-single/1449241090",
+      "spotify": "https://open.spotify.com/album/51D8j2iMLynfsGkE72E5IF",
+      "discogs": "https://www.discogs.com/Willie-Griffin-2-And-Company-Where-Theres-Smoke-Theres-Fire/master/1489549"
+    },
+    "embed_uri": "spotify:track:1hjMPRvAD6WaXQrvUT2DV5",
+    "description": "Willie Griffin has three known recordings. This one from 1984 is remarkably intimate.",
+    "time": 1558541558261
+  },
+  {
+    "artist": "Dave Richardson and The Invincibles",
+    "album": "Heart Full of Love",
+    "track": "Heart Full of Love",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/heart-full-of-love/3994454",
+      "spotify": "https://open.spotify.com/album/2gqkriS0sQ14AUpLSN2la4",
+      "discogs": "https://www.discogs.com/The-Invincibles-Heart-Full-Of-Love/master/712033"
+    },
+    "embed_uri": "spotify:track:12Oh0VZv0kCtC9bk7jCRgU",
+    "description": "This track from 1960’s vocal trio, “The Invincibles” is a gorgeously somber take on love.",
+    "time": 1558541558261
+  },
+  {
+    "artist": "Nicole Willis, UMO Jazz Orchestra",
+    "album": "My Name Is Nicole Willis",
+    "track": "Still Got a Way to Fall",
+    "links": {
+      "apple": "https://itunes.apple.com/us/album/my-name-is-nicole-willis/1237027833",
+      "spotify": "https://open.spotify.com/album/0e7kN4e5eTuvhpqBXSVq4V",
+      "discogs": "https://www.discogs.com/Nicole-Willis-Umo-Jazz-Orchestra-My-Name-Is-Nicole-Willis/master/1250099",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Willis"
+    },
+    "embed_uri": "spotify:track:06xHsdwvGuvdBivuCyGps5",
+    "description": "I need to listen to this track at least 25 more times before I feel comfortable saying more than, “You need to hear this.”",
+    "time": 1558541558261
+  },
+  {
+    "artist": "The Chambers Brothers",
+    "album": "People Get Ready",
+    "track": "People Get Ready",
+    "links": {
+      "apple": "https://music.apple.com/us/album/people-get-ready-remastered/525851801",
+      "spotify": "https://open.spotify.com/album/5KyuzddcDKey9vR1DVW849",
+      "discogs": "https://www.discogs.com/The-Chambers-Brothers-People-Get-Ready/master/497094",
+      "youtube": "https://www.youtube.com/watch?v=y0FnjkSFwss"
+    },
+    "embed_uri": "spotify:track:0L4V8rD3qdO00vUx8KtBPb",
+    "description": "This early live cover of The Impressions’ classic is fantastic. The recording starts with narration that frames the song perfectly. The Chambers Brothers are from Carthage, Mississippi.",
+    "time": 1558541558261
+  },
+  {
     "artist": "The Creation",
     "album": "Action Painting",
     "track": "If I Stay Too Long",
@@ -101,7 +168,7 @@
       ]
     ],
     "embed_uri": "spotify:track:1kqqUHUIf3gpo9ATGtfpyb",
-    "description": "This Sudanese record was originally released in 1980. The Sudanese music scene began its decline in 1983 when president Gaafar Nimeiry implemented Sharia law.",
+    "description": "This Sudanese record was originally released in 1980. The Sudanese jazz scene began its decline in 1983 when president Gaafar Nimeiry implemented Sharia law.",
     "time": 1557762324955
   },
   {
