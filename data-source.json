@@ -1,5 +1,84 @@
 [
   {
+    "artist": "Richard Swift",
+    "album": "Ground Trouble Jaw",
+    "track": "The Bully",
+    "links": {
+      "apple": "https://music.apple.com/us/album/ground-trouble-jaw-ep/447189772",
+      "spotify": "https://open.spotify.com/album/2gtWAL5hxlFsnpGLe7G4d6",
+      "discogs": "https://www.discogs.com/Richard-Swift-Ground-Trouble-Jaw/master/825378",
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_Swift_(singer-songwriter)"
+    },
+    "embed_uri": "spotify:track:4Z5jJyjTdiuwmCcPxN6Fvr",
+    "description": "Richard Swift was a producer and collaborator. He was a member of The Shins, The Arcs, and was a tour musician for The Black Keys. Tragically, he died in 2018. Despite this track’s hilariously light-hearted demeanor, it fully displays Swift’s excellent songwriting and vocal range.",
+    "time": 1560184640788
+  },
+  {
+    "artist": "Kashmere Stage Band",
+    "album": "Texas Thunder Soul 1968-1974",
+    "track": "Scorpio",
+    "links": {
+      "apple": "https://music.apple.com/us/album/texas-thunder-soul-1968-1974/297641278",
+      "spotify": "https://open.spotify.com/album/4bn5ct5jEmBPnlmYvYGJFP",
+      "discogs": "https://www.discogs.com/Kashmere-Stage-Band-Texas-Thunder-Soul-1968-1974/master/251183"
+    },
+    "embed_uri": "spotify:track:3e5IvrGYC9P6JESqWuCS5M",
+    "description": "KSB, led by Conrad O. Johnson, was an “unbeatable” Houston high school band throughout the late 1960’s and early 70’s. The era of that program is captured in the 2011 documentary, “Thunder Soul.”",
+    "time": 1560184640788
+  },
+  {
+    "artist": "Martha Reeves & The Vandellas",
+    "album": "Watchout!",
+    "track": "No More Tearstained Make Up",
+    "links": {
+      "apple": "https://music.apple.com/us/album/watchout/1443753375",
+      "spotify": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ",
+      "discogs": "https://www.discogs.com/Martha-The-Vandellas-Watchout/master/309042"
+    },
+    "embed_uri": "spotify:track:4OZOtLWAJyBCkQFeIPw7ax",
+    "description": "From 2005-2009 Martha Reeves served on the Detroit City Council. This recording is from 1966 and Martha is still active today.",
+    "time": 1560184640788
+  },
+  {
+    "artist": "Earl Hooker, Jody Williams",
+    "album": "The Leading Brand",
+    "track": "Lucky You",
+    "links": {
+      "apple": "https://music.apple.com/gb/album/the-leading-brand/635134241",
+      "spotify": "https://open.spotify.com/album/4u2QIjxnwrqstyE3DiSyT0",
+      "discogs": "https://www.discogs.com/Earl-Hooker-Jody-Williams-The-Leading-Brand-/release/4897387"
+    },
+    "embed_uri": "spotify:track:6hXATdG6AdK8zuLLXNiVXb",
+    "description": "Chicago’s Earl Hooker is John Lee Hooker’s cousin. B.B. King recognized Earl and his slide-enabled style as, “The best of modern guitarists. Period.” Jody Williams was a highly sought after string-bending Chicago session guitarist.",
+    "time": 1560184640788
+  },
+  {
+    "artist": "Phyllis Dillon",
+    "album": "Love Is All I Had: A Tribute to the Queen of Jamaican Soul",
+    "track": "Make Me Yours",
+    "links": {
+      "apple": "https://music.apple.com/au/album/love-is-all-i-had-a-tribute-to-the-queen-of-jamaican-soul/1144209152",
+      "spotify": "https://open.spotify.com/album/4Op7as0pv5F8nGEu4oR0Cl",
+      "discogs": "https://www.discogs.com/Phyllis-Dillion-The-Hands-Of-Love-Make-Me-Yours/master/649679"
+    },
+    "embed_uri": "spotify:track:5cq644rkhYjb3WyRoGFl7F",
+    "description": "This cover of Bettye Swann’s, “Make me yours” by the Queen of Jamaican soul is a smile in the summer. Phyllis Dillon was posthumously awarded the Order of Distinction by the Jamaican government in 2009.",
+    "time": 1560184640788
+  },
+  {
+    "artist": "T. P. Orchestre Poly-Rythmo",
+    "album": "Echos hypnotiques, Vol. 2: 1969-1979 (Analog Africa No. 6)",
+    "track": "Malin Kpon O",
+    "links": {
+      "apple": "https://music.apple.com/us/album/echos-hypnotiques-from-vaults-albarika-store-vol-2/342931544",
+      "spotify": "https://open.spotify.com/album/06V8YvCnql3bT9KzZbqU6v",
+      "discogs": "https://www.discogs.com/Orchestre-Poly-Rythmo-De-Cotonou-Echos-Hypnotiques/master/209252"
+    },
+    "embed_uri": "spotify:track:64AtY6sKYBsBGelwjkdYkD",
+    "description": "I keep coming back to Benin’s Orchestre Poly-Rythmo de Cotonou. The tones on this track are wild.",
+    "time": 1560184640787
+  },
+  {
     "artist": "Jacqueline Taieb",
     "album": "The French Mademoiselle",
     "track": "7 AM",
