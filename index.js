@@ -16,7 +16,7 @@ const sorted = parsed.sort((a, b) => {
 const final = JSON.stringify(sorted, null, 2);
 fs.writeFileSync("data-source.json", final);
 
-const DATA_PER_PAGE = 50;
+const DATA_PER_PAGE = 40;
 const pages = generatePages(sorted);
 
 pages.forEach(page => {
