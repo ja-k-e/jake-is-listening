@@ -1,5 +1,96 @@
 [
   {
+    "artist": "Bettye Swann",
+    "album": "The Money Recordings",
+    "track": "Make Me Yours",
+    "links": {
+      "apple": "https://music.apple.com/ke/album/the-money-recordings/590175047",
+      "spotify": "https://open.spotify.com/album/1dQ3AlrITgcI4FYnOcfm6d",
+      "discogs": "https://www.discogs.com/Bettye-Swann-Make-Me-Yours/master/376863"
+    },
+    "embed_uri": "spotify:track:3axZhjWYerBhaovH5MlkTZ",
+    "description": "This track was originally released in 1967 by Bettye Swann. It topped the Billboard R&B charts in July of 1967.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Little Denise / Yvonne Fair",
+    "album": "Check Me Out / Say Yeah Yeah",
+    "track": "Little Denise - Check Me Out",
+    "links": {
+      "apple": "https://music.apple.com/gb/album/check-me-out-say-yeah-yeah-single/267217608",
+      "spotify": "https://open.spotify.com/album/1tUCNQQCOJ5xg34xCJZpLa",
+      "discogs": "https://www.discogs.com/Yvonne-Fair-Little-Denice-Say-Yeah-Yeah-Check-Me-Out/release/1181888"
+    },
+    "embed_uri": "spotify:track:0lyM02MyC2q6o27REX3avs",
+    "description": "Originally recorded some time between ‘67 and ‘76, this was first released in 2003 on a “Bay Area Funk & Soul” compilation. That’s all I got. I want more Little Denise.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Emitt Rhodes",
+    "album": "The Emitt Rhodes Recordings (1969-1973)",
+    "track": "Somebody Made For Me",
+    "links": {
+      "apple": "https://music.apple.com/au/album/the-emitt-rhodes-recordings-1969-1973/1458132205",
+      "spotify": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB",
+      "discogs": "https://www.discogs.com/Emitt-Rhodes-Emitt-Rhodes/master/108564"
+    },
+    "embed_uri": "spotify:track:2hq50hCUUknhUXZ9uL3wgq",
+    "description": "Recording this album himself, Emitt Rhodes played every instrument and sang all the vocals.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Little Simz",
+    "album": "GREY Area",
+    "track": "Boss",
+    "links": {
+      "apple": "https://music.apple.com/us/album/grey-area/1444318578",
+      "spotify": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY",
+      "discogs": "https://www.discogs.com/Little-Simz-Grey-Area/master/1510205"
+    },
+    "embed_uri": "spotify:track:1TNLYKpEPZ0g6jQq34pDcU",
+    "description": "Little Simz kicked off her GREY Area U.S. tour 15 minutes from my house. She opened with this track and put Lincoln Hall on its knees. This is my favorite album of 2019 so far.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Esso Trinidad Steel Band",
+    "album": "Esso Trinidad Steel Band",
+    "track": "I Want You Back",
+    "links": {
+      "apple": "https://music.apple.com/us/album/i-want-you-back/473549390",
+      "spotify": "https://open.spotify.com/album/49Jdj6U9Cfj3d8bhcdc1M8",
+      "discogs": "https://www.discogs.com/The-Esso-Trinidad-Steel-Band-Esso/master/240513"
+    },
+    "embed_uri": "spotify:track:4Pt5fmpEyGL70yXOxUYVNI",
+    "description": "This recording is from 1971. The Esso Trinidad Steel Band was active from 1942-1976. The album was nominated for a Grammy and lost to Muddy Waters.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Sun Ra Arkestra",
+    "album": "Live in Nickelsdorf 1984",
+    "track": "Nuclear War (Live)",
+    "links": {
+      "apple": "https://music.apple.com/pg/album/live-in-nickelsdorf-1984/1452285140",
+      "spotify": "https://open.spotify.com/album/6eOoMVrjBMmAXtoBPp5LpS",
+      "discogs": "https://www.discogs.com/Sun-Ra-Arkestra-Live-In-Nickelsdorf-1984/master/771781"
+    },
+    "embed_uri": "spotify:track:6Ys8eavDzCLC4CjwN8pAUP",
+    "description": "It is impossible to ignore the urgency of the Cold War backdrop of this performance. “Don’t ya care ‘bout yourself / if you don’t care / who else gonna care?” This track was originally released in ‘82 and the likely homemade recording of this Austrian performance is from ‘84.",
+    "time": 1560805171629
+  },
+  {
+    "artist": "Joe Bataan",
+    "album": "Subway Joe",
+    "track": "Subway Joe",
+    "links": {
+      "apple": "https://music.apple.com/jo/album/subway-joe/507720142",
+      "spotify": "https://open.spotify.com/album/7ImYYi0tJHTsYHH8Qxm9OS",
+      "discogs": "https://www.discogs.com/Joe-Bataan-Subway-Joe/master/125714"
+    },
+    "embed_uri": "spotify:track:30E1ZeueWNbOzMP2PJRqa8",
+    "description": "Joe’s latin soul is a party to listen to. Joe Bataan grew up in East Harlem and briefly led a local Puerto Rican street gang, the Dragons before turning to a career in music.",
+    "time": 1560805171629
+  },
+  {
     "artist": "Richard Swift",
     "album": "Ground Trouble Jaw",
     "track": "The Bully",
