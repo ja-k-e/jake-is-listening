@@ -1,5 +1,57 @@
 [
   {
+    "artist": "France Gall",
+    "album": "Ne Sois Pas Si Bête",
+    "track": "Pense à moi",
+    "links": {
+      "apple": "https://music.apple.com/us/album/laisse-tomber-les-filles/1442210793",
+      "spotify": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u",
+      "discogs": "https://www.discogs.com/France-Gall-Ne-Sois-Pas-Si-B%C3%AAte/master/1311085"
+    },
+    "embed_uri": "spotify:track:4nrER9N5VtxGzVwRP12dxl",
+    "description": "This recording first appeared in 1963. France Gall was 16. She went on to become a prolific French yé-yé recording artist.",
+    "time": 1561995773710
+  },
+  {
+    "artist": "Galt MacDermot",
+    "album": "Woman Is Sweeter",
+    "track": "Cathedral",
+    "links": {
+      "apple": "https://music.apple.com/us/album/shapes-of-rhythm-woman-is-sweeter/6122289",
+      "spotify": "https://open.spotify.com/album/6f4b9wVTkKAf096k4XG6x5",
+      "discogs": "https://www.discogs.com/Galt-MacDermot-Woman-Is-Sweeter-Original-Soundtrack-Recording/master/566009"
+    },
+    "embed_uri": "spotify:track:7JxNCDjLQnV2HJ7Z3ySRRQ",
+    "description": "MacDermot is most well-known for his compositions for the musical Hair. You may recognize Cathedral as it was sampled by MF Doom in “Pennyroyal.” This album is the soundtrack for a French film from 1973.",
+    "time": 1561995773710
+  },
+  {
+    "artist": "Bumblebee Unlimited",
+    "album": "Sting Like A Bee",
+    "track": "Lady Bug - Disco Mix",
+    "links": {
+      "apple": "https://music.apple.com/us/album/sting-like-a-bee/1279542416",
+      "spotify": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI",
+      "discogs": "https://www.discogs.com/Bumblebee-Unlimited-Sting-Like-A-Bee/master/49244"
+    },
+    "embed_uri": "spotify:track:3SKGZkPrxSCP3tmypixVDB",
+    "description": "Bumblebee Unlimited was a group started by Patrick Adams and Gregory Carmichael. Sped up vocals make this whole 1979 album a disco trip.",
+    "time": 1561995773710
+  },
+  {
+    "artist": "Sharon Jones & The Dap-Kings",
+    "album": "I Learned the Hard Way",
+    "track": "Mama Don't Like My Man",
+    "links": {
+      "apple": "https://music.apple.com/by/album/i-learned-the-hard-way-bonus-version/359971345",
+      "spotify": "https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE",
+      "discogs": "https://www.discogs.com/Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way/master/246656"
+    },
+    "embed_uri": "spotify:track:4k0M2YZrhu7LCDvsj7uD0b",
+    "description": "This recording sounds like a gender-diverse version of the Cooke-era Soul Stirrers. I miss Sharon Jones.",
+    "time": 1561995773710
+  },
+  {
     "artist": "Bettye Swann",
     "album": "The Money Recordings",
     "track": "Make Me Yours",
