@@ -1,5 +1,70 @@
 [
   {
+    "artist": "Abstract Orchestra",
+    "album": "Madvillain, Vol. 2",
+    "track": "Figaro",
+    "links": {
+      "apple": "https://music.apple.com/us/album/madvillain-vol-2/1458872376",
+      "spotify": "https://open.spotify.com/album/3SeYRqyigEnVn5ElW8pmcx",
+      "discogs": "https://www.discogs.com/Abstract-Orchestra-Madvillain-Vol-2/master/1574988"
+    },
+    "embed_uri": "spotify:track:3Qgv3ZyZseCbylLH6j4k5H",
+    "description": "Somehow this Madvillainy cover by U.K. big band Abstract Orchestra hits you just as hard as the OG beat. It is a perfect tribute.",
+    "time": 1563551805381
+  },
+  {
+    "artist": "Fiona Apple",
+    "album": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do",
+    "track": "Every Single Night",
+    "links": {
+      "apple": "https://music.apple.com/us/album/idler-wheel-is-wiser-than-driver-screw-whipping-cords/1462213924",
+      "spotify": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa",
+      "discogs": "https://www.discogs.com/Fiona-Apple-The-Idler-Wheel-Is-Wiser-Than-The-Driver-Of-The-Screw-And-Whipping-Cords-Will-Serve-You-/master/446092"
+    },
+    "embed_uri": "spotify:track:6HPZo9krwjbhMGKbqVkkDQ",
+    "description": "I realized I missed 2012 Fiona Apple in 2018. This is one of the most grippingly transparent songs I have ever heard.",
+    "time": 1563551685787
+  },
+  {
+    "artist": "Mary Wells",
+    "album": "Bye Bye Baby",
+    "track": "I Don't Want To Take A Chance",
+    "links": {
+      "apple": "https://music.apple.com/ca/album/bye-bye-baby/887802286",
+      "spotify": "https://open.spotify.com/album/2sn8RuWxwxTbfR5ZPgBSXX",
+      "discogs": "https://www.discogs.com/Mary-Wells-Bye-Bye-Baby-I-Dont-Want-To-Take-A-Chance/master/362935"
+    },
+    "embed_uri": "spotify:track:71lpLuoVGv1e9M8i0OkjnY",
+    "description": "I don’t want to take a chance / and come out / yeah and come out / and come out / on the losing end",
+    "time": 1563551685787
+  },
+  {
+    "artist": "The Supremes",
+    "album": "Where Did Our Love Go",
+    "track": "When The Lovelight Starts Shining Through His Eyes",
+    "links": {
+      "apple": "https://music.apple.com/us/album/where-did-our-love-go/1443150912",
+      "spotify": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV",
+      "discogs": "https://www.discogs.com/The-Supremes-Where-Did-Our-Love-Go/master/21273"
+    },
+    "embed_uri": "spotify:track:71Upx7K1I1jInEEJpsFWLw",
+    "description": "It is impossible for this song to not make you happy.",
+    "time": 1563551685787
+  },
+  {
+    "artist": "Wesley Bright and the Honeytones",
+    "album": "Happiness / You Don't Want Me",
+    "track": "You Don’t Want Me",
+    "links": {
+      "apple": "https://music.apple.com/us/album/happiness-you-dont-want-me-single/1437749014",
+      "spotify": "https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu",
+      "discogs": "https://www.discogs.com/Wesley-Bright-The-Honeytones-Happiness/master/1428380"
+    },
+    "embed_uri": "spotify:track:7uQQG43MouzO3JmZfnchoc",
+    "description": "Add Akron’s Wesley Bright & The Honeytones to the list of folks keeping soul alive.",
+    "time": 1563551685787
+  },
+  {
     "artist": "France Gall",
     "album": "Ne Sois Pas Si Bête",
     "track": "Pense à moi",
