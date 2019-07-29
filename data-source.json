@@ -1,5 +1,44 @@
 [
   {
+    "artist": "Eddie Harris",
+    "album": "I Need Some Money",
+    "track": "I Don't Want Nobody",
+    "links": {
+      "apple": "https://music.apple.com/us/album/i-need-some-money/76058299",
+      "spotify": "https://open.spotify.com/album/4Wi9MPdAtk72NVE1LMYY9t",
+      "discogs": "https://www.discogs.com/Eddie-Harris-I-Need-Some-Money/master/162730"
+    },
+    "embed_uri": "spotify:track:3jV9iL4dF5bzlDzNAd7P9c",
+    "description": "Chicago’s Eddie Harris is prolific. Eddie experimented with creations like the reed trumpet, saxobone, and guitorgan. This track in particular features his falsetto sung through his sax. If it fails to usher you straight into his soul you aren’t listening.",
+    "time": 1564414978083
+  },
+  {
+    "artist": "Papa Bear & His Cubs",
+    "album": "You're so Fine",
+    "track": "You're so Fine",
+    "links": {
+      "apple": "https://music.apple.com/pg/album/youre-so-fine-single/1466796186",
+      "spotify": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5",
+      "discogs": "https://www.discogs.com/Papa-Bear-And-The-Cubs-Sweetest-Thing-On-This-Side-Of-Heaven/master/1574518"
+    },
+    "embed_uri": "spotify:track:3xBWfh0s2XgT65AGgMPsj6",
+    "description": "This 1975 rarity is the work of Arkansas native Eddie Disnute Sr. and his children.",
+    "time": 1564414978083
+  },
+  {
+    "artist": "Ariel Pink",
+    "album": "A Decade Deeper",
+    "track": "Nonsequitur Segues",
+    "links": {
+      "apple": "https://music.apple.com/us/album/a-decade-deeper/1438180815",
+      "spotify": "https://open.spotify.com/album/1SJNj52EPwM6WyURqgwoUI",
+      "discogs": "https://www.discogs.com/Various-Mexican-Summer-A-Decade-Deeper/release/12878610"
+    },
+    "embed_uri": "spotify:track:14vDmLWMv3sD6L5jG70ZAR",
+    "description": "Brooklyn based label “Mexican Summer” put out this compilation of unreleased tracks in 2018. This one from Ariel Pink conjures late 70's Nigerian funk vibes and feels great.",
+    "time": 1564414978083
+  },
+  {
     "artist": "Abstract Orchestra",
     "album": "Madvillain, Vol. 2",
     "track": "Figaro",
