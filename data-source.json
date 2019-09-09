@@ -1,5 +1,43 @@
 [
   {
+    "artist": "Sonny Sharrock",
+    "album": "Black Woman",
+    "track": "Blind Willie",
+    "links": {
+      "apple": "https://music.apple.com/us/album/black-woman/265632476",
+      "spotify": "https://open.spotify.com/album/3xWs9FMTAGdQtgwZTnTf98",
+      "discogs": "https://www.discogs.com/Sonny-Sharrock-Black-Woman/master/49347"
+    },
+    "embed_uri": "spotify:track:2zEWjJxi0zQv4yKhB8fxZn",
+    "description": "Despite this being the least chaotic Sonny Sherrock recording I have heard, it is still a very carnal expression not unlike the greater spectrum of his often avant-garde work. “Black Woman” will put you on your face.",
+    "time": 1568046172210
+  },
+  {
+    "artist": "Moses Sumney, Sufjan Stevens",
+    "album": "Make Out in My Car: Chameleon Suite",
+    "track": "Make Out in My Car - Sufjan Stevens Version",
+    "links": {
+      "apple": "https://music.apple.com/us/album/make-out-in-my-car-chameleon-suite-ep/1385673954",
+      "spotify": "https://open.spotify.com/album/5WI3QDHU8Z2ypfVRsJBtKy"
+    },
+    "embed_uri": "spotify:track:045NQr6Xvm5o9YFUMwbMzG",
+    "description": "Not sure how I missed this one as I have a slight obsession with both Moses and Sufjan. This is from an EP containing a few different covers of this track.",
+    "time": 1568045980945
+  },
+  {
+    "artist": "Nahawa Doumbia",
+    "album": "Tou Dibile",
+    "track": "Tou Dibile",
+    "links": {
+      "apple": "https://music.apple.com/us/album/la-grande-cantatrice-malienne-vol-1/1473636130",
+      "spotify": "https://open.spotify.com/album/0y0MQIN9H74TyicZqqqgEh",
+      "discogs": "https://www.discogs.com/N%C3%A2-Hawa-Doumbia-La-Grande-Cantatrice-Malienne-Decouverte-81-A-Dakar/master/982847"
+    },
+    "embed_uri": "spotify:track:0556jV8668js96BBSRhROA",
+    "description": "Mali singer Nahawa Doumbia’s voice cuts deep. This album was recorded in 1981 when Nahawa was 20 years old. The accompaniment is by her at-the-time future husband N’Gou Bagayoko.",
+    "time": 1568045322097
+  },
+  {
     "artist": "Eddie Harris",
     "album": "I Need Some Money",
     "track": "I Don't Want Nobody",
