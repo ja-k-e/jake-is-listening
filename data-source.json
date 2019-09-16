@@ -1,5 +1,41 @@
 [
   {
+    "artist": "Lee \"Scratch\" Perry",
+    "album": "I Am The Upsetter - The Story Of The Lee \"Scratch\" Perry Golden Years",
+    "track": "Justice To The People",
+    "links": {
+      "spotify": "https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n",
+      "discogs": "https://www.discogs.com/Lee-Perry-And-Friends-Give-Me-Power/master/151388"
+    },
+    "embed_uri": "spotify:track:0PMdcjQWE0yNi1w7vUFE5r",
+    "description": "This Chi-Lites cover is the only recording I've ever heard successfully utilize a sample of a crying child.",
+    "time": 1568647151294
+  },
+  {
+    "artist": "defprez",
+    "album": "Sunday No. 2",
+    "track": "Peace",
+    "links": {
+      "apple": "https://music.apple.com/us/album/sunday-no-2/1474540668",
+      "spotify": "https://open.spotify.com/album/22hqoiIfuUZqrg7mPE8P3B"
+    },
+    "embed_uri": "spotify:track:6j34WtdjbWUVnRmtf2hSz3",
+    "description": "defprez is a CRASHprez + Defcee + knowsthetime collab. You’ll find yourself missing a bar because you’re still thinking about the previous one.",
+    "time": 1568647151294
+  },
+  {
+    "artist": "Jaimie Branch",
+    "album": "prayer for amerikkka pt. 1 & 2",
+    "track": "prayer for amerikkka pt. 1 & 2",
+    "links": {
+      "apple": "https://music.apple.com/us/album/fly-or-die-ii-bird-dogs-of-paradise/1473067567",
+      "spotify": "https://open.spotify.com/album/2GCqTGU6PTh8rG8asAnyvn"
+    },
+    "embed_uri": "spotify:track:0DEzXser4M49XD1Zo6HOx0",
+    "description": "Jaimie Branch is new to me and I am eating it up. This track is from her new record “Fly or Die II” which is being released by International Anthem next month. This trumpet is a war cry.",
+    "time": 1568647151294
+  },
+  {
     "artist": "Sonny Sharrock",
     "album": "Black Woman",
     "track": "Blind Willie",
