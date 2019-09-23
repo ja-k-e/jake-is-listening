@@ -1,18 +1,6 @@
 [
   {
     "artist": "The Chi-Lites",
-    "album": "The Ultimate Chi-Lites",
-    "track": "(For God's Sake) Give More Power To The People",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20the%20chilites%20the%20ultimate%20chilites",
-      "spotify": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3",
-      "discogs": "https://www.discogs.com/search/?q=the+chilites+the+ultimate+chilites&type=master"
-    },
-    "embed_uri": "spotify:track:0dVabf3Sm1uHODq1vz2Lts",
-    "description": ""
-  },
-  {
-    "artist": "The Chi-Lites",
     "album": "I Like Your Lovin' (Do You Like Mine?)",
     "track": "Are You My Woman? (Tell Me So)",
     "links": {
@@ -21,18 +9,6 @@
       "discogs": "https://www.discogs.com/search/?q=the+chilites+i+like+your+lovin+do+you+like+mine&type=master"
     },
     "embed_uri": "spotify:track:7B32ckntos5QYbV9o7GF3q",
-    "description": ""
-  },
-  {
-    "artist": "The Crusaders",
-    "album": "The 2nd Crusade",
-    "track": "Look Beyond The Hill",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20the%20crusaders%20the%202nd%20crusade",
-      "spotify": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF",
-      "discogs": "https://www.discogs.com/search/?q=the+crusaders+the+2nd+crusade&type=master"
-    },
-    "embed_uri": "spotify:track:50BIyfMpmfeWRscszOOMD4",
     "description": ""
   },
   {
@@ -57,18 +33,6 @@
       "discogs": "https://www.discogs.com/search/?q=william+onyeabor+anything+you+sow&type=master"
     },
     "embed_uri": "spotify:track:13oiVcrRczGhGVbWr38qdq",
-    "description": ""
-  },
-  {
-    "artist": "Pharoah Sanders",
-    "album": "Wisdom Through Music",
-    "track": "Love Is Everywhere",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20pharoah%20sanders%20wisdom%20through%20music",
-      "spotify": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme",
-      "discogs": "https://www.discogs.com/search/?q=pharoah+sanders+wisdom+through+music&type=master"
-    },
-    "embed_uri": "spotify:track:4IIxBK0L8uj7viwxhmuSc4",
     "description": ""
   },
   {

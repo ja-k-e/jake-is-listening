@@ -1,5 +1,44 @@
 [
   {
+    "artist": "Pharoah Sanders",
+    "album": "Wisdom Through Music",
+    "track": "Love Is Everywhere",
+    "links": {
+      "apple": "https://music.apple.com/qa/album/village-of-the-pharoahs-wisdom-through-music/1442240534",
+      "spotify": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme",
+      "discogs": "https://www.discogs.com/Pharoah-Sanders-Wisdom-Through-Music/master/200357"
+    },
+    "embed_uri": "spotify:track:4IIxBK0L8uj7viwxhmuSc4",
+    "description": "“Wisdom Through Music” is an entirely appropriate title for this record.",
+    "time": 1569255956164
+  },
+  {
+    "artist": "The Crusaders",
+    "album": "The 2nd Crusade",
+    "track": "Look Beyond The Hill",
+    "links": {
+      "apple": "https://music.apple.com/za/album/the-2nd-crusade/1442929119",
+      "spotify": "https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF",
+      "discogs": "https://www.discogs.com/The-Crusaders-The-2nd-Crusade/master/47505"
+    },
+    "embed_uri": "spotify:track:50BIyfMpmfeWRscszOOMD4",
+    "description": "Originally known as The Jazz Crusaders, The Crusaders transitioned to Jazz-Funk early 1970. This track is full of hope.",
+    "time": 1569255956164
+  },
+  {
+    "artist": "The Chi-Lites",
+    "album": "The Ultimate Chi-Lites",
+    "track": "(For God's Sake) Give More Power To The People",
+    "links": {
+      "apple": "https://music.apple.com/us/album/the-ultimate-chi-lites/186105438",
+      "spotify": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3",
+      "discogs": "https://www.discogs.com/The-Chi-Lites-For-Gods-Sake-Give-More-Power-To-The-People/master/87033"
+    },
+    "embed_uri": "spotify:track:0dVabf3Sm1uHODq1vz2Lts",
+    "description": "This is probably the coolest introduction of all time. The Chi-Lites are from Chicago’s Hyde Park.",
+    "time": 1569255956164
+  },
+  {
     "artist": "Lee \"Scratch\" Perry",
     "album": "I Am The Upsetter - The Story Of The Lee \"Scratch\" Perry Golden Years",
     "track": "Justice To The People",
