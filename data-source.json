@@ -1,5 +1,70 @@
 [
   {
+    "artist": "Little Beaver",
+    "album": "Party Down",
+    "track": "Get into the Party Life",
+    "links": {
+      "apple": "https://music.apple.com/us/album/party-down/80005019",
+      "spotify": "https://open.spotify.com/album/6MYUn0QRrkzOxUjQ3V8dkm",
+      "discogs": "https://www.discogs.com/Little-Beaver-Party-Down/master/126245"
+    },
+    "embed_uri": "spotify:track:3rZrK0m6FsVwNBS0SFpivX",
+    "description": "The main bassline in this track makes my whole body move in an unregulated response. Little Beaver (Willie Hale) sprinkles some finger fireworks and even a little falsetto on top of this sensual jam.",
+    "time": 1573797600000
+  },
+  {
+    "artist": "Ty Segall",
+    "album": "Freedom's Goblin",
+    "track": "Every 1's a Winner",
+    "links": {
+      "apple": "https://music.apple.com/us/album/freedoms-goblin/1318412439",
+      "spotify": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i",
+      "discogs": "https://www.discogs.com/Ty-Segall-Freedoms-Goblin/master/1302938"
+    },
+    "embed_uri": "spotify:track:5kczO6LA5FGU3iEAxrAhN5",
+    "description": "Let Ty melt your face off in every octave.",
+    "time": 1573797600000
+  },
+  {
+    "artist": "Karacho Tayye",
+    "album": "Ethiopiques, Vol. 12: Konso Music and Songs",
+    "track": "Tansa",
+    "links": {
+      "apple": "https://music.apple.com/us/album/%C3%A9thiopiques-vol-12-konso-music-and-songs/78942191",
+      "spotify": "https://open.spotify.com/album/4LcV90c6mLh0Qo41FTIOjC",
+      "discogs": "https://www.discogs.com/Various-%C3%89thiopiques-12-Konso-Music-And-Songs-Kirba-Afaa-Xonso/release/1250749"
+    },
+    "embed_uri": "spotify:track:6P0l3FwP1iTL58N8zgpEj9",
+    "description": "This stringed instrument is called a Kissar. I can’t find any information on Karacho Tayye, but this song is beautiful.",
+    "time": 1573797600000
+  },
+  {
+    "artist": "Tilahun Gessesse",
+    "album": "Ethiopian Contemporary Music (Greatest Hits)",
+    "track": "Yne Filagote",
+    "links": {
+      "apple": "https://music.apple.com/us/album/ethiopian-contemporary-music-greatest-hits/514024806",
+      "spotify": "https://open.spotify.com/album/4h3jakzris3ReI5wfJdzyp"
+    },
+    "embed_uri": "spotify:track:5XSDwaa3MvJr6pDCY5NSC9",
+    "description": "Tilahun Gessesse was known as “The Voice” in 1960s Ethiopia. He was also a humanitarian and received a lifetime achievement award.",
+    "time": 1573797600000
+  },
+  {
+    "artist": "Mary Lou Williams",
+    "album": "Mary Lou Williams",
+    "track": "Praise The Lord",
+    "links": {
+      "apple": "https://music.apple.com/us/album/mary-lou-williams-presents-black-christ-of-the-andes/262208338",
+      "spotify": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy",
+      "discogs": "https://www.discogs.com/Mary-Lou-Williams-Black-Christ-Of-The-Andes/master/108491",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Lou_Williams"
+    },
+    "embed_uri": "spotify:track:3Ck8xIzxTvJqN42l7TsOa1",
+    "description": "When Mary Lou Williams speaks, you listen. She was a prodigy composer and a mentor to some of the biggest names in Jazz.",
+    "time": 1573797600000
+  },
+  {
     "artist": "Mr Twin Sister",
     "album": "Color Your Life",
     "track": "All Around and Away We Go",

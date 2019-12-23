@@ -1,14 +1,14 @@
 [
   {
-    "artist": "Clothilde",
-    "album": "French Swinging Mademoiselle",
-    "track": "Qualcosa che non va",
+    "artist": "IDLES",
+    "album": "Samaritans",
+    "track": "Samaritans",
     "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20clothilde%20french%20swinging%20mademoiselle",
-      "spotify": "https://open.spotify.com/album/2U7tM7X3cIbdRHhS4LutuH",
-      "discogs": "https://www.discogs.com/search/?q=clothilde+french+swinging+mademoiselle&type=master"
+      "apple": "https://www.google.com/search?q=apple%20music%20idles%20samaritans",
+      "spotify": "https://open.spotify.com/album/4DpGLM4juU2NbGnPgDJvGh",
+      "discogs": "https://www.discogs.com/search/?q=idles+samaritans&type=master"
     },
-    "embed_uri": "spotify:track:3cA8D3hDla1oE14P2z0PQQ",
+    "embed_uri": "spotify:track:6PKnPgalrULaxk3MMh715W",
     "description": ""
   },
   {
@@ -45,6 +45,18 @@
       "discogs": "https://www.discogs.com/search/?q=sampa+the+great+the+return&type=master"
     },
     "embed_uri": "spotify:track:6aldtNKtl5yHkKlwXH0nIY",
+    "description": ""
+  },
+  {
+    "artist": "Clothilde",
+    "album": "French Swinging Mademoiselle",
+    "track": "Qualcosa che non va",
+    "links": {
+      "apple": "https://www.google.com/search?q=apple%20music%20clothilde%20french%20swinging%20mademoiselle",
+      "spotify": "https://open.spotify.com/album/2U7tM7X3cIbdRHhS4LutuH",
+      "discogs": "https://www.discogs.com/search/?q=clothilde+french+swinging+mademoiselle&type=master"
+    },
+    "embed_uri": "spotify:track:3cA8D3hDla1oE14P2z0PQQ",
     "description": ""
   },
   {
@@ -129,90 +141,6 @@
       "discogs": "https://www.discogs.com/search/?q=little+beaver+party+down&type=master"
     },
     "embed_uri": "spotify:track:3rZrK0m6FsVwNBS0SFpivX",
-    "description": ""
-  },
-  {
-    "artist": "Ty Segall",
-    "album": "Freedom's Goblin",
-    "track": "Every 1's a Winner",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20ty%20segall%20freedoms%20goblin",
-      "spotify": "https://open.spotify.com/album/3RBS1ViF2Y6kJDDs74Ug5i",
-      "discogs": "https://www.discogs.com/search/?q=ty+segall+freedoms+goblin&type=master"
-    },
-    "embed_uri": "spotify:track:5kczO6LA5FGU3iEAxrAhN5",
-    "description": ""
-  },
-  {
-    "artist": "Karacho Tayye",
-    "album": "Ethiopiques, Vol. 12: Konso Music and Songs",
-    "track": "Tansa",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20karacho%20tayye%20ethiopiques%20vol%2012%20konso%20music%20and%20songs",
-      "spotify": "https://open.spotify.com/album/4LcV90c6mLh0Qo41FTIOjC",
-      "discogs": "https://www.discogs.com/search/?q=karacho+tayye+ethiopiques+vol+12+konso+music+and+songs&type=master"
-    },
-    "embed_uri": "spotify:track:6P0l3FwP1iTL58N8zgpEj9",
-    "description": ""
-  },
-  {
-    "artist": "Tilahun Gessesse",
-    "album": "Ethiopian Contemporary Music (Greatest Hits)",
-    "track": "Yne Filagote",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20tilahun%20gessesse%20ethiopian%20contemporary%20music%20greatest%20hits",
-      "spotify": "https://open.spotify.com/album/4h3jakzris3ReI5wfJdzyp",
-      "discogs": "https://www.discogs.com/search/?q=tilahun+gessesse+ethiopian+contemporary+music+greatest+hits&type=master"
-    },
-    "embed_uri": "spotify:track:5XSDwaa3MvJr6pDCY5NSC9",
-    "description": ""
-  },
-  {
-    "artist": "Mary Lou Williams",
-    "album": "Mary Lou Williams Presents Black Christ of the Andes",
-    "track": "Praise The Lord",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20mary%20lou%20williams%20mary%20lou%20williams%20presents%20black%20christ%20of%20the%20andes",
-      "spotify": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy",
-      "discogs": "https://www.discogs.com/search/?q=mary+lou+williams+mary+lou+williams+presents+black+christ+of+the+andes&type=master"
-    },
-    "embed_uri": "spotify:track:3Ck8xIzxTvJqN42l7TsOa1",
-    "description": ""
-  },
-  {
-    "artist": "IDLES",
-    "album": "Samaritans",
-    "track": "Samaritans",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20idles%20samaritans",
-      "spotify": "https://open.spotify.com/album/4DpGLM4juU2NbGnPgDJvGh",
-      "discogs": "https://www.discogs.com/search/?q=idles+samaritans&type=master"
-    },
-    "embed_uri": "spotify:track:6PKnPgalrULaxk3MMh715W",
-    "description": ""
-  },
-  {
-    "artist": "The Chi-Lites",
-    "album": "I Like Your Lovin' (Do You Like Mine?)",
-    "track": "Are You My Woman? (Tell Me So)",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20the%20chilites%20i%20like%20your%20lovin%20do%20you%20like%20mine",
-      "spotify": "https://open.spotify.com/album/5o7sT7mmB1D5lOJSi6nmvq",
-      "discogs": "https://www.discogs.com/search/?q=the+chilites+i+like+your+lovin+do+you+like+mine&type=master"
-    },
-    "embed_uri": "spotify:track:7B32ckntos5QYbV9o7GF3q",
-    "description": ""
-  },
-  {
-    "artist": "William Onyeabor",
-    "album": "Anything You Sow",
-    "track": "When the Going is Smooth & Good",
-    "links": {
-      "apple": "https://www.google.com/search?q=apple%20music%20william%20onyeabor%20anything%20you%20sow",
-      "spotify": "https://open.spotify.com/album/7hhXs3XnlGTf65404kxQZs",
-      "discogs": "https://www.discogs.com/search/?q=william+onyeabor+anything+you+sow&type=master"
-    },
-    "embed_uri": "spotify:track:13oiVcrRczGhGVbWr38qdq",
     "description": ""
   },
   {
