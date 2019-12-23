@@ -1,5 +1,146 @@
 [
   {
+    "artist": "IDLES",
+    "album": "Joy As An Act Of Resistance",
+    "track": "Samaritans",
+    "links": {
+      "apple": "https://music.apple.com/us/album/joy-as-an-act-of-resistance/1392354930",
+      "spotify": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt",
+      "discogs": "https://www.discogs.com/Idles-Joy-As-An-Act-Of-Resistance/master/1414653"
+    },
+    "embed_uri": "spotify:track:6PKnPgalrULaxk3MMh715W",
+    "description": "IDLES is doing everything right. Fuck the patriarchy. Love each other.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Sampa the Great, Mwanje, Theresa Mutale Tembo, Sunburnt Soul Choir",
+    "album": "The Return",
+    "track": "Mwana",
+    "links": {
+      "apple": "https://music.apple.com/us/album/the-return/1469356075",
+      "spotify": "https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB",
+      "discogs": "https://www.discogs.com/Sampa-The-Great-The-Return/master/1605872"
+    },
+    "embed_uri": "spotify:track:6aldtNKtl5yHkKlwXH0nIY",
+    "description": "This record is one of my favorites from 2019. The musical detail on this recording is stellar.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Makaya McCraven",
+    "album": "Universal Beings",
+    "track": "Young Genius (feat. Brandee Younger, Tomeka Reid, Dezron Douglas, Joel Ross)",
+    "links": {
+      "apple": "https://music.apple.com/us/album/universal-beings/1410969638",
+      "spotify": "https://open.spotify.com/album/07t71VgFZkSmrSYdUKmuHI",
+      "discogs": "https://www.discogs.com/Makaya-McCraven-Universal-Beings/master/1444351"
+    },
+    "embed_uri": "spotify:track:2qvkn92sCZhWZJhn3XBHw0",
+    "description": "I want to know anything as well as Makaya McCraven knows rhythm and beat making. International Anthem Recording Co. is directing me to new horizons in music appreciation and Makaya is one of them.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Clothilde",
+    "album": "French Swinging Mademoiselle",
+    "track": "Qualcosa che non va",
+    "links": {
+      "apple": "https://music.apple.com/cr/album/french-swinging-mademoiselle/1394150204",
+      "spotify": "https://open.spotify.com/album/2U7tM7X3cIbdRHhS4LutuH",
+      "discogs": "https://www.discogs.com/Clothilde-Clothilde/master/521502"
+    },
+    "embed_uri": "spotify:track:3cA8D3hDla1oE14P2z0PQQ",
+    "description": "Yé-yé singer Clothilde was only active for part of 1967. She is French but I think this song is in  Italian?",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Tierra Whack",
+    "album": "Wasteland",
+    "track": "Wasteland",
+    "links": {
+      "apple": "https://music.apple.com/us/album/wasteland-single/1454947682",
+      "spotify": "https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc"
+    },
+    "embed_uri": "spotify:track:3yhlH8lhTpS03d91kuwjpf",
+    "description": "This single was a part of #whackhistorymonth and the reason I am regretting being a few years late to Tierra Whack.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Dee Edwards",
+    "album": "Why Can't There Be Love",
+    "track": "Why Can't There Be Love",
+    "links": {
+      "apple": "https://music.apple.com/tt/album/gilles-peterson-digs-america-vol-2/1436375223",
+      "spotify": "https://open.spotify.com/album/1Sps9VHXt026pQSCSmy75C",
+      "discogs": "https://www.discogs.com/Dee-Edwards-Why-Cant-There-Be-Love-Hurt-A-Little-Everyday/master/367617"
+    },
+    "embed_uri": "spotify:track:0zFsJZqDLe1xLHQ6EUfuXq",
+    "description": "You know the birds do it / and the bees do it / I wanna know / why can't there be love",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Bobby Wright",
+    "album": "Blood of an American",
+    "track": "Blood Of An American",
+    "links": {
+      "apple": "https://music.apple.com/us/album/blood-of-an-american-single/1352098574",
+      "spotify": "https://open.spotify.com/album/0VZbiCjv8AexX71RiWYKOI",
+      "discogs": "https://www.discogs.com/Bobby-Wright-Blood-Of-An-American/master/1326451"
+    },
+    "embed_uri": "spotify:track:5mzg92y6Twcay0OUlRLuRK",
+    "description": "Bobby Wright, now Abu Talib, recorded this gorgeous track in 1974 with his bassist after one of their band members was killed in Vietnam and another went into the service.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Damon Locks, Black Monument Ensemble",
+    "album": "Where Future Unfolds",
+    "track": "Power",
+    "links": {
+      "apple": "https://music.apple.com/us/album/where-future-unfolds/1459184271",
+      "spotify": "https://open.spotify.com/album/3S3mJhBVUi33t8dERzUYip",
+      "discogs": "https://www.discogs.com/Damon-Locks-Black-Monument-Ensemble-Where-Future-Unfolds/master/1570122",
+      "youtube": "https://www.youtube.com/watch?v=aXETjyrX8P8"
+    },
+    "embed_uri": "spotify:track:6lXUy7RGmdJg4n3YFpIOhi",
+    "description": "Chicago artist Damon Locks, accompanied by an ensemble of dancers and musicians, put together this meditative performance, released by International Anthem Recording Co. Where the Future Unfolds is a “reminder of the power of art to combat oppression.”",
+    "time": 1577134595177
+  },
+  {
+    "artist": "2 Of Clubs",
+    "album": "Spotlight On Fraternity Records",
+    "track": "Walk Tall (Like A Man)",
+    "links": {
+      "spotify": "https://open.spotify.com/album/4Eq2vcciXqygQ4dQb7Haf7",
+      "discogs": "https://www.discogs.com/Lonnie-Mack-Albert-Washington-The-Charmaines-2-Of-Clubs-Spotlight-On-Fraternity/release/13544899"
+    },
+    "embed_uri": "spotify:track:27JuahbVzPdLctRmgBkTc5",
+    "description": "Cincinatti's Linda Parrish and Patti Valentine released this single late 1966. It is begging to be sampled.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Berhana",
+    "album": "HAN",
+    "track": "California",
+    "links": {
+      "apple": "https://music.apple.com/us/album/han/1480448635",
+      "spotify": "https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh",
+      "discogs": "https://www.discogs.com/Berhana-HAN/release/14421499"
+    },
+    "embed_uri": "spotify:track:4lXbVIprNR0de0Rjjzj9Am",
+    "description": "HAN quickly became one of my favorite albums of 2019. I am excited to see what comes next from Berhana.",
+    "time": 1577134595177
+  },
+  {
+    "artist": "Ka",
+    "album": "The Superfly Single",
+    "track": "30 Keys",
+    "links": {
+      "apple": "https://music.apple.com/us/album/the-superfly-single-single/1071382974",
+      "spotify": "https://open.spotify.com/album/1BDrrvlfjHWALFtzt7o2AF"
+    },
+    "embed_uri": "spotify:track:0gr5C38AzvE8rygQ8GVALw",
+    "description": "This track is so beautifully transparent that the only thing I will add here is that Ka is also an FDNY fire captain.",
+    "time": 1577134595177
+  },
+  {
     "artist": "Little Beaver",
     "album": "Party Down",
     "track": "Get into the Party Life",
