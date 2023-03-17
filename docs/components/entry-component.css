@@ -41,6 +41,7 @@
 .entry .embed {
   margin-bottom: 15px;
   background: #222;
+  border-radius: 10px;
 }
 .entry .embed iframe {
   display: block;
@@ -69,6 +70,6 @@
 
 @media (min-width: 990px) {
   .entry .embed iframe {
-    height: 380px;
+    height: 352px;
   }
 }
