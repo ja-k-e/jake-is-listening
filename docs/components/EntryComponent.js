@@ -38,7 +38,7 @@ function entryTemplate() {
   <div class="embed">
     <iframe :src="uriToEmbedUrl(entry.embed_uri)" :key="'iframe-' + entry.embed_uri"
     @load="iframeLoaded = true"
-    width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"
+    width="300" height="352" frameborder="0" allowtransparency="true" allow="encrypted-media"
     ></iframe>
   </div>
 
